@@ -14,11 +14,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Studio
+title: //
+name: "Indra Perkasa"
 logo: "/assets/images/gadgadasvara-black.png"
 subtitle: "Portfolio, Blog, and Archives"
 description: "Portfolio of Indra Perkasa at Gadgadasvara Studio."
-github_username: indraperkasa
 minimal_mistakes_skin: dirt
 search: true
 
