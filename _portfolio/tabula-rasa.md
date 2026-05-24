@@ -1,6 +1,6 @@
 ---
 title: "Tabula Rasa (2014)"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "film drama dokumenter Indonesia yang dirilis pada 24 September 2014"
 header:
   image: /assets/images/filmscoring/tabula-rasa-2014.jpg
   teaser: /assets/images/filmscoring/tabula-rasa-2014.jpg
