@@ -13,9 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Gadgadasvara Studio | Indra Perkasa
-description: >- # this means to ignore newlines until "baseurl:"
-  Portfolio of Indra Perkasa at Gadgadasvara Studio.
+
+# title: Gadgadasvara Studio | Indra Perkasa
+logo: "/assets/images/gadgadasvara-black.png"
+description: "Portfolio of Indra Perkasa at Gadgadasvara Studio."
 github_username: indraperkasa
 minimal_mistakes_skin: dirt
 search: true
