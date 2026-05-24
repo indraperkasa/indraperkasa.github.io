@@ -71,6 +71,13 @@ author:
 footer:
   links:
 
+# Collections
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
 defaults:
   # _posts
   - scope:
@@ -106,8 +113,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-collections:
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
