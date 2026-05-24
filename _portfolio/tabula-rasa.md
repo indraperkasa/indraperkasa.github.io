@@ -2,8 +2,8 @@
 title: "Tabula Rasa (2014)"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/filmscoring/tabula-rasa-2014.jpg
+  teaser: assets/images/filmscoring/tabula-rasa-2014.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
