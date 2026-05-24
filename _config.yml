@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Gadgadasvara Studio | Indra Perkasa
+title: Studio
 logo: "/assets/images/gadgadasvara-black.png"
-subtitle: "Portfolio of Indra Perkasa at Gadgadasvara Studio."
+subtitle: "Portfolio, Blog, and Archives"
 description: "Portfolio of Indra Perkasa at Gadgadasvara Studio."
 github_username: indraperkasa
 minimal_mistakes_skin: dirt
@@ -56,7 +56,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  # name   : "Indra Perkasa"
+  name   : "Indra Perkasa"
   avatar : "/assets/images/ip-modular_lo.jpg"
   bio    : "Film Composer/Music Producer"
   links:
@@ -77,9 +77,10 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
-      read_time: true
-      comments: true
+      author_profile: false
+      show_date: true
+      read_time: false
+      comments: false
       share: true
       related: true
   # _pages
