@@ -1,5 +1,5 @@
 ---
-title: "Fizz Bang Identity"
+title: "Homecoming (2019)"
 excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
