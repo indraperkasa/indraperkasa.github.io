@@ -16,6 +16,7 @@
 
 # title: Gadgadasvara Studio | Indra Perkasa
 logo: "/assets/images/gadgadasvara-black.png"
+subtitle: "Portfolio of Indra Perkasa at Gadgadasvara Studio."
 description: "Portfolio of Indra Perkasa at Gadgadasvara Studio."
 github_username: indraperkasa
 minimal_mistakes_skin: dirt
@@ -55,8 +56,8 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Indra Perkasa"
-  avatar : "/assets/images/IMG-2887.JPG"
+  # name   : "Indra Perkasa"
+  avatar : "/assets/images/ip-modular_lo.jpg"
   bio    : "Film Composer/Music Producer"
   links:
     - label: "IMDB"
