@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: //
+title: "Gadgadasvara Studio"
 logo: "/assets/images/gadgadasvara-black.png"
 subtitle: "Portfolio, Blog, and Archives"
 name: &name "Indra Perkasa"
