@@ -13,15 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Indra Perkasa
-email:
+title: Gadgadasvara Studio | Indra Perkasa
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: indraperkasa
+  Portfolio of Indra Perkasa at Gadgadasvara Studio.
 github_username: indraperkasa
-minimal_mistakes_skin: default
+minimal_mistakes_skin: dirt
 search: true
 
 # Build settings
@@ -60,7 +56,7 @@ plugins:
 author:
   name   : "Indra Perkasa"
   avatar : "/assets/images/ip-modular_lo.jpg"
-  bio    : "Film Composer / Music Producer | Gadgadasvara Studio"
+  bio    : "Film Composer / Music Producer"
   links:
     - label: "IMDB"
       icon: "fas fa-fw fa-link"
