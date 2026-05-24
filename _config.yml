@@ -21,6 +21,8 @@ subtitle: "Portfolio, Blog, and Archives"
 description: "Portfolio of Indra Perkasa at Gadgadasvara Studio."
 minimal_mistakes_skin: dirt
 search: true
+layout: single
+toc: true
 
 # Build settings
 markdown: kramdown
