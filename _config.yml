@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Indra Perkasa"
   avatar : "/assets/images/ip-modular_lo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Film Composer / Music Producer | Gadgadasvara Studio"
   links:
     - label: "IMDB"
       icon: "fas fa-fw fa-link"
