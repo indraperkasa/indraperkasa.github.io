@@ -1,6 +1,7 @@
 ---
 title: "Tabula Rasa (2014)"
 excerpt: "film drama dokumenter Indonesia yang dirilis pada 24 September 2014"
+date: 2014-09-24
 header:
   image: /assets/images/filmscoring/tabula-rasa-2014.jpg
   teaser: /assets/images/filmscoring/tabula-rasa-2014.jpg
