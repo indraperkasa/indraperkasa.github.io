@@ -7,6 +7,8 @@ header:
 sidebar:
   - title: "Director"
     text: "Lola Amaria, Shalahuddin Siregar, Tika Pramesti, Harvan Agustriansyah, and Adriyanto Dewo"
+  - title: "Producer"
+    text: "Lola Amaria"
 ---
 
 Lima adalah sebuah film antologi drama Indonesia tahun 2018 yang disutradarai oleh lima sutradara Indonesia di antaranya 
