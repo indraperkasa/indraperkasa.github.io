@@ -1,6 +1,7 @@
 ---
 title: "Homecoming (2019)"
 excerpt: "Mudik (bahasa Inggris: Homecoming) adalah film drama Indonesia tahun 2020 yang ditulis dan disutradarai oleh Adriyanto Dewo."
+date: 2019-12-09
 header:
   image: /assets/images/filmscoring/homecoming-2019.jpg
   teaser: /assets/images/filmscoring/homecoming-2019.jpg
