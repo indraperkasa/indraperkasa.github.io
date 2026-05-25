@@ -1,6 +1,7 @@
 ---
 title: "Banda The Dark Forgotten Trail (2017)"
 excerpt: "sebuah film panjang dokumenter 2017 yang diproduksi oleh Lifelike Pictures."
+date: 2017-08-03
 header:
   image: /assets/images/filmscoring/banda.jpg
   teaser: assets/images/filmscoring/banda.jpg
