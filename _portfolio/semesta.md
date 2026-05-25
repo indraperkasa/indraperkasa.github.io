@@ -1,6 +1,7 @@
 ---
 title: "Semesta (2018)"
 excerpt: "sebuah film dokumenter Indonesia tahun 2018 yang menjadi debut Tanakhir Films"
+date: 2018-12-01
 header:
   image: /assets/images/filmscoring/semesta-2018.jpg
   teaser: assets/images/filmscoring/semesta-2018.jpg
