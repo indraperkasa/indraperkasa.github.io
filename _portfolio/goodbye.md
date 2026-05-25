@@ -1,6 +1,7 @@
 ---
 title: "Goodbye, Farewell (2024)"
 excerpt: "(Indonesian: Sampai Jumpa, Selamat Tinggal) is a romantic drama film directed and written by Adriyanto Dewo"
+date: 2024-10-23
 header:
   image: /assets/images/filmscoring/goodbye-2024.jpg
   teaser: /assets/images/filmscoring/goodbye-2024.jpg
