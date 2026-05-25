@@ -1,6 +1,7 @@
 ---
 title: "Glorious Days (2019)"
 excerpt: "Film ini merupakan adaptasi bebas dari film Korea berjudul Sunny yang beredar pada tahun 2011."
+date: 2019-10-03
 header:
   image: /assets/images/filmscoring/bebas.jpg
   teaser: /assets/images/filmscoring/bebas.jpg
