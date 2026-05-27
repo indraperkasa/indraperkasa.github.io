@@ -6,7 +6,7 @@ date: 2026-03-23
 header:
   overlay_color: "#120"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/werifesteria_banner.jpg
   actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
