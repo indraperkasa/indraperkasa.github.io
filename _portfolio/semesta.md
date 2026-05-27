@@ -7,7 +7,7 @@ header:
   teaser: assets/images/filmscoring/semesta-2018.jpg
 sidebar:
   - title: "Director"
-    text: "	Chairun Nissa"
+    text: "Chairun Nissa"
   - title: "Producer"
     text: "Nicholas Saputra, Mandy Marahimin"
 ---
