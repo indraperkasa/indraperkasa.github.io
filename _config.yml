@@ -101,10 +101,10 @@ defaults:
       author_profile: false
   #_portfolio
   - scope:
-      path: "_portfolio"
+      path: ""
       type: portfolio
     values:
-      layout: single
+      layout: splash
       author_profile: false
       share: false
 
