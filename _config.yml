@@ -29,7 +29,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 
 # Outputting
-layout: home
+layout: splash
 # permalink: /:categories/:title/
 # paginate: 5 
 # paginate_path: /page:num/
