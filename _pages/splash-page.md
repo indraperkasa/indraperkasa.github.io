@@ -7,7 +7,7 @@ header:
   overlay_color: "#120"
   overlay_filter: "0.5"
   overlay_image: /assets/images/werifesteria_banner.jpg
-  actions:
+  # actions:
     - label: "Download"
       url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: Werifesteria"
