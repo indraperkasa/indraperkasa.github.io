@@ -8,6 +8,10 @@ header:
 sidebar:
   - title: "Director"
     text: "Adriyanto Dewo"
+  - title: "Producer"
+    text: "Sheila Timothy"
+  - title: "Production"
+    text: "Lifelike Pictures"
 ---
 
 Tabula Rasa adalah film drama dokumenter Indonesia yang dirilis pada 24 September 2014. Film ini menceritakan sosok Hans, adalah seorang pesepakbola yg gagal meraih impiannya. Tak sengaja bertemu Mak Uwo yg merupakan pemilik dari sebuah Warung Masakan Padang. Dari pertemuan itulah mengubah nasib dan jalan hidup Hans.
