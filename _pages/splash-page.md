@@ -1,10 +1,10 @@
 ---
-title: "Splash Page"
+title: "Film Scoring Works"
 layout: splash
 permalink: /splash-page/
-date: 2016-03-23T11:48:41-04:00
+date: 2026-03-23
 header:
-  overlay_color: "#000"
+  overlay_color: "#120"
   overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
   actions:
