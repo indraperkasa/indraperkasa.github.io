@@ -7,7 +7,7 @@ header:
   overlay_color: "#5e616c"
   overlay_filter: "0.5"
   overlay_image: /assets/images/werifesteria_banner.jpg
-excerpt: > Film Scoring works <br />
+excerpt: "Film Scoring works"
 feature_row:
   - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
     alt: "customizable"
