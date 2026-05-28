@@ -10,9 +10,12 @@ intro:
   - excerpt: 'as main composer'
 feature_row:
   - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
+    image_caption: "(https://www.imdb.com/title/tt3694000/)"
     title: "Tabula Rasa (2014)"
     excerpt: "a film by Adriyanto Dewo"
     url: "https://www.imdb.com/title/tt3694000/"
+    btn_class: "btn--info"
+    btn_label: "Learn More"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"
