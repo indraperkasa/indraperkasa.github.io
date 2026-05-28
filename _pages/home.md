@@ -1,16 +1,17 @@
 ---
 layout: splash
-title: 'Indra Perkasa'
+title: 'Portfolio of Indra Perkasa'
 permalink: /
-hidden: false
 header:
   overlay_color: "#5e616c"
-  overlay_filter: "0.7"
+  overlay_filter: "0.4"
   overlay_image: /assets/images/werifesteria_banner.jpg
-excerpt: "Film Scoring works"
+excerpt: "film scoring, music production, and others"
+intro: 
+  - excerpt: '*Writing a tune is like sculpting. You get four or five notes, you take one out and move one around, and you do a bit more and eventually, as the sculptor says*,
+    `In that rock there is a statue, we have to go find it. - John Williams`'
 feature_row:
   - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
-    alt: "customizable"
     title: "Tabula Rasa (2014)"
     excerpt: "a film by Adriyanto Dewo"
   - image_path: /assets/images/mm-responsive-feature.png
@@ -28,5 +29,7 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"      
 ---
+
+{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
