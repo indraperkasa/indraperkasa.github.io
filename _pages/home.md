@@ -7,7 +7,7 @@ header:
   overlay_image: /assets/images/werifesteria_banner.jpg
 excerpt:
 intro: 
-  - excerpt: '#Film Scoring<br />Composer'
+  - excerpt: '# Film Scoring <br /> Composer'
 feature_row:
   - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
     title: "Tabula Rasa (2014)"
@@ -15,20 +15,18 @@ feature_row:
     url: "https://www.imdb.com/title/tt3694000/"
     btn_class: "btn--info"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-responsive-feature.png
-    alt: "fully responsive"
-    title: "Responsive layouts"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
-    alt: "100% free"
-    title: "100% free"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"      
+  - image_path: /assets/images/filmscoring/lima-2018.jpg
+    title: "Lima (2018)"
+    excerpt: "a film by Lola Amaria, Shalahuddin Siregar, Tika Pramesti, Harvan Agustriansyah, and Adriyanto Dewo"
+    url: "https://id.wikipedia.org/wiki/Lima_(film)"
+    btn_class: "btn--info"
+    btn_label: "Learn More"
+  - image_path: /assets/images/filmscoring/bebas.jpg
+    title: "Bebas (2019)"
+    excerpt: "a film by Riri Riza"
+    url: "https://www.imdb.com/title/tt10656240/"
+    btn_class: "btn--info"
+    btn_label: "Learn More"      
 ---
 
 {% include feature_row id="intro" type="center" %}
