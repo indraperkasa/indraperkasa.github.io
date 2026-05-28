@@ -5,12 +5,12 @@ permalink: /
 header:
   overlay_filter: rgba(107,103,94,0.6)
   overlay_image: /assets/images/werifesteria_banner.jpg
-excerpt: "film scoring, music production, and others"
+excerpt:
 intro: 
-  - excerpt: 'as main composer'
+  - excerpt: '## Film Scoring<br/> #### Main Composer'
 feature_row:
   - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
-    title: "[Tabula Rasa (2014)](https://www.imdb.com/title/tt3694000/)"
+    title: "Tabula Rasa (2014)"
     excerpt: "a film by Adriyanto Dewo"
     url: "https://www.imdb.com/title/tt3694000/"
     btn_class: "btn--info"
