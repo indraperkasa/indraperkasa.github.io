@@ -7,12 +7,12 @@ header:
   overlay_image: /assets/images/werifesteria_banner.jpg
 excerpt: "film scoring, music production, and others"
 intro: 
-  - excerpt: '*Writing a tune is like sculpting. You get four or five notes, you take one out and move one around, and you do a bit more and eventually, as the sculptor says*,
-    `In that rock there is a statue, we have to go find it. - John Williams`'
+  - excerpt: 'as main composer'
 feature_row:
   - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
     title: "Tabula Rasa (2014)"
     excerpt: "a film by Adriyanto Dewo"
+    url: "https://www.imdb.com/title/tt3694000/"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "fully responsive"
     title: "Responsive layouts"
