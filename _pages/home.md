@@ -3,7 +3,7 @@ layout: splash
 title: 'Portfolio of Indra Perkasa'
 permalink: /
 header:
-  overlay_filter: rgba(150,120,0,0.5)
+  overlay_filter: rgba(179,227,193,0.6)
   overlay_image: /assets/images/werifesteria_banner.jpg
 excerpt: "film scoring, music production, and others"
 intro: 
