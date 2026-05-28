@@ -1,21 +1,21 @@
 ---
-title: "Film Scoring Works"
+title: "Music Film"
 layout: splash
 permalink: /splash-page/
 date: 2026-03-23
 header:
-  overlay_color: "#120"
+  overlay_color: "#125"
   overlay_filter: "0.5"
   overlay_image: /assets/images/werifesteria_banner.jpg
   caption: "Photo credit: Werifesteria"
-excerpt: "a filmscoring works of Indra Perkasa at Gadgadasvara Studio"
+excerpt: "filmscoring works of Indra Perkasa at Gadgadasvara Studio"
 intro: 
-  - excerpt: 'music is bla bla bla `type="center"`'
+  - excerpt: "Writing a tune is like sculpting. "You get four or five notes, you take one out and move one around, and you do a bit more and eventually, as the sculptor says,**In that rock there is a statue, we have to go find it**. - John Williams"
 feature_row:
   - image_path: assets/images/filmscoring/tabula-rasa-2014.jpg
     alt: "a film by Adriyanto Dewo"
     title: "Tabula Rasa (2014)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "a film by Adriyanto Dewo"
   - image_path: /assets/images/filmscoring/homecoming-2019.jpg
     alt: "placeholder image 2"
     title: "Mudik (2019)"
