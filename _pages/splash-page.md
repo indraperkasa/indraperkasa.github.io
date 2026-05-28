@@ -10,7 +10,7 @@ header:
 excerpt: "Filmscoring works of Indra Perkasa at Gadgadasvara Studio"
 intro: 
   - excerpt: '*Writing a tune is like sculpting. You get four or five notes, you take one out and move one around, and you do a bit more and eventually, as the sculptor says*,
-    > In that rock there is a statue, we have to go find it. - John Williams'
+    `In that rock there is a statue, we have to go find it.` *- John Williams*'
 feature_row:
   - image_path: assets/images/filmscoring/tabula-rasa-2014.jpg
     alt: "a film by Adriyanto Dewo"
@@ -19,16 +19,16 @@ feature_row:
   - image_path: /assets/images/filmscoring/homecoming-2019.jpg
     alt: "placeholder image 2"
     title: "Mudik (2019)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "a film by Adriyanto Dewo"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/filmscoring/banda.jpg
     title: "Banda The Dark Forgotten Trail (2017)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "a film by Jay Subyakto"
   - image_path: /assets/images/filmscoring/bebas.jpg
     title: "Bebas (2019)"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "a film by Riri Riza"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
