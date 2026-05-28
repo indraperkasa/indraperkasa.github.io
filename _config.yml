@@ -32,7 +32,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 # paginate: 5 
 # paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
@@ -51,6 +51,15 @@ include:
 
 # Plugins (previously gems:)
 plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -115,3 +124,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+# HTML Compression
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
