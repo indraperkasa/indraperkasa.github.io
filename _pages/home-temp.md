@@ -80,7 +80,7 @@ filmscore2:
   - image_path: /assets/images/filmscoring/film-add/matabatin2-2019.jpg
     title: "Mata Batin 2 (2019)"
     url: "https://www.imdb.com/title/tt8890582/"
-  - image_path: /assets/images/filmscoring/film-add/12-menit-2014.jpg
+  - image_path: /assets/images/filmscoring/film-add/12menit-2014.jpg
     title: "12 Menit Untuk Selamanya (2014)"
     url: "https://www.imdb.com/title/tt3168514/"
   - image_path: /assets/images/filmscoring/film-add/garuda-2009.jpg
