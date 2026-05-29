@@ -1,11 +1,13 @@
 ---
 permalink: /about/
 title: "About"
+header:
+  image: /assets/images/ip-modular_lo.jpg
 author_profile: false
 ---
 
 # INDRA PERKASA
-![ip-modular_lo]({{ site.url }}{{ site.baseurl }}/assets/images/ip-modular_lo.jpg)
+
 Indra Perkasa has started his musical journey since middle school at the age of 12, when he joined the Mandarava Corps Marching Band as a baritone horn player and he has never left music since then. 
 
 He started his music studies at Institut Musik Daya Indonesia (IMDI) in 2001 and graduated in 2006 majoring in double bass. Having found his roots in jazz music, he has been the bass player of Tomorrow People Bass Ensemble since its founding in 2005. 
