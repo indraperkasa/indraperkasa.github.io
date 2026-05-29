@@ -2,6 +2,7 @@
 permalink: /about/
 title: "About"
 author_profile: false
+classes: wide
 ---
 ![ip-modular_lo]({{ site.url }}{{ site.baseurl }}/assets/images/ip-modular_lo.jpg)
 
