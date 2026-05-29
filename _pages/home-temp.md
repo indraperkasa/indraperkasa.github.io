@@ -110,30 +110,34 @@ songs:
     title: "Aransemen Ulang Lagu Orisinil Dari Film - Tiga Dara"
     url: "https://open.spotify.com/album/3PU8GeQgJoYBBjhFbo3lFG"
 ---
-# Film Scoring
-## Composer
+# Scoring
+## Film/TV Series
+### Composer
 {: .text-right}
 {% include gallery id="filmscore1" %}
 
-## Additional Music / Co-Composer
+### Additional Music / Co-Composer
 {: .text-right}
 {% include gallery id="filmscore2" %}
 
-# Production
-## Songs and Albums
-{: .text-right}
-songs and albums that i helped produced, arranged, mixed.
-{% include gallery id="songs" %}
+## Commercials
+Nivea, Telkomsel, Fagetti, Miele, BXSea, 
 
-## Stage
+## Stages
 {: .text-right}
-theater, drama-musical, and performing-art
+theater, drama-musical, and performing-art. {: .text-right}
 
 ### Musical
 My Little Pony - Rainbow Rocks Musical (2016)
 Laksamana Malahayati (2023)
 
-### Concert
+# Music Production
+## Songs and Albums
+{: .text-right}
+songs and albums that i helped produced, arranged, mixed. {: .text-right}
+{% include gallery id="songs" %}
+
+## Concert
 Konser Pada Waktu
 Konser Merona (2026)
 Konser Tumbuh dan Menjadi (2026)
