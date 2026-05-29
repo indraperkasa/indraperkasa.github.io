@@ -115,13 +115,13 @@ songs:
 ## Film/TV Series
 {: .text-right}
 ### Composer
-{: .text-right}
+{: .text-left}
 {% include gallery id="filmscore1" %}
 
 ---
 
 ### Additional Music / Co-Composer
-{: .text-right}
+{: .text-left}
 {% include gallery id="filmscore2" %}
 
 ---
@@ -138,20 +138,20 @@ songs and albums that i helped produced, arranged, mixed.
 
 ## Concerts
 {: .text-right}
-Konser Pada Waktu
-Konser Merona (2026)
-Konser Tumbuh dan Menjadi (2026)
+Konser Pada Waktu </br>
+Konser Merona (2026) </br>
+Konser Tumbuh dan Menjadi (2026) </br>
 
 ## Stages
 {: .text-right}
 theater, drama-musical, and performing-art.
 
 ### Theater
-{: .text-right}
+{: .text-left}
 Laksamana Malahayati (2023)
 
 ### Musical
-{: .text-right}
-My Little Pony - Rainbow Rocks Musical (2016)
-Layonsari
-Onrop
+{: .text-left}
+My Little Pony - Rainbow Rocks Musical (2016) </br>
+Layonsari </br>
+Onrop </br>
