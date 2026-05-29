@@ -3,9 +3,8 @@ layout: splash
 title: 'Portfolio of Indra Perkasa'
 permalink: /
 header:
-  overlay_filter: rgba(107,103,94,0.6)
-  overlay_image: /assets/images/werifesteria_banner.jpg
-excerpt:
+  overlay_color: "#333"
+excerpt: 'music works on film, tv series, theatre, concert, songs and albums.'
 
 intro: 
   - excerpt:
