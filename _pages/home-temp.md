@@ -142,9 +142,9 @@ songs and albums that i helped produced, arranged, mixed.
 
 ## Concerts
 {: .text-right}
-Konser Pada Waktu </br>
-Konser Merona (2026) </br>
-Konser Tumbuh dan Menjadi (2026) </br>
+Konser Pada Waktu <br/>
+Konser Merona (2026) <br/>
+Konser Tumbuh dan Menjadi (2026)
 
 ---
 
@@ -158,6 +158,6 @@ Laksamana Malahayati (2023)
 
 ### Musical
 {: .text-left}
-My Little Pony - Rainbow Rocks Musical (2016) </br>
-Layonsari </br>
-Onrop </br>
+My Little Pony - Rainbow Rocks Musical (2016),
+Layonsari,
+Onrop
