@@ -73,11 +73,13 @@ filmscore2:
     title: "Sengkolo: Malam Satu Suro (2024)"
     url: "https://www.imdb.com/title/tt29795485/"
   - image_path: /assets/images/filmscoring/film-add/pusaka-2024.jpg
-    title: "Sengkolo: Pusaka (2024)"
+    title: "Pusaka (2024)"
     url: "https://www.imdb.com/title/tt29795484/"
   - image_path: /assets/images/filmscoring/film-add/Argantara-2022.jpg
-    title: "Sengkolo: Argantara (2024)"
-    url: "https://www.imdb.com/title/tt20224156/"
+    title: "Argantara (2024)"
+  - image_path: /assets/images/filmscoring/film-add/kajiman-2023.jpg
+    title: "Kajiman (2023)"
+    url: "https://www.imdb.com/title/tt27526182/"
   - image_path: /assets/images/filmscoring/film-add/gol2.jpg
     title: "Gangs of London - Season 2 (2022)"
     url: "https://www.imdb.com/title/tt7661390/"
@@ -162,8 +164,16 @@ concert:
     title: "Konser Pada Waktu - Monita Tahalea dan Ananda Badudu"
 
 stages:
+  -- image_path: /assets/images/music-prod/stages/mala2.jpg
+    title: "Laksamana Malahayati (2023)"
   - image_path: /assets/images/music-prod/stages/little-pony-musical.jpg
     title: "My Little Pony - Rainbow Rocks (2016)"
+  - image_path: /assets/images/music-prod/stages/onrop.jpg
+    title: "ONROP! Musikal (2010)"
+
+commercial:
+  -- image_path: /assets/images/filmscoring/fashion/sapto-2021.png
+    title: "Sapto Djojokartiko Spring/Summer 2021"
     
 ---
 
@@ -179,7 +189,7 @@ scoring works as the main composer.
 
 ### additional-music / co-composer / orchestrator
 {: .text-left}
-this is how i start in the film scoring industry, by helping other composers. 
+helping and working together with other composers. 
 {% include gallery id="filmscore2" %}
 
 ---
@@ -208,6 +218,7 @@ had been an honored to work as music director for these concerts.
 ## Stages
 {: .text-right}
 theater, drama-musical, and performing-art.
+{% include gallery id="stages" %}
 
 ### Theater
 {: .text-left}
