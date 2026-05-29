@@ -172,8 +172,13 @@ stages:
     title: "ONROP! Musikal (2010)"
 
 commercial:
-  - image_path: /assets/images/filmscoring/fashion/sapto-2021.png
+  - image_path: /assets/images/filmscoring/commercials/sapto-2023.jpg
+    title: "Sapto Djojokartiko Spring/Summer 2023"
+  - image_path: /assets/images/filmscoring/commercials/sapto-2021.jpg
     title: "Sapto Djojokartiko Spring/Summer 2021"
+  - image_path: /assets/images/filmscoring/commercials/sejauh-daur.jpg
+    title: "Sejauh Mata Memandang untuk DFK 2020"
+  
     
 ---
 
@@ -196,7 +201,9 @@ helping and working together with other composers.
 
 ## Commercials
 {: .text-right}
+fashion, product, brand, company, etc.
 Nivea, Telkomsel, Fagetti, Miele, BXSea, 
+{% include gallery id="commercial" %}
 
 ---
 
