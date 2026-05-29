@@ -111,7 +111,7 @@ songs:
     url: "https://open.spotify.com/album/3PU8GeQgJoYBBjhFbo3lFG"
 ---
 
-# Scoring
+# SCORING
 ## Film/TV Series
 {: .text-right}
 ### Composer
@@ -130,23 +130,28 @@ songs:
 {: .text-right}
 Nivea, Telkomsel, Fagetti, Miele, BXSea, 
 
-## Stages
-{: .text-right}
-theater, drama-musical, and performing-art.
-{: .text-right}
-
-### Musical
-My Little Pony - Rainbow Rocks Musical (2016)
-Laksamana Malahayati (2023)
-
-# Music Production
+# MUSIC PRODUCTION
 ## Songs and Albums
 {: .text-right}
 songs and albums that i helped produced, arranged, mixed.
-{: .text-right}
 {% include gallery id="songs" %}
 
-## Concert
+## Concerts
+{: .text-right}
 Konser Pada Waktu
 Konser Merona (2026)
 Konser Tumbuh dan Menjadi (2026)
+
+## Stages
+{: .text-right}
+theater, drama-musical, and performing-art.
+
+### Theater
+{: .text-right}
+Laksamana Malahayati (2023)
+
+### Musical
+{: .text-right}
+My Little Pony - Rainbow Rocks Musical (2016)
+Layonsari
+Onrop
