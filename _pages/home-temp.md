@@ -6,6 +6,7 @@ header:
   overlay_image: /assets/images/lee-wall-banner-flip.jpeg
 toc: true
 toc_sticky: true
+toc_label: content
 categories:
   - portfolio
   - filmscoring
