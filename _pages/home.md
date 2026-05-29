@@ -22,30 +22,30 @@ filmscore:
     title: "Panduan Mempersiapkan Perpisahan (2022)"
     alt: "a film by Adriyanto Dewo"
     url: "https://www.imdb.com/title/tt24517860/"
-  - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
-    title: "Tabula Rasa (2014)"
-    alt: "a film by Adriyanto Dewo"
-    url: "https://www.imdb.com/title/tt3694000/"
-  - image_path: /assets/images/filmscoring/banda.jpg
-    title: "Banda the Dark Forgotten Trail (2017)"
-    alt: "a film by Jay Subyakto"
-    url: "https://www.imdb.com/title/tt7131752/"
   - image_path: /assets/images/filmscoring/homecoming-2019.jpg
     title: "Mudik (2019)"
     alt: "a film by Adriyanto Dewo"
     url: "https://www.imdb.com/title/tt11289634/"
-  - image_path: /assets/images/filmscoring/lima-2018.jpg
-    title: "Lima (2018)"
-    alt: "a film by Lola Amaria, Shalahuddin Siregar, Tika Pramesti, Harvan Agustriansyah, and Adriyanto Dewo"
-    url: "https://www.imdb.com/title/tt8492176/"
-  - image_path: /assets/images/filmscoring/semesta-2018.jpg
-    title: "Semesta (2018)"
-    alt: "a film by Chairun Nissa"
-    url: "https://www.imdb.com/title/tt9096988/"
   - image_path: /assets/images/filmscoring/bebas.jpg
     title: "Bebas (2019)"
     alt: "a film by Riri Riza"
     url: "https://www.imdb.com/title/tt10656240/"
+  - image_path: /assets/images/filmscoring/semesta-2018.jpg
+    title: "Semesta (2018)"
+    alt: "a film by Chairun Nissa"
+    url: "https://www.imdb.com/title/tt9096988/"
+  - image_path: /assets/images/filmscoring/banda.jpg
+    title: "Banda the Dark Forgotten Trail (2017)"
+    alt: "a film by Jay Subyakto"
+    url: "https://www.imdb.com/title/tt7131752/"
+  - image_path: /assets/images/filmscoring/lima-2018.jpg
+    title: "Lima (2018)"
+    alt: "a film by Lola Amaria, Shalahuddin Siregar, Tika Pramesti, Harvan Agustriansyah, and Adriyanto Dewo"
+    url: "https://www.imdb.com/title/tt8492176/"
+  - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
+    title: "Tabula Rasa (2014)"
+    alt: "a film by Adriyanto Dewo"
+    url: "https://www.imdb.com/title/tt3694000/"
            
 ---
 
