@@ -147,7 +147,7 @@ concert:
     
 ---
 
-# SCORING
+# > SCORING
 ## Film/TV Series
 {: .text-right}
 ### Composer
@@ -168,7 +168,7 @@ Nivea, Telkomsel, Fagetti, Miele, BXSea,
 
 ---
 
-# MUSIC PRODUCTION
+# > MUSIC PRODUCTION
 ## Songs and Albums
 {: .text-right}
 songs and albums that i helped produced, arranged, mixed.
