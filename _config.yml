@@ -23,6 +23,7 @@ description: &description "Portfolio of Indra Perkasa at Gadgadasvara Studio."
 url: https://indraperkasa.github.io
 minimal_mistakes_skin: dirt
 search: true
+toc: true
 
 # Build settings
 markdown: kramdown
