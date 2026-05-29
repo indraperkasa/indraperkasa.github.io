@@ -4,7 +4,8 @@ title: 'Portfolio of Indra Perkasa'
 permalink: /
 header:
   overlay_color: "#333"
-excerpt: 'music works on film, tv series, theatre, concert, songs and albums.'
+excerpt: 'music works on screen, theatre, concert, songs & albums.'
+toc: true
 
 intro: 
   - excerpt:
