@@ -90,11 +90,20 @@ filmscore2:
 {: .text-right}
 {% include gallery id="filmscore2" %}
 
-# Theater
+# Production
+## Songs and Albums
+{: .text-right}
+songs and albums that i helped produced, arranged, mixed.
+
+## Stage
+{: .text-right}
+theater, drama-musical, and performing-art
+
+### Musical
 My Little Pony - Rainbow Rocks Musical (2016)
 Laksamana Malahayati (2023)
 
-# Concert
+### Concert
 Konser Pada Waktu
 Konser Merona (2026)
 Konser Tumbuh dan Menjadi (2026)
