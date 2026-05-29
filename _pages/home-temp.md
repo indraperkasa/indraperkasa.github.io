@@ -179,7 +179,7 @@ stages:
   - image_path: /assets/images/music-prod/stages/onrop.jpg
     title: "ONROP! Musikal (2010)"
 
-commercial:
+fashion:
   - image_path: /assets/images/filmscoring/commercials/sapto-2023.jpg
     title: "Sapto Djojokartiko Spring/Summer 2023"
   - image_path: /assets/images/filmscoring/commercials/sapto-2021.jpg
@@ -209,8 +209,13 @@ helping and working together with other composers.
 
 ## Commercials
 {: .text-right}
-fashion, product, brand, company, etc. 
-{% include gallery id="commercial" %}
+### fashion
+composing and producing music for fashion show. it was a very fun experience.
+{% include gallery id="fashion" %}
+
+---
+
+### brand / product
 
 ---
 
