@@ -3,8 +3,10 @@ layout: single
 title : Music Works of IP
 permalink: /home-temp/
 header:
-  image: /assets/images/gadgadasvara-wall-h.jpg
+  image: /assets/images/gadgadasvara-wall-h-banner.jpg
 toc: true
+toc_sticky: true
+author_profile: true
 
 filmscore1:
   - image_path: /assets/images/filmscoring/butterfly-2025.jpg
