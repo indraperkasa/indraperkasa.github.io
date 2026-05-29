@@ -80,6 +80,11 @@ filmscore2:
   - image_path: /assets/images/filmscoring/film-add/matabatin2-2019.jpg
     title: "Mata Batin 2 (2019)"
     url: "https://www.imdb.com/title/tt8890582/"
+
+songs:
+  - image_path: /assets/images/music-prod/bangun-bajingan.jpg
+    title: "Bangun, Bajingan"
+    url: "https://open.spotify.com/album/6tmx8GwnMWIWsFAVNPycC3"
 ---
 # Film Scoring
 ## Composer
@@ -94,6 +99,7 @@ filmscore2:
 ## Songs and Albums
 {: .text-right}
 songs and albums that i helped produced, arranged, mixed.
+{% include gallery id="songs" %}
 
 ## Stage
 {: .text-right}
