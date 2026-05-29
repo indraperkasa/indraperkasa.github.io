@@ -117,8 +117,8 @@ songs:
     url: "https://open.spotify.com/album/3PU8GeQgJoYBBjhFbo3lFG"
 
 concert:
-  - image_path: /assets/images/music-prod/Konser-Merona.jpeg
-    title: "Konser Tumbuh dan Menjadi (2026) - Monita Tahalea"
+  - image_path: /assets/images/music-prod/konser-tumbuh.jpeg
+    title: "Konser Tumbuh dan Menjadi (2026) - Banda Neira"
   - image_path: /assets/images/music-prod/Konser-Merona.jpeg
     title: "Konser Merona (2026) - Monita Tahalea"
   - image_path: /assets/images/music-prod/pada-waktu.jpg
@@ -157,9 +157,8 @@ songs and albums that i helped produced, arranged, mixed.
 
 ## Concerts
 {: .text-right}
-Konser Pada Waktu <br/>
-Konser Merona (2026) <br/>
-Konser Tumbuh dan Menjadi (2026)
+had been an honored to work as music director for these concerts.
+{% include gallery id="concert" %}
 
 ---
 
