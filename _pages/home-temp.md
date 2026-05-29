@@ -11,6 +11,10 @@ categories:
   - filmscoring
 author_profile: true
 
+intro: 
+  - excerpt: '*Writing a tune is like sculpting. You get four or five notes, you take one out and move one around, and you do a bit more and eventually, as the sculptor says*,
+    `In that rock there is a statue, we have to go find it. - John Williams`'
+
 filmscore1:
   - image_path: /assets/images/filmscoring/butterfly-2025.jpg
     title: "The Butterfly House (2025)"
