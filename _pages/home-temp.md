@@ -1,8 +1,9 @@
 ---
 title : Music Works
 permalink: /home-temp/
+tagline: 'screens, stages, songs and albums. 
 header:
-  overlay_image: /assets/images/gadgadasvara-wall-h.jpg
+  overlay_image: /assets/images/gadgadasvara-wall-h-banner.jpg
 toc: true
 toc_sticky: true
 categories:
