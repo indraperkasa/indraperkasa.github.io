@@ -7,8 +7,9 @@ header:
   overlay_image: /assets/images/werifesteria_banner.jpg
 excerpt:
 intro: 
-  - excerpt: 'Film Scoring
-    Composer'
+  - excerpt:
+      '# Film Scoring <br>
+         Composer'
 feature_row:
   - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
     title: "Tabula Rasa (2014)"
