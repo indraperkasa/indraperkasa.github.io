@@ -130,17 +130,23 @@ songs:
 {: .text-right}
 Nivea, Telkomsel, Fagetti, Miele, BXSea, 
 
+---
+
 # MUSIC PRODUCTION
 ## Songs and Albums
 {: .text-right}
 songs and albums that i helped produced, arranged, mixed.
 {% include gallery id="songs" %}
 
+---
+
 ## Concerts
 {: .text-right}
 Konser Pada Waktu </br>
 Konser Merona (2026) </br>
 Konser Tumbuh dan Menjadi (2026) </br>
+
+---
 
 ## Stages
 {: .text-right}
