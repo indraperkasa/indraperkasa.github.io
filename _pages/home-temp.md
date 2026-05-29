@@ -210,12 +210,16 @@ helping and working together with other composers.
 ### fashion
 composing and producing music for fashion show. it was a very fun experience.
 #### Sapto Djojokartiko Spring / Summer 2023
+{: .text-center}
 {% include video id="f_quhxyd6EI" provider="youtube" %}
 #### STELLARISSA for Wynn (2022)
+{: .text-center}
 {% include video id="sZ3Z3AqoVNE" provider="youtube" %}
 #### Sapto Djojokartiko Spring / Summer 2021 Film
+{: .text-center}
 {% include video id="nwz4rvB-AQY" provider="youtube" %}
 #### Sejauh Mata Memandang untuk DFK 2020
+{: .text-center}
 {% include video id="UVwkx09ujf0" provider="youtube" %}
 
 ---
@@ -223,10 +227,13 @@ composing and producing music for fashion show. it was a very fun experience.
 ### brand / product
 composing and producing music for commercial brands and product.
 #### Nicholas Saputra: My Cooking Experience with Miele Generation 7000
+{: .text-center}
 {% include video id="hEARbsZPQ9M" provider="youtube" %}
 #### The Art of Natural Stone by Fagetti
+{: .text-center}
 {% include video id="AhzgAczJCC8" provider="youtube" %}
 #### Telkomsel MenjadiYangTerbaik - Dokter
+{: .text-center}
 {% include video id="76BBh2kItXg" provider="youtube" %}
 
 ---
@@ -241,6 +248,7 @@ songs and albums that i helped produced, arranged, mixed.
 ---
 
 ### Andien - Melodi Monolog: Dan Lalu - 22 Tahun Berkarya (2022)
+{: .text-center}
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
 
 ---
@@ -260,5 +268,6 @@ theater, drama-musical, and performing-art.
 ---
 
 ### Jayaprana & Layonsari + Raja (DKI 1) - 2021
+{: .text-center}
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
