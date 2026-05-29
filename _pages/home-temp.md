@@ -110,22 +110,30 @@ songs:
     title: "Aransemen Ulang Lagu Orisinil Dari Film - Tiga Dara"
     url: "https://open.spotify.com/album/3PU8GeQgJoYBBjhFbo3lFG"
 ---
+
 # Scoring
 ## Film/TV Series
+{: .text-right}
 ### Composer
 {: .text-right}
 {% include gallery id="filmscore1" %}
+
+---
 
 ### Additional Music / Co-Composer
 {: .text-right}
 {% include gallery id="filmscore2" %}
 
+---
+
 ## Commercials
+{: .text-right}
 Nivea, Telkomsel, Fagetti, Miele, BXSea, 
 
 ## Stages
 {: .text-right}
-theater, drama-musical, and performing-art. {: .text-right}
+theater, drama-musical, and performing-art.
+{: .text-right}
 
 ### Musical
 My Little Pony - Rainbow Rocks Musical (2016)
@@ -134,7 +142,8 @@ Laksamana Malahayati (2023)
 # Music Production
 ## Songs and Albums
 {: .text-right}
-songs and albums that i helped produced, arranged, mixed. {: .text-right}
+songs and albums that i helped produced, arranged, mixed.
+{: .text-right}
 {% include gallery id="songs" %}
 
 ## Concert
