@@ -95,3 +95,5 @@ filmscore2:
 
 {% include gallery id="filmscore2" %}
 
+{% include toc %}
+
