@@ -28,7 +28,7 @@ filmscore1:
     title: "Mudik (2019)"
     alt: "a film by Adriyanto Dewo"
     url: "https://www.imdb.com/title/tt11289634/"
-  - image_path: /assets/images/filmscoring/bebas.jpg
+  - image_path: /assets/images/filmscoring/bebas2.jpg
     title: "Bebas (2019)"
     alt: "a film by Riri Riza"
     url: "https://www.imdb.com/title/tt10656240/"
