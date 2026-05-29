@@ -24,6 +24,10 @@ filmscore1:
     title: "Panduan Mempersiapkan Perpisahan (2022)"
     alt: "a film by Adriyanto Dewo"
     url: "https://www.imdb.com/title/tt24517860/"
+  - image_path: /assets/images/filmscoring/dilema-2022.jpg
+    title: "Dilema (2022)"
+    alt: "a series by Rachmania Arunita"
+    url: "https://www.imdb.com/title/tt20873518/"
   - image_path: /assets/images/filmscoring/homecoming-2019.jpg
     title: "Mudik (2019)"
     alt: "a film by Adriyanto Dewo"
@@ -98,6 +102,10 @@ filmscore2:
   - image_path: /assets/images/filmscoring/film-add/minggu-2010.jpg
     title: "Minggu Pagi di Victoria Park (2010)"
     url: "https://www.imdb.com/title/tt1679238/"
+  - image_path: /assets/images/filmscoring/flooding.jpg
+    title: "Banjir Kemarau (2010)"
+    alt: "a film by Sherman Ong"
+    url: "https://www.imdb.com/title/tt3397876/"
   - image_path: /assets/images/filmscoring/film-add/garuda-2009.jpg
     title: "Garuda di Dadaku (2009)"
     url: "https://www.imdb.com/title/tt1445022/"
@@ -107,6 +115,14 @@ filmscore2:
   - image_path: /assets/images/filmscoring/film-add/pemimpi-2009.jpg
     title: "Sang Pemimpi (2009)"
     url: "https://www.imdb.com/title/tt1576459/"
+  - image_path: /assets/images/filmscoring/queen-2009.jpg
+    title: "Queen Bee (2009)"
+    alt: "a film by Fajar Nugros"
+    url: "https://www.imdb.com/title/tt1445097/"
+  - image_path: /assets/images/filmscoring/6-30-2006.jpg
+    title: "6.30 (2006)"
+    alt: "a film by Rinaldy Puspoyo"
+    url: "https://www.imdb.com/title/tt0839716/"
 
 songs:
   - image_path: /assets/images/music-prod/monita-merona.jpg
