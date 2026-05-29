@@ -8,8 +8,8 @@ header:
 excerpt:
 intro: 
   - excerpt:
-      '# Film Scoring <br>
-         Composer'
+      '<h1> Film Scoring </h1> <br>
+       <h2> Composer </h2>'
 feature_row:
   - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
     title: "Tabula Rasa (2014)"
