@@ -44,14 +44,18 @@ filmscore1:
     title: "The Returning (2018)"
     alt: "a film by Witra Asliga"
     url: "https://www.imdb.com/title/tt9096988/"
-  - image_path: /assets/images/filmscoring/banda.jpg
-    title: "Banda the Dark Forgotten Trail (2017)"
-    alt: "a film by Jay Subyakto"
-    url: "https://www.imdb.com/title/tt7131752/"
   - image_path: /assets/images/filmscoring/lima-2018.jpg
     title: "Lima (2018)"
     alt: "a film by Lola Amaria, Shalahuddin Siregar, Tika Pramesti, Harvan Agustriansyah, and Adriyanto Dewo"
     url: "https://www.imdb.com/title/tt8492176/"
+  - image_path: /assets/images/filmscoring/banda.jpg
+    title: "Banda the Dark Forgotten Trail (2017)"
+    alt: "a film by Jay Subyakto"
+    url: "https://www.imdb.com/title/tt7131752/"
+  - image_path: /assets/images/filmscoring/memoria-2016.jpg
+    title: "Memoria (2016)"
+    alt: "a film by Kamila Andini"
+    url: "https://www.mubi.com/en/id/films/memoria-2016/"
   - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
     title: "Tabula Rasa (2014)"
     alt: "a film by Adriyanto Dewo"
