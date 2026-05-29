@@ -11,9 +11,6 @@ categories:
   - filmscoring
 author_profile: true
 
-intro: 
-  - excerpt: '*an archive of my music portfolio.*'
-
 filmscore1:
   - image_path: /assets/images/filmscoring/butterfly-2025.jpg
     title: "The Butterfly House (2025)"
@@ -193,8 +190,8 @@ fashion:
     
 ---
 
-{% include feature_row id="intro" type="center" %}
-
+*an archive of my music portfolio.*
+{: .text-center}
 # > SCORING
 ## Film/TV Series
 {: .text-right}
