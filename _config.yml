@@ -70,7 +70,7 @@ whitelist:
 
 author:
   name   : "Indra Perkasa"
-  avatar : "/assets/images/ip-ascii-transparant-bg.jpg"
+  avatar : "/assets/images/ip-ascii-transparant-bg.png"
   bio    : "Film Composer/Music Producer"
   links:
     - label: "IMDB"
