@@ -1,9 +1,8 @@
 ---
-layout: single
-title : Music Works of Indra Perkasa
+title : Music Works
 permalink: /home-temp/
 header:
-  overlay_image: /assets/images/gadgadasvara-wall-h-banner.jpg
+  overlay_image: /assets/images/gadgadasvara-wall-h.jpg
 toc: true
 toc_sticky: true
 categories:
