@@ -193,7 +193,7 @@ commercial:
 # > SCORING
 ## Film/TV Series
 {: .text-right}
-### Composer
+### composer
 {: .text-left}
 scoring works as the main composer.
 {% include gallery id="filmscore1" %}
@@ -209,8 +209,7 @@ helping and working together with other composers.
 
 ## Commercials
 {: .text-right}
-fashion, product, brand, company, etc.
-Nivea, Telkomsel, Fagetti, Miele, BXSea, 
+fashion, product, brand, company, etc. 
 {% include gallery id="commercial" %}
 
 ---
@@ -234,14 +233,3 @@ had been an honored to work as music director for these concerts.
 {: .text-right}
 theater, drama-musical, and performing-art.
 {% include gallery id="stages" %}
-
-### Theater
-{: .text-left}
-Laksamana Malahayati (2023)
-
-### Musical
-{: .text-left}
-My Little Pony - Rainbow Rocks Musical (2016) <br/>
-Layonsari <br/>
-Slank Musikal <br/>
-Onrop Musikal <br/>
