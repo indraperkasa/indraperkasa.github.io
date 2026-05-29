@@ -3,8 +3,11 @@ permalink: /about/
 title: "About"
 author_profile: true
 ---
+
 ![ip-modular_lo-s]({{ site.url }}{{ site.baseurl }}/assets/images/ip-modular_lo-s.jpg){: .align-center}
+
 ---
+
 **INDRA PERKASA**
 {: .text-right}
 has started his musical journey since middle school at the age of 12, when he joined the Mandarava Corps Marching Band as a baritone horn player and he has never left music since then. 
