@@ -172,7 +172,7 @@ stages:
     title: "ONROP! Musikal (2010)"
 
 commercial:
-  -- image_path: /assets/images/filmscoring/fashion/sapto-2021.png
+  - image_path: /assets/images/filmscoring/fashion/sapto-2021.png
     title: "Sapto Djojokartiko Spring/Summer 2021"
     
 ---
