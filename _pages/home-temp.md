@@ -213,6 +213,8 @@ helping and working together with other composers.
 composing and producing music for fashion show. it was a very fun experience.
 #### Sapto Djojokartiko Spring / Summer 2023
 {% include video id="f_quhxyd6EI&t" provider="youtube" %}
+#### STELLARISSA for Wynn (2022)
+{% include video id="sZ3Z3AqoVNE" provider="youtube" %}
 #### Sapto Djojokartiko Spring / Summer 2021 Film
 {% include video id="nwz4rvB-AQY" provider="youtube" %}
 #### Sejauh Mata Memandang untuk DFK 2020
@@ -235,6 +237,9 @@ composing and producing music for commercial brands and product.
 {: .text-right}
 songs and albums that i helped produced, arranged, mixed.
 {% include gallery id="songs" %}
+
+#### Andien - Melodi Monolog: Dan Lalu - 22 Tahun Berkarya
+{% include video id="NrTJBIFhVk4" provider="youtube" %}
 
 ---
 
