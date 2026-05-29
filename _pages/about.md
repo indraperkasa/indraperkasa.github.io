@@ -3,7 +3,6 @@ layout: splash
 permalink: /about/
 title: "About"
 author_profile: false
-classes: wide
 ---
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ip-modular_lo-s.jpg)
 
