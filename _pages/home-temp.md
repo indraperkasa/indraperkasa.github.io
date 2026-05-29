@@ -212,7 +212,7 @@ helping and working together with other composers.
 ### fashion
 composing and producing music for fashion show. it was a very fun experience.
 #### Sapto Djojokartiko Spring / Summer 2023
-{% include video id="f_quhxyd6EI&t" provider="youtube" %}
+{% include video id="f_quhxyd6EI" provider="youtube" %}
 #### STELLARISSA for Wynn (2022)
 {% include video id="sZ3Z3AqoVNE" provider="youtube" %}
 #### Sapto Djojokartiko Spring / Summer 2021 Film
