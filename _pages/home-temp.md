@@ -1,11 +1,15 @@
 ---
 layout: single
-title : Music Works of IP
+title : Music Works of Indra Perkasa
 permalink: /home-temp/
 header:
-  image: /assets/images/gadgadasvara-wall-h-banner.jpg
+  overlay_image: /assets/images/gadgadasvara-wall-h-banner.jpg
+  overlay_filter: 0.4
 toc: true
 toc_sticky: true
+categories:
+  - portfolio
+  - filmscoring
 author_profile: true
 
 filmscore1:
