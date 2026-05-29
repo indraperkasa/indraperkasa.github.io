@@ -162,8 +162,8 @@ concert:
     title: "Konser Pada Waktu - Monita Tahalea dan Ananda Badudu"
 
 stages:
-  - image_path: /assets/images/music-prod/konser-tumbuh.jpeg
-    title: "Konser Tumbuh dan Menjadi (2026) - Banda Neira"
+  - image_path: /assets/images/music-prod/stages/little-pony-musical.jpg
+    title: "My Little Pony - Rainbow Rocks (2016)"
     
 ---
 
