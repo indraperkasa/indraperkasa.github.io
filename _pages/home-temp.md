@@ -164,7 +164,7 @@ concert:
     title: "Konser Pada Waktu - Monita Tahalea dan Ananda Badudu"
 
 stages:
-  -- image_path: /assets/images/music-prod/stages/mala2.jpg
+  - image_path: /assets/images/music-prod/stages/mala2.jpg
     title: "Laksamana Malahayati (2023)"
   - image_path: /assets/images/music-prod/stages/little-pony-musical.jpg
     title: "My Little Pony - Rainbow Rocks (2016)"
