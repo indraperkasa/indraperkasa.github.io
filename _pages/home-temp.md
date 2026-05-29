@@ -218,7 +218,7 @@ composing and producing music for fashion show. it was a very fun experience.
 #### Sapto Djojokartiko Spring / Summer 2021 Film
 {% include video id="nwz4rvB-AQY" provider="youtube" %}
 #### Sejauh Mata Memandang untuk DFK 2020
-{% include video id="UVwkx09ujf0&t" provider="youtube" %}
+{% include video id="UVwkx09ujf0" provider="youtube" %}
 
 ---
 
@@ -228,7 +228,7 @@ composing and producing music for commercial brands and product.
 {% include video id="hEARbsZPQ9M" provider="youtube" %}
 #### The Art of Natural Stone by Fagetti
 {% include video id="AhzgAczJCC8" provider="youtube" %}
-#### Telkomsel #MenjadiYangTerbaik - Dokter
+#### Telkomsel MenjadiYangTerbaik - Dokter
 {% include video id="76BBh2kItXg" provider="youtube" %}
 ---
 
@@ -237,6 +237,8 @@ composing and producing music for commercial brands and product.
 {: .text-right}
 songs and albums that i helped produced, arranged, mixed.
 {% include gallery id="songs" %}
+
+---
 
 ### Andien - Melodi Monolog: Dan Lalu - 22 Tahun Berkarya (2022)
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
@@ -254,6 +256,8 @@ had been an honored to work as music director for these concerts.
 {: .text-right}
 theater, drama-musical, and performing-art.
 {% include gallery id="stages" %}
+
+---
 
 ### Jayaprana & Layonsari + Raja (DKI 1) - 2021
 {% include video id="mU311AVgJkU" provider="youtube" %}
