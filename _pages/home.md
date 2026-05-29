@@ -22,13 +22,21 @@ filmscore:
     title: "Mudik (2019)"
     alt: "a film by Adriyanto Dewo"
     url: "https://www.imdb.com/title/tt11289634/"
+- image_path: /assets/images/filmscoring/lima-2018.jpg
+    title: "Lima (2018)"
+    alt: "a film by Lola Amaria, Shalahuddin Siregar, Tika Pramesti, Harvan Agustriansyah, and Adriyanto Dewo"
+    url: "https://www.imdb.com/title/tt8492176/"
+  - image_path: /assets/images/filmscoring/semesta-2018.jpg
+    title: "Semesta (2018)"
+    alt: "a film by Chairun Nissa"
+    url: "https://www.imdb.com/title/tt9096988/"
   - image_path: /assets/images/filmscoring/bebas.jpg
     title: "Bebas (2019)"
     alt: "a film by Riri Riza"
-    url: "https://www.imdb.com/title/tt10656240/"           
+    url: "https://www.imdb.com/title/tt10656240/"          
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery id="filmscore" caption="**Film Scoring** works as main composer" %}
+{% include gallery id="filmscore" %}
 
