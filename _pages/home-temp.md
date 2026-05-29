@@ -88,6 +88,9 @@ songs:
   - image_path: /assets/images/music-prod/bandaneira-tumbuh.jpg
     title: "Tumbuh dan Menjadi - Banda Neira"
     url: "https://open.spotify.com/album/1iIEfFBj0EbKakft7H6G4M"
+  - image_path: /assets/images/music-prod/akhir-kisahmu.jpg
+    title: "Akhir Kisahmu (Original Soundtrack) - Orion 001"
+    url: "https://open.spotify.com/album/6fUomwEVgmVBeI6EYAR1I4"
   - image_path: /assets/images/music-prod/bangun-bajingan.jpg
     title: "Bangun, Bajingan - Ananda Badudu, Rubina, Dave Lumenta"
     url: "https://open.spotify.com/album/6tmx8GwnMWIWsFAVNPycC3"
