@@ -85,10 +85,10 @@ songs:
   - image_path: /assets/images/music-prod/bangun-bajingan.jpg
     title: "Bangun, Bajingan"
     url: "https://open.spotify.com/album/6tmx8GwnMWIWsFAVNPycC3"
-  - image_path: /assets/images/music-prod/bangun-bajingan.jpg
+  - image_path: /assets/images/music-prod/hirup.jpg
     title: "Hiruplah Hidup"
     url: "https://open.spotify.com/track/3pkC5uoScN5dMz0Gr662Xj"
-  - image_path: /assets/images/music-prod/bangun-bajingan.jpg
+  - image_path: /assets/images/music-prod/lantun-mustahil.jpg
     title: "Lantun Mustahil"
     url: "https://open.spotify.com/album/0I5lhh9Wg9Zy1U3bzB96oD"
 ---
