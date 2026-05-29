@@ -112,6 +112,10 @@ filmscore2:
     title: "Banjir Kemarau (2010)"
     alt: "a film by Sherman Ong"
     url: "https://www.imdb.com/title/tt3397876/"
+  - image_path: /assets/images/filmscoring/film-add/bebek-2010.jpg
+    title: "Bebek Belur (2010)"
+    alt: "a film by Adrianto Sinaga"
+    url: "https://www.imdb.com/title/tt1631681/"
   - image_path: /assets/images/filmscoring/film-add/garuda-2009.jpg
     title: "Garuda di Dadaku (2009)"
     url: "https://www.imdb.com/title/tt1445022/"
