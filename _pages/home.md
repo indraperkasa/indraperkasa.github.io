@@ -9,8 +9,7 @@ toc: true
 
 intro: 
   - excerpt:
-      '<h1> Film Scoring </h1> Composer'
-
+      
 filmscore1:
   - image_path: /assets/images/filmscoring/butterfly-2025.jpg
     title: "The Butterfly House (2025)"
@@ -86,6 +85,9 @@ filmscore2:
     url: "https://www.imdb.com/title/tt8890582/"
            
 ---
+<h1> Film Scoring </h1>
+<h2> Composer </h2>
+
 
 {% include feature_row id="intro" type="center" %}
 
