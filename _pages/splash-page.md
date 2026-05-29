@@ -1,7 +1,7 @@
 ---
 title: "Music Film"
 layout: splash
-permalink: /splash-page/
+permalink: /port-splsh/
 date: 2026-03-23
 header:
   overlay_color: "#125"
