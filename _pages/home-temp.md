@@ -211,7 +211,8 @@ helping and working together with other composers.
 {: .text-right}
 ### fashion
 composing and producing music for fashion show. it was a very fun experience.
-{% include gallery id="fashion" %}
+#### Sapto Djojokartiko Spring / Summer 2021 Film
+{% include video id="nwz4rvB-AQY" provider="youtube" %}
 
 ---
 
