@@ -194,6 +194,8 @@ fashion:
     
 ---
 
+{% include feature_row id="intro" type="center" %}
+
 # > SCORING
 ## Film/TV Series
 {: .text-right}
