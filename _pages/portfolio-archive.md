@@ -1,7 +1,7 @@
 ---
 title: Portfolio-Archive
 layout: collection
-permalink: /portfolio/
+permalink: /portfolio-archive/
 collection: portfolio
 entries_layout: grid
 ---
