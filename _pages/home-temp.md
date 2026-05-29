@@ -4,7 +4,6 @@ title : Music Works of Indra Perkasa
 permalink: /home-temp/
 header:
   overlay_image: /assets/images/gadgadasvara-wall-h-banner.jpg
-  overlay_filter: 0.4
 toc: true
 toc_sticky: true
 categories:
