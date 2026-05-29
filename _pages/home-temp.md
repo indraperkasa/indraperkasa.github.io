@@ -104,6 +104,9 @@ filmscore2:
   - image_path: /assets/images/filmscoring/film-add/king-2009.jpg
     title: "King (2009)"
     url: "https://www.imdb.com/title/tt1462546/"
+  - image_path: /assets/images/filmscoring/film-add/pemimpi-2009.jpg
+    title: "Sang Pemimpi (2009)"
+    url: "https://www.imdb.com/title/tt1576459/"
 
 songs:
   - image_path: /assets/images/music-prod/monita-merona.jpg
