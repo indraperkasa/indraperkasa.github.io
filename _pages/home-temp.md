@@ -3,7 +3,7 @@ title : Music Works
 permalink: /home-temp/
 tagline: 'screens, stages, and songs.'
 header:
-  overlay_image: /assets/images/house-h-banner.jpg
+  overlay_image: /assets/images/lee-wall-banner-flip.jpeg
   overlay_filter: 0.3
 toc: true
 toc_sticky: true
