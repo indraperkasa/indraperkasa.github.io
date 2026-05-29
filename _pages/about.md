@@ -5,7 +5,7 @@ title: "About"
 author_profile: false
 classes: wide
 ---
-![ip-modular_lo]({{ site.url }}{{ site.baseurl }}/assets/images/ip-modular_lo-s.jpg)
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ip-modular_lo-s.jpg)
 
 **INDRA PERKASA**
 {: .text-right}
