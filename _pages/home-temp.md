@@ -160,6 +160,10 @@ concert:
     title: "Konser Merona (2026) - Monita Tahalea"
   - image_path: /assets/images/music-prod/pada-waktu.jpg
     title: "Konser Pada Waktu - Monita Tahalea dan Ananda Badudu"
+
+stages:
+  - image_path: /assets/images/music-prod/konser-tumbuh.jpeg
+    title: "Konser Tumbuh dan Menjadi (2026) - Banda Neira"
     
 ---
 
@@ -168,12 +172,14 @@ concert:
 {: .text-right}
 ### Composer
 {: .text-left}
+scoring works as the main composer.
 {% include gallery id="filmscore1" %}
 
 ---
 
 ### additional-music / co-composer / orchestrator
 {: .text-left}
+this is how i start in the film scoring industry, by helping other composers. 
 {% include gallery id="filmscore2" %}
 
 ---
