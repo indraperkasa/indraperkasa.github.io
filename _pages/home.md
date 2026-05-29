@@ -9,7 +9,7 @@ excerpt:
 intro: 
   - excerpt:
       '<h1> Film Scoring </h1> Composer'
-filmscore:
+filmscore1:
   - image_path: /assets/images/filmscoring/butterfly-2025.jpg
     title: "The Butterfly House (2025)"
     alt: "a film by Paul Agusta"
@@ -34,6 +34,10 @@ filmscore:
     title: "Semesta (2018)"
     alt: "a film by Chairun Nissa"
     url: "https://www.imdb.com/title/tt9096988/"
+  - image_path: /assets/images/filmscoring/returning-2018.jpg
+    title: "The Returning (2018)"
+    alt: "a film by Witra Asliga"
+    url: "https://www.imdb.com/title/tt9096988/"
   - image_path: /assets/images/filmscoring/banda.jpg
     title: "Banda the Dark Forgotten Trail (2017)"
     alt: "a film by Jay Subyakto"
@@ -46,10 +50,18 @@ filmscore:
     title: "Tabula Rasa (2014)"
     alt: "a film by Adriyanto Dewo"
     url: "https://www.imdb.com/title/tt3694000/"
+
+additional: 
+  - excerpt:
+      '<h1> Film Scoring </h1> Additional Music / Co-Composer'
            
 ---
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery id="filmscore" %}
+{% include gallery id="filmscore1" %}
+
+{% include feature_row id="additional" type="center" %}
+
+{% include gallery id="filmscore2" %}
 
