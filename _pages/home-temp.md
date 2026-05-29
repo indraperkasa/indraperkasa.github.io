@@ -180,20 +180,14 @@ stages:
     title: "My Little Pony - Rainbow Rocks (2016)"
   - image_path: /assets/images/music-prod/stages/onrop.jpg
     title: "ONROP! Musikal (2010)"
-
-fashion:
-  - image_path: /assets/images/filmscoring/commercials/sapto-2023.jpg
-    title: "Sapto Djojokartiko Spring/Summer 2023"
-  - image_path: /assets/images/filmscoring/commercials/sapto-2021.jpg
-    title: "Sapto Djojokartiko Spring/Summer 2021"
-  - image_path: /assets/images/filmscoring/commercials/sejauh-daur.jpg
-    title: "Sejauh Mata Memandang untuk DFK 2020"
-  
     
 ---
 
 *an archive of my music portfolio.*
 {: .text-center}
+
+---
+
 # > SCORING
 ## Film/TV Series
 {: .text-right}
