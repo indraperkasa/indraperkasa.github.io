@@ -83,9 +83,11 @@ filmscore2:
 ---
 # Film Scoring
 ## Composer
+{: .text-right}
 {% include gallery id="filmscore1" %}
 
 ## Additional Music / Co-Composer
+{: .text-right}
 {% include gallery id="filmscore2" %}
 
 # Theater
