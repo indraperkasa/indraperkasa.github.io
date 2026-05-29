@@ -236,6 +236,7 @@ composing and producing music for commercial brands and product.
 ## Songs and Albums
 {: .text-right}
 songs and albums that i helped produced, arranged, mixed.
+### Discography
 {% include gallery id="songs" %}
 
 ---
