@@ -33,9 +33,30 @@ feature_row:
     excerpt: "a film by Riri Riza"
     url: "https://www.imdb.com/title/tt10656240/"
     btn_class: "btn--info"
-    btn_label: "Learn More"        
+    btn_label: "Learn More"
+
+gallery:
+  - image_path: /assets/images/filmscoring/tabula-rasa-2014.jpg
+    title: "Tabula Rasa (2014)"
+    alt: "a film by Adriyanto Dewo"
+    url: "https://www.imdb.com/title/tt3694000/"
+  - image_path: /assets/images/filmscoring/banda.jpg
+    title: "Banda the Dark Forgotten Trail (2017)"
+    alt: "a film by Jay Subyakto"
+    url: "https://www.imdb.com/title/tt7131752/"
+  - image_path: /assets/images/filmscoring/homecoming-2019.jpg
+    title: "Mudik (2019)"
+    alt: "a film by Adriyanto Dewo"
+    url: "https://www.imdb.com/title/tt11289634/"
+  - image_path: /assets/images/filmscoring/bebas.jpg
+    title: "Bebas (2019)"
+    alt: "a film by Riri Riza"
+    url: "https://www.imdb.com/title/tt10656240/"           
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
+{% include gallery caption="**Film Scoring** works as main composer" %}
+
