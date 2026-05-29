@@ -56,6 +56,10 @@ filmscore1:
     title: "Banda the Dark Forgotten Trail (2017)"
     alt: "a film by Jay Subyakto"
     url: "https://www.imdb.com/title/tt7131752/"
+  - image_path: /assets/images/filmscoring/labuan-2017.jpg
+    title: "Labuan Hati (2017)"
+    alt: "a film by Lola Amaria"
+    url: "https://www.imdb.com/title/tt6786150/"
   - image_path: /assets/images/filmscoring/memoria-2016.jpg
     title: "Memoria (2016)"
     alt: "a film by Kamila Andini"
