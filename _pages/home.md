@@ -6,9 +6,11 @@ header:
   overlay_filter: rgba(107,103,94,0.6)
   overlay_image: /assets/images/werifesteria_banner.jpg
 excerpt:
+
 intro: 
   - excerpt:
       '<h1> Film Scoring </h1> Composer'
+
 filmscore1:
   - image_path: /assets/images/filmscoring/butterfly-2025.jpg
     title: "The Butterfly House (2025)"
@@ -54,6 +56,26 @@ filmscore1:
 additional: 
   - excerpt:
       '<h1> Film Scoring </h1> Additional Music / Co-Composer'
+
+filmscore2:
+  - image_path: /assets/images/filmscoring/film-add/Lafran-2024.jpg
+    title: "Lafran (2024)"
+    url: "https://www.imdb.com/title/tt31250833/"
+  - image_path: /assets/images/filmscoring/film-add/sengkolo-2024.jpg
+    title: "Sengkolo: Malam Satu Suro (2024)"
+    url: "https://www.imdb.com/title/tt29795485/"
+  - image_path: /assets/images/filmscoring/film-add/pusaka-2024.jpg
+    title: "Sengkolo: Pusaka (2024)"
+    url: "https://www.imdb.com/title/tt29795484/"
+  - image_path: /assets/images/filmscoring/film-add/Argantara-2022.jpg
+    title: "Sengkolo: Argantara (2024)"
+    url: "https://www.imdb.com/title/tt20224156/"
+  - image_path: /assets/images/filmscoring/film-add/gol2.jpg
+    title: "Gangs of London - Season 2 (2022)"
+    url: "https://www.imdb.com/title/tt7661390/"
+  - image_path: /assets/images/filmscoring/film-add/matabatin2-2019.jpg
+    title: "Mata Batin 2 (2019)"
+    url: "https://www.imdb.com/title/tt8890582/"
            
 ---
 
