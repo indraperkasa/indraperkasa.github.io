@@ -211,13 +211,23 @@ helping and working together with other composers.
 {: .text-right}
 ### fashion
 composing and producing music for fashion show. it was a very fun experience.
+#### Sapto Djojokartiko Spring / Summer 2023
+{% include video id="f_quhxyd6EI&t" provider="youtube" %}
 #### Sapto Djojokartiko Spring / Summer 2021 Film
 {% include video id="nwz4rvB-AQY" provider="youtube" %}
+#### Sejauh Mata Memandang untuk DFK 2020
+{% include video id="UVwkx09ujf0&t" provider="youtube" %}
 
 ---
 
 ### brand / product
-
+composing and producing music for commercial brands and product.
+#### Nicholas Saputra: My Cooking Experience with Miele Generation 7000
+{% include video id="hEARbsZPQ9M" provider="youtube" %}
+#### The Art of Natural Stone by Fagetti
+{% include video id="AhzgAczJCC8" provider="youtube" %}
+#### Telkomsel #MenjadiYangTerbaik - Dokter
+{% include video id="76BBh2kItXg" provider="youtube" %}
 ---
 
 # > MUSIC PRODUCTION
