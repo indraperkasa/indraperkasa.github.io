@@ -158,6 +158,7 @@ Laksamana Malahayati (2023)
 
 ### Musical
 {: .text-left}
-My Little Pony - Rainbow Rocks Musical (2016),
-Layonsari,
-Onrop
+My Little Pony - Rainbow Rocks Musical (2016) <br/>
+Layonsari <br/>
+Slank Musikal <br/>
+Onrop Musikal <br/>
