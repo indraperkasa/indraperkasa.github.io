@@ -80,12 +80,30 @@ filmscore2:
   - image_path: /assets/images/filmscoring/film-add/matabatin2-2019.jpg
     title: "Mata Batin 2 (2019)"
     url: "https://www.imdb.com/title/tt8890582/"
+  - image_path: /assets/images/filmscoring/film-add/cahaya-2014.jpg
+    title: "Cahaya Dari Timur - Beta Maluku (2014)"
+    url: "https://www.imdb.com/title/tt3813456/"
   - image_path: /assets/images/filmscoring/film-add/12menit-2014.jpg
     title: "12 Menit Untuk Selamanya (2014)"
     url: "https://www.imdb.com/title/tt3168514/"
+  - image_path: /assets/images/filmscoring/film-add/9summers-2013.jpg
+    title: "9 Summers 10 Autumns (2013)"
+    url: "https://www.imdb.com/title/tt2911900/"
+  - image_path: /assets/images/filmscoring/film-add/serdadu-2011.jpeg
+    title: "Serdadu Kumbang (2011)"
+    url: "https://www.imdb.com/title/tt2062636/"
+  - image_path: /assets/images/filmscoring/film-add/tanahbeta-2010.jpg
+    title: "Tanah Air Beta (2010)"
+    url: "https://www.imdb.com/title/tt1672847/"
+  - image_path: /assets/images/filmscoring/film-add/minggu-2010.jpg
+    title: "Minggu Pagi di Victoria Park (2010)"
+    url: "https://www.imdb.com/title/tt1679238/"
   - image_path: /assets/images/filmscoring/film-add/garuda-2009.jpg
     title: "Garuda di Dadaku (2009)"
     url: "https://www.imdb.com/title/tt1445022/"
+  - image_path: /assets/images/filmscoring/film-add/king-2009.jpg
+    title: "King (2009)"
+    url: "https://www.imdb.com/title/tt1462546/"
 
 songs:
   - image_path: /assets/images/music-prod/monita-merona.jpg
