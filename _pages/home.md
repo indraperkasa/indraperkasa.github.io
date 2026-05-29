@@ -32,6 +32,10 @@ filmscore1:
     title: "Bebas (2019)"
     alt: "a film by Riri Riza"
     url: "https://www.imdb.com/title/tt10656240/"
+  - image_path: /assets/images/filmscoring/6-9detik-2019.jpg
+    title: "6,9 detik (2019)"
+    alt: "a film by Lola Amaria and Tika Pramesti"
+    url: "https://www.imdb.com/title/tt10840160/"
   - image_path: /assets/images/filmscoring/semesta-2018.jpg
     title: "Semesta (2018)"
     alt: "a film by Chairun Nissa"
