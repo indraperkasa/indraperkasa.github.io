@@ -82,15 +82,30 @@ filmscore2:
     url: "https://www.imdb.com/title/tt8890582/"
 
 songs:
+  - image_path: /assets/images/music-prod/monita-merona.jpg
+    title: "Merona - Monita Tahalea"
+    url: "https://open.spotify.com/album/1xiA60viK8rSTM6fEk5Wx7"
+  - image_path: /assets/images/music-prod/bandaneira-tumbuh.jpg
+    title: "Tumbuh dan Menjadi - Banda Neira"
+    url: "https://open.spotify.com/album/1iIEfFBj0EbKakft7H6G4M"
   - image_path: /assets/images/music-prod/bangun-bajingan.jpg
-    title: "Bangun, Bajingan"
+    title: "Bangun, Bajingan - Ananda Badudu, Rubina, Dave Lumenta"
     url: "https://open.spotify.com/album/6tmx8GwnMWIWsFAVNPycC3"
+  - image_path: /assets/images/music-prod/angkat-dan-rayakan.jpg
+    title: "Angkat dan Rayakan - Ananda Badudu"
+    url: "https://open.spotify.com/album/2TiNwyczQx0VROnpkO2lXb"
   - image_path: /assets/images/music-prod/hirup.jpg
-    title: "Hiruplah Hidup"
+    title: "Hiruplah Hidup - Ananda Badudu"
     url: "https://open.spotify.com/track/3pkC5uoScN5dMz0Gr662Xj"
   - image_path: /assets/images/music-prod/lantun-mustahil.jpg
-    title: "Lantun Mustahil"
+    title: "Lantun Mustahil - Silampukau"
     url: "https://open.spotify.com/album/0I5lhh9Wg9Zy1U3bzB96oD"
+  - image_path: /assets/images/music-prod/monita-jendela.jpg
+    title: "Dari Balik Jendela - Monita Tahalea"
+    url: "https://open.spotify.com/album/1nKafNUrZbCUjIAZ79VTRJ"
+  - image_path: /assets/images/music-prod/tigadara.jpg
+    title: "Aransemen Ulang Lagu Orisinil Dari Film - Tiga Dara"
+    url: "https://open.spotify.com/album/3PU8GeQgJoYBBjhFbo3lFG"
 ---
 # Film Scoring
 ## Composer
