@@ -89,7 +89,7 @@ filmscore2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include gallery id="filmscore1" %}
+{% include gallery id="filmscore1" layout:"half" %}
 
 {% include feature_row id="additional" type="center" %}
 
