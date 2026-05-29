@@ -115,6 +115,15 @@ songs:
   - image_path: /assets/images/music-prod/tigadara.jpg
     title: "Aransemen Ulang Lagu Orisinil Dari Film - Tiga Dara"
     url: "https://open.spotify.com/album/3PU8GeQgJoYBBjhFbo3lFG"
+
+concert:
+  - image_path: /assets/images/music-prod/Konser-Merona.jpeg
+    title: "Konser Tumbuh dan Menjadi (2026) - Monita Tahalea"
+  - image_path: /assets/images/music-prod/Konser-Merona.jpeg
+    title: "Konser Merona (2026) - Monita Tahalea"
+  - image_path: /assets/images/music-prod/pada-waktu.jpg
+    title: "Konser Pada Waktu - Monita Tahalea dan Ananda Badudu"
+    
 ---
 
 # SCORING
