@@ -73,9 +73,9 @@ author:
   avatar : "/assets/images/IMG-2887.JPG"
   bio    : "Film Composer/Music Producer"
   links:
-    - label: "IMDB"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.imdb.com/name/nm2378176/"
+    - label: "Linktree"
+      icon: "fa-brands fa-linktree"
+      url: "https://linktr.ee/indraperkasa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/indraperkasa"
