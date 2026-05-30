@@ -10,7 +10,7 @@ header:
 toc: true
 toc_sticky: true
 toc_label: 'content'
-toc_icon: 'music'
+toc_icon: 'clapperboard'
 categories:
   - portfolio
 author_profile: true
@@ -189,7 +189,7 @@ stages:
 ---
 
 # > SCORING
-## F i l m / TV Series
+## F i l m / TV Series <i class="fa-solid fa-film"></i>
 {: .text-right}
 ### \composer
 {: .text-left}
