@@ -248,6 +248,7 @@ stages:
 * songs and albums that i helped produced, arranged, mixed.
 
 ### \discography
+#### Monita Tahalea, Banda Neira, Silampukau, Tiga Dara
 {% include gallery id="songs" %}
 
 ---
@@ -268,12 +269,12 @@ stages:
 ## Stages
 {: .text-right}
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
+
 ### Malahayati (2023), My Little Pony (2016), ONROP! (2010)
 {% include gallery id="stages" %}
 
 ---
 
 ### Jayaprana & Layonsari (2021)
-{: .text-center}
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
