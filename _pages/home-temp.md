@@ -10,7 +10,6 @@ toc_label: 'content'
 toc_icon: 'music'
 categories:
   - portfolio
-  - filmscoring
 author_profile: true
 
 filmscore1:
@@ -200,7 +199,7 @@ stages:
 
 ### additional-music / co-composer / orchestrator
 {: .text-left}
-helping and working together with other composers. 
+* helping and working together with other composers. 
 {% include gallery id="filmscore2" %}
 
 ---
@@ -208,10 +207,10 @@ helping and working together with other composers.
 ## Commercials
 {: .text-right}
 ### fashion
-composing and producing music for fashion show. it was a very fun experience.
+* composing and producing music for fashion show. it was a very fun experience.
 #### Sapto Djojokartiko Spring / Summer 2023
 {: .text-center}
-{% include video class="half" id="f_quhxyd6EI" provider="youtube" %}
+{% include video id="f_quhxyd6EI" provider="youtube" %}
 #### STELLARISSA for Wynn (2022)
 {: .text-center}
 {% include video id="sZ3Z3AqoVNE" provider="youtube" %}
@@ -225,14 +224,14 @@ composing and producing music for fashion show. it was a very fun experience.
 ---
 
 ### brand / product
-composing and producing music for commercial brands and product.
-#### Nicholas Saputra: My Cooking Experience with Miele Generation 7000
+* composing and producing music for commercial brands and product.
+#### Nicholas Saputra: My Cooking Experience
 {: .text-center}
 {% include video id="hEARbsZPQ9M" provider="youtube" %}
-#### The Art of Natural Stone by Fagetti
+#### The Art of Natural Stone
 {: .text-center}
 {% include video id="AhzgAczJCC8" provider="youtube" %}
-#### Telkomsel MenjadiYangTerbaik - Dokter
+#### Telkomsel - Dokter
 {: .text-center}
 {% include video id="76BBh2kItXg" provider="youtube" %}
 
@@ -241,13 +240,13 @@ composing and producing music for commercial brands and product.
 # > MUSIC PRODUCTION
 ## Songs and Albums
 {: .text-right}
-songs and albums that i helped produced, arranged, mixed.
+* songs and albums that i helped produced, arranged, mixed.
 ### Discography
 {% include gallery id="songs" %}
 
 ---
 
-### Andien - Melodi Monolog: Dan Lalu - 22 Tahun Berkarya (2022)
+### Andien - Melodi Monolog (2022)
 {: .text-center}
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
 
@@ -255,19 +254,19 @@ songs and albums that i helped produced, arranged, mixed.
 
 ## Concerts
 {: .text-right}
-had been an honored to work as music director for these concerts.
+* had been an honored to work as music director for these concerts.
 {% include gallery id="concert" %}
 
 ---
 
 ## Stages
 {: .text-right}
-theater, drama-musical, and performing-art.
+* composing and arranging music for theater production. occasionally conduct the orchestra too.
 {% include gallery id="stages" %}
 
 ---
 
-### Jayaprana & Layonsari + Raja (DKI 1) - 2021
+### Jayaprana & Layonsari (2021)
 {: .text-center}
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
