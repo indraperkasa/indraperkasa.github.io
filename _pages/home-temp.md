@@ -247,12 +247,12 @@ stages:
 {: .text-right}
 * songs and albums that i helped produced, arranged, mixed.
 
-### \Various Artist
+### \various-artist
 {% include gallery id="songs" %}
 
 ---
 
-### \Andien - Melodi Monolog (2022)
+### \melodi monolog - andien (2022)
 {: .text-left}
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
 
@@ -262,7 +262,7 @@ stages:
 {: .text-right}
 * had been an honored to work as music director for these concerts.
 
-### \Various Artist
+### \various-artist
 {% include gallery id="concert" %}
 
 ---
@@ -271,11 +271,11 @@ stages:
 {: .text-right}
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
 
-### \Theater and Musical
+### \theater-musical
 {% include gallery id="stages" %}
 
 ---
 
-### \Jayaprana & Layonsari (2021)
+### \jayaprana-layonsari (2021)
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
