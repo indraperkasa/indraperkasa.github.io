@@ -5,8 +5,7 @@ excerpt: >
   screens, stages, and songs.<br />
   <small><a>*an archive of my music portfolio.*</a></small>
 header:
-  overlay_image: /assets/images/lee-wall-banner-flip.jpeg
-  overlay_color: "#5e616c"
+  overlay_image: /assets/images/90hp-port-banner-flip.jpeg
 toc: true
 toc_sticky: true
 toc_label: 'content'
