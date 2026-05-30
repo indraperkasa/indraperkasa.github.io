@@ -211,6 +211,7 @@ stages:
 {: .text-right}
 ### fashion
 * composing and producing music for fashion show. it was a very fun experience.
+
 #### Sapto Djojokartiko Spring / Summer 2023
 {: .text-center}
 {% include video id="f_quhxyd6EI" provider="youtube" %}
@@ -228,6 +229,7 @@ stages:
 
 ### brand / product
 * composing and producing music for commercial brands and product.
+
 #### Nicholas Saputra: My Cooking Experience
 {: .text-center}
 {% include video id="hEARbsZPQ9M" provider="youtube" %}
@@ -244,6 +246,7 @@ stages:
 ## Songs and Albums
 {: .text-right}
 * songs and albums that i helped produced, arranged, mixed.
+
 ### Discography
 {% include gallery id="songs" %}
 
