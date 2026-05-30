@@ -210,32 +210,24 @@ stages:
 ### \fashion
 * composing and producing music for fashion show. it was a very fun experience.
 
-#### Sapto Djojokartiko 2023
-{: .text-center}
+Sapto Djojokartiko 2023
 {% include video id="f_quhxyd6EI" provider="youtube" %}
-#### STELLARISSA 2022
-{: .text-center}
+STELLARISSA 2022
 {% include video id="sZ3Z3AqoVNE" provider="youtube" %}
-#### Sapto Djojokartiko 2021
-{: .text-center}
+Sapto Djojokartiko 2021
 {% include video id="nwz4rvB-AQY" provider="youtube" %}
-#### Sejauh Mata Memandang 2020
-{: .text-center}
+Sejauh Mata Memandang 2020
 {% include video id="UVwkx09ujf0" provider="youtube" %}
 
 ---
 
 ### \brands
 * composing and producing music for commercial brands and product.
-
-#### Miele
-{: .text-center}
+Miele
 {% include video id="hEARbsZPQ9M" provider="youtube" %}
-#### Fagetti
-{: .text-center}
+Fagetti
 {% include video id="AhzgAczJCC8" provider="youtube" %}
-#### Telkomsel
-{: .text-center}
+Telkomsel
 {% include video id="76BBh2kItXg" provider="youtube" %}
 
 ---
