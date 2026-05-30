@@ -89,10 +89,10 @@
         </li>
       {% endif %}
 
-      {% if author.xing %}
+      {% if author.bandcamp %}
         <li>
-          <a href="https://www.xing.com/profile/{{ author.xing }}" itemprop="sameAs" rel="nofollow noopener noreferrer me">
-            <i class="fab fa-fw fa-square-xing" aria-hidden="true"></i><span class="label">XING</span>
+          <a href="https://{{ author.bandcamp }}.bandcamp.com/" itemprop="sameAs" target="_blank" rel="nofollow noopener noreferrer me">
+            <i class="fa-brands fa-bandcamp" aria-hidden="true"></i><span class="label">bandcamp</span>
           </a>
         </li>
       {% endif %}
