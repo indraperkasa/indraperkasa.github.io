@@ -265,13 +265,12 @@ stages:
 {: .text-left}
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
 
-various-production
-{: .notice--info}
+#### various-production
 {% include gallery id="stages" %}
 
 ---
 
-jayaprana-layonsari
+**jayaprana-layonsari**
 {: .notice--info}
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
