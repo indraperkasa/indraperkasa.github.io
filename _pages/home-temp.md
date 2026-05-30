@@ -188,8 +188,6 @@ stages:
 ---
 
 # > SCORING
-{: .notice--primary}
-
 ## F i l m / TV Series
 {: .text-right}
 ### \composer
@@ -267,11 +265,13 @@ stages:
 {: .text-left}
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
 
-#### various-production
+various-production
+{: .notice--info}
 {% include gallery id="stages" %}
 
 ---
 
-#### jayaprana-layonsari
+jayaprana-layonsari
+{: .notice--info}
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
