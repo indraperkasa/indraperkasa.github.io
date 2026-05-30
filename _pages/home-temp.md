@@ -6,7 +6,7 @@ excerpt: >
   <small><a>*an archive of my music portfolio.*</a></small>
 header:
   overlay_image: /assets/images/90hp-port-banner-flip.jpeg
-  overlau_filter: 0.5
+  overlay_filter: 0.5
 toc: true
 toc_sticky: true
 toc_label: 'content'
