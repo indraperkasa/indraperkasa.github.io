@@ -90,7 +90,7 @@ filmscore2:
 
 {% include feature_row id="intro" type="center" %}
 
-{% include feature_row id="filmscore1" type="left" %}
+{% include feature_row id="filmscore1" %}
 
 {% include feature_row id="additional" type="center" %}
 
