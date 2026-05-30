@@ -247,13 +247,12 @@ stages:
 {: .text-right}
 * songs and albums that i helped produced, arranged, mixed.
 
-### \discography
-#### Monita Tahalea, Banda Neira, Silampukau, Tiga Dara
+### Various Artist
 {% include gallery id="songs" %}
 
 ---
 
-#### Andien - Melodi Monolog (2022)
+### Andien - Melodi Monolog (2022)
 {: .text-center}
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
 
@@ -262,6 +261,8 @@ stages:
 ## Concerts
 {: .text-right}
 * had been an honored to work as music director for these concerts.
+
+### Various Artist
 {% include gallery id="concert" %}
 
 ---
@@ -270,7 +271,7 @@ stages:
 {: .text-right}
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
 
-### Malahayati (2023), My Little Pony (2016), ONROP! (2010)
+### Theater and Musical
 {% include gallery id="stages" %}
 
 ---
