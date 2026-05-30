@@ -3,8 +3,8 @@ title : Music Works
 permalink: /home-temp/
 excerpt: >
   screens, stages, and songs.<br />
-  <small><a>*an archive of musical journey. an attempt to remember.<br />
-  where we came from, and where we're going.*</a></small>
+  <small><a>*archive of my musical journey. an attempt to remember.<br />
+  where i came from, and where i'm going.*</a></small>
 header:
   overlay_image: /assets/images/lee-wall-banner-flip.jpeg
 toc: true
