@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/lee-wall-banner-flip.jpeg
 toc: true
 toc_sticky: true
-toc_label: 'content'
+toc_label: 'portfolio'
 toc_icon: 'clapperboard'
 categories:
   - portfolio
