@@ -1,7 +1,6 @@
 ---
 title : Music Works
 permalink: /home-temp/
-tagline: 'screens, stages, and songs.'
 excerpt: >
   A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.28.0">Latest release v4.28.0</a></small>
