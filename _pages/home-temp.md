@@ -252,13 +252,13 @@ stages:
 
 ---
 
-#### melodi monolog - andien
+#### andien - melodi monolog
 {: .text-left}
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
 
 ---
 
-### \soundtrack
+#### soundtrack
 * remaco (2026) - 4 songs (TBD)
 * ghost in the cell (2026) - a street got a badge with TPE feat. Bass G
 * selendang merah (?) (2026) - garin's new movie
@@ -271,20 +271,20 @@ stages:
 ### \concerts
 * had been an honored to work as music director for these concerts.
 
-#### \various-artist
+#### various-artist
 {% include gallery id="concert" %}
 
 ---
 
-### Stages
+### \stages
 {: .text-right}
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
 
-#### \various-production
+#### various-production
 {% include gallery id="stages" %}
 
 ---
 
-#### \jayaprana-layonsari
+#### jayaprana-layonsari
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
