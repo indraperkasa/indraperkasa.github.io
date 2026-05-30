@@ -188,7 +188,7 @@ stages:
     
 ---
 
-# > SCORING
+# > <i class="fa-solid fa-music"></i> SCORING
 ## F i l m / TV Series <i class="fa-solid fa-film"></i>
 {: .text-right}
 ### \composer
@@ -205,7 +205,7 @@ stages:
 
 ---
 
-## C o m m e r c i a l s
+## C o m m e r c i a l s <i class="fa-solid fa-arrows-to-eye"></i>
 {: .text-right}
 ### \fashion
 * composing and producing music for fashion show. it was a very fun experience.
@@ -226,8 +226,8 @@ stages:
 
 ---
 
-# > MUSIC PRODUCTION
-## S t u d i o
+# > <i class="fa-solid fa-compact-disc"></i> MUSIC PRODUCTION
+## S t u d i o <i class="fa-solid fa-microphone"></i>
 {: .text-right}
 
 ### \producer-arranger
@@ -251,7 +251,7 @@ stages:
 
 ---
 
-## L i v e
+## L i v e <i class="fa-solid fa-drum"></i>
 {: .text-right}
 
 ### \concerts
