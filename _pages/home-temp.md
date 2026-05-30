@@ -274,8 +274,8 @@ stages:
 * My Little Pony - Rainbow Rocks (2016)
 * ONROP! Musikal (2010)
 
-#### jayaprana & layonsari
 {% include gallery id="stages" %}
+#### jayaprana & layonsari
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
 ---
