@@ -275,6 +275,9 @@ stages:
 * ONROP! Musikal (2010)
 
 {% include gallery id="stages" %}
+
+---
+
 #### jayaprana & layonsari
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
