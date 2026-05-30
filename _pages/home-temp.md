@@ -6,7 +6,6 @@ excerpt: >
   <small><a>*an archive of my musical journey.*</a></small>
 header:
   overlay_image: /assets/images/lee-wall-banner-flip.jpeg
-  overlay_filter: 0.2
 toc: true
 toc_sticky: true
 toc_label: 'content'
@@ -189,6 +188,8 @@ stages:
 ---
 
 # > SCORING
+{: .notice--primary}
+
 ## F i l m / TV Series
 {: .text-right}
 ### \composer
@@ -210,13 +211,9 @@ stages:
 ### \fashion
 * composing and producing music for fashion show. it was a very fun experience.
 
-Sapto Djojokartiko 2023
 {% include video id="f_quhxyd6EI" provider="youtube" %}
-STELLARISSA 2022
 {% include video id="sZ3Z3AqoVNE" provider="youtube" %}
-Sapto Djojokartiko 2021
 {% include video id="nwz4rvB-AQY" provider="youtube" %}
-Sejauh Mata Memandang 2020
 {% include video id="UVwkx09ujf0" provider="youtube" %}
 
 ---
@@ -224,11 +221,8 @@ Sejauh Mata Memandang 2020
 ### \brands
 * composing and producing music for commercial brands and product.
 
-Miele
 {% include video id="hEARbsZPQ9M" provider="youtube" %}
-Fagetti
 {% include video id="AhzgAczJCC8" provider="youtube" %}
-Telkomsel
 {% include video id="76BBh2kItXg" provider="youtube" %}
 
 ---
@@ -270,7 +264,7 @@ Telkomsel
 ---
 
 ### \stages
-{: .text-right}
+{: .text-left}
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
 
 #### various-production
