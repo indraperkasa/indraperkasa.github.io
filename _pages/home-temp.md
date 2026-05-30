@@ -193,7 +193,7 @@ stages:
 {: .text-right}
 ### composer
 {: .text-left}
-scoring works as the main composer.
+* scoring works as the main composer.
 {% include gallery id="filmscore1" %}
 
 ---
@@ -211,7 +211,7 @@ helping and working together with other composers.
 composing and producing music for fashion show. it was a very fun experience.
 #### Sapto Djojokartiko Spring / Summer 2023
 {: .text-center}
-{% include video id="f_quhxyd6EI" provider="youtube" %}
+{% include video class="half" id="f_quhxyd6EI" provider="youtube" %}
 #### STELLARISSA for Wynn (2022)
 {: .text-center}
 {% include video id="sZ3Z3AqoVNE" provider="youtube" %}
