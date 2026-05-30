@@ -205,7 +205,7 @@ stages:
 
 ---
 
-## C o m m e r c i a l s <i class="fa-solid fa-arrows-to-eye"></i>
+## C o m m e r c i a l s <i class="fa-solid fa-bullhorn"></i>
 {: .text-right}
 ### \fashion
 * composing and producing music for fashion show. it was a very fun experience.
@@ -227,7 +227,7 @@ stages:
 ---
 
 # > <i class="fa-solid fa-compact-disc"></i> MUSIC PRODUCTION
-## S t u d i o <i class="fa-solid fa-microphone"></i>
+## S t u d i o <i class="fa-solid fa-microphone-lines"></i>
 {: .text-right}
 
 ### \producer-arranger
