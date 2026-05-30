@@ -13,8 +13,7 @@ intro:
 filmscore1:
   - image_path: /assets/images/filmscoring/butterfly-2025.jpg
     title: "The Butterfly House (2025)"
-    alt: "a film by Paul Agusta"
-    url: "https://www.imdb.com/title/tt33092411/"
+    excerpt: "a film by Paul Agusta"
   - image_path: /assets/images/filmscoring/goodbye-2024.jpg
     title: "Goodbye, Farewell (2024)"
     alt: "a film by Adriyanto Dewo"
