@@ -227,7 +227,7 @@ stages:
 ---
 
 # > MUSIC PRODUCTION
-## Studio Works
+## S t u d i o
 {: .text-right}
 
 ### \producer-arranger
@@ -251,7 +251,7 @@ stages:
 
 ---
 
-## Live Works
+## L i v e
 {: .text-right}
 
 ### \concerts
