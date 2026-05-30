@@ -247,12 +247,12 @@ stages:
 {: .text-right}
 * songs and albums that i helped produced, arranged, mixed.
 
-### Discography
+### \discography
 {% include gallery id="songs" %}
 
 ---
 
-### Andien - Melodi Monolog (2022)
+#### Andien - Melodi Monolog (2022)
 {: .text-center}
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
 
@@ -268,6 +268,7 @@ stages:
 ## Stages
 {: .text-right}
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
+### Malahayati (2023), My Little Pony (2016), ONROP! (2010)
 {% include gallery id="stages" %}
 
 ---
