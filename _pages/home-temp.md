@@ -191,23 +191,23 @@ stages:
 ---
 
 # > SCORING
-## Film/TV Series
+## F i l m / TV Series
 {: .text-right}
-### composer
+### \composer
 {: .text-left}
 * scoring works as the main composer.
 {% include gallery id="filmscore1" %}
 
 ---
 
-### additional-music / co-composer / orchestrator
+### \additional-music / co-composer / orchestrator
 {: .text-left}
 * helping and working together with other composers. 
 {% include gallery id="filmscore2" %}
 
 ---
 
-## Commercials
+## C o m m e r c i a l s
 {: .text-right}
 ### \fashion
 * composing and producing music for fashion show. it was a very fun experience.
