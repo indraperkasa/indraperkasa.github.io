@@ -209,34 +209,34 @@ stages:
 
 ## Commercials
 {: .text-right}
-### fashion
+### \fashion
 * composing and producing music for fashion show. it was a very fun experience.
 
-#### Sapto Djojokartiko Spring / Summer 2023
+#### Sapto Djojokartiko 2023
 {: .text-center}
 {% include video id="f_quhxyd6EI" provider="youtube" %}
-#### STELLARISSA for Wynn (2022)
+#### STELLARISSA 2022
 {: .text-center}
 {% include video id="sZ3Z3AqoVNE" provider="youtube" %}
-#### Sapto Djojokartiko Spring / Summer 2021 Film
+#### Sapto Djojokartiko 2021
 {: .text-center}
 {% include video id="nwz4rvB-AQY" provider="youtube" %}
-#### Sejauh Mata Memandang untuk DFK 2020
+#### Sejauh Mata Memandang 2020
 {: .text-center}
 {% include video id="UVwkx09ujf0" provider="youtube" %}
 
 ---
 
-### brand / product
+### \brands
 * composing and producing music for commercial brands and product.
 
-#### Nicholas Saputra: My Cooking Experience
+#### Miele
 {: .text-center}
 {% include video id="hEARbsZPQ9M" provider="youtube" %}
-#### The Art of Natural Stone
+#### Fagetti
 {: .text-center}
 {% include video id="AhzgAczJCC8" provider="youtube" %}
-#### Telkomsel - Dokter
+#### Telkomsel
 {: .text-center}
 {% include video id="76BBh2kItXg" provider="youtube" %}
 
