@@ -266,12 +266,13 @@ stages:
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
 
 #### various-production
-{% include gallery id="stages" %}
-{% include video id="mU311AVgJkU" provider="youtube" %}
 * Laksamana Malahayati (2023)
 * My Little Pony - Rainbow Rocks (2016)
 * ONROP! Musikal (2010)
-* Layonsari & Jayaprana (2020)
+* Jayaprana & Layonsari (2020)
+
+{% include gallery id="stages" %}
+{% include video id="mU311AVgJkU" provider="youtube" %}
 
 ---
 
