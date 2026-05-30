@@ -252,7 +252,7 @@ stages:
 
 ---
 
-### \melodi monolog - andien (2022)
+### \melodi monolog - andien
 {: .text-left}
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
 
@@ -276,6 +276,6 @@ stages:
 
 ---
 
-### \jayaprana-layonsari (2021)
+### \jayaprana-layonsari
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
