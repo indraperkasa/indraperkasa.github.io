@@ -1,6 +1,6 @@
 ---
 title : Music Works
-permalink: /home-temp/
+permalink: /
 excerpt: >
   screens, stages, and songs.<br />
   <small><a>*archive of my musical journey. an attempt to remember.<br />
