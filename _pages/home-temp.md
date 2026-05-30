@@ -3,10 +3,10 @@ title : Music Works
 permalink: /home-temp/
 excerpt: >
   screens, stages, and songs.<br />
-  <small><a>*an archive of my music portfolio.*</a></small>
+  <small><a>*an archive of my musical journey.*</a></small>
 header:
-  overlay_image: /assets/images/90hp-port-banner-flip.jpeg
-  overlay_filter: 0.5
+  overlay_image: /assets/images/lee-wall-banner-flip.jpeg
+  overlay_filter: 0.3
 toc: true
 toc_sticky: true
 toc_label: 'content'
@@ -253,6 +253,13 @@ stages:
 ### \melodi monolog - andien
 {: .text-left}
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
+
+---
+
+### \soundtrack
+* remaco (2026) - 4 songs (TBD)
+* ghost in the cell (2026) - a street got a badge with TPE feat. Bass G
+* selendang merah (?) (2026) - garin's new movie
 
 ---
 
