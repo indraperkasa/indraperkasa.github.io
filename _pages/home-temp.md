@@ -6,6 +6,7 @@ excerpt: >
   <small><a>*an archive of my music portfolio.*</a></small>
 header:
   overlay_image: /assets/images/lee-wall-banner-flip.jpeg
+  overlay_color: "#5e616c"
 toc: true
 toc_sticky: true
 toc_label: 'content'
@@ -185,11 +186,6 @@ stages:
   - image_path: /assets/images/music-prod/stages/onrop.jpg
     title: "ONROP! Musikal (2010)"
     
----
-
-*an archive of my music portfolio.*
-{: .text-center}
-
 ---
 
 # > SCORING
