@@ -157,6 +157,9 @@ songs:
   - image_path: /assets/images/music-prod/lantun-mustahil.jpg
     title: "Lantun Mustahil - Silampukau"
     url: "https://open.spotify.com/album/0I5lhh9Wg9Zy1U3bzB96oD"
+  - image_path: /assets/images/filmscoring/sayonara-2021.jpg
+    title: "Sayonara - Monita Tahalea"
+    url: "https://www.youtube.com/watch?v=kIN95W84zP0"
   - image_path: /assets/images/music-prod/monita-jendela.jpg
     title: "Dari Balik Jendela - Monita Tahalea"
     url: "https://open.spotify.com/album/1nKafNUrZbCUjIAZ79VTRJ"
