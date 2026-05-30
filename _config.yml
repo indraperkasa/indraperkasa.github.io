@@ -17,7 +17,7 @@
 title: "Gadgadasvara Studio | Indra Perkasa"
 masthead_title: "studio"
 logo: "/assets/images/gadgadasvara-black.png"
-# subtitle: "Portfolio, Blog, and Archives"
+subtitle: "Portfolio, Blog, and Archives"
 name: &name "Indra Perkasa"
 description: &description "Portfolio of Indra Perkasa at Gadgadasvara Studio."
 url: https://indraperkasa.github.io
