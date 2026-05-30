@@ -2,8 +2,8 @@
 title : Music Works
 permalink: /home-temp/
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
-  <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.28.0">Latest release v4.28.0</a></small>
+  screens, stages, and songs.<br />
+  <small><a>*an archive of my music portfolio.*</a></small>
 header:
   overlay_image: /assets/images/lee-wall-banner-flip.jpeg
 toc: true
