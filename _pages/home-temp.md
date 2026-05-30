@@ -267,10 +267,13 @@ stages:
 
 #### various-production
 {% include gallery id="stages" %}
+{% include video id="mU311AVgJkU" provider="youtube" %}
+* Laksamana Malahayati (2023)
+* My Little Pony - Rainbow Rocks (2016)
+* ONROP! Musikal (2010)
+* Layonsari & Jayaprana (2020)
 
 ---
 
-**jayaprana-layonsari**
-{: .notice--info}
-{% include video id="mU311AVgJkU" provider="youtube" %}
+
 
