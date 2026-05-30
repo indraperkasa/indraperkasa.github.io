@@ -241,16 +241,18 @@ stages:
 ---
 
 # > MUSIC PRODUCTION
-## Songs and Albums
+## Studio Works
 {: .text-right}
-* songs and albums that i helped produced, arranged, mixed.
 
-### \various-artist
+### \producer-arranger
+* songs and albums that i produced, arranged, and mixed.
+
+#### various-artist
 {% include gallery id="songs" %}
 
 ---
 
-### \melodi monolog - andien
+#### melodi monolog - andien
 {: .text-left}
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
 
@@ -263,24 +265,26 @@ stages:
 
 ---
 
-## Concerts
+## Live Works
 {: .text-right}
+
+### \concerts
 * had been an honored to work as music director for these concerts.
 
-### \various-artist
+#### \various-artist
 {% include gallery id="concert" %}
 
 ---
 
-## Stages
+### Stages
 {: .text-right}
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
 
-### \theater-musical
+#### \various-production
 {% include gallery id="stages" %}
 
 ---
 
-### \jayaprana-layonsari
+#### \jayaprana-layonsari
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
