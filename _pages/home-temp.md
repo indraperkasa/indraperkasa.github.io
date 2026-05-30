@@ -244,7 +244,7 @@ stages:
 
 ---
 
-#### soundtrack
+#### soundtracks
 * remaco (2026) - 4 songs (TBD)
 * ghost in the cell (2026) - a street got a badge with TPE feat. Bass G
 * selendang merah (?) (2026) - garin's new movie
@@ -258,6 +258,9 @@ stages:
 * had been an honored to work as music director for these concerts.
 
 #### various-artist
+* Konser Tumbuh dan Menjadi - Banda Neira (2026)
+* Konser Merona - Monita Tahalea (2026)
+* Konser Pada Waktu - Ananda Badudu & Monita Tahalea (2023)
 {% include gallery id="concert" %}
 
 ---
@@ -270,8 +273,8 @@ stages:
 * Laksamana Malahayati (2023)
 * My Little Pony - Rainbow Rocks (2016)
 * ONROP! Musikal (2010)
-* Jayaprana & Layonsari (2020)
 
+#### jayaprana & layonsari
 {% include gallery id="stages" %}
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
