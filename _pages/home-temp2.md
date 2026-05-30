@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: 'Portfolio of Indra Perkasa'
-permalink: /
+permalink: /home-temp2/
 header:
   overlay_color: "#333"
 excerpt: 'music works on screen, theatre, concert, songs & albums.'
