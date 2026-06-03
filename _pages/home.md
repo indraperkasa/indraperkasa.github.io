@@ -1,18 +1,25 @@
 ---
-title : Music Works
+title : Music Works <i class="fa-solid fa-guitar"></i>
 permalink: /
 excerpt: >
   screens, stages, and songs.<br />
-  <small><a>*archive of my musical journey. an attempt to remember.<br />
+  <small><a>*archives of my musical journey. an attempt to remember.<br />
   where i came from, and where i'm going.*</a></small>
 header:
-  overlay_image: /assets/images/lee-wall-banner-flip.jpeg
+  overlay_image: /assets/images/banner/lee-wall-banner-flip.jpg
 toc: true
 toc_sticky: true
 toc_label: 'portfolio'
 toc_icon: 'clapperboard'
 categories:
   - portfolio
+tags:
+    - filmscoring
+    - music production
+    - soundtracks
+    - concerts
+    - theater
+    - musical
 author_profile: true
 
 filmscore1:
@@ -129,11 +136,11 @@ filmscore2:
   - image_path: /assets/images/filmscoring/film-add/pemimpi-2009.jpg
     title: "Sang Pemimpi (2009)"
     url: "https://www.imdb.com/title/tt1576459/"
-  - image_path: /assets/images/filmscoring/queen-2009.jpg
+  - image_path: /assets/images/filmscoring/film-add/queen-2009.jpg
     title: "Queen Bee (2009)"
     alt: "a film by Fajar Nugros"
     url: "https://www.imdb.com/title/tt1445097/"
-  - image_path: /assets/images/filmscoring/6-30-2006.jpg
+  - image_path: /assets/images/filmscoring/film-add/6-30-2006.jpg
     title: "6.30 (2006)"
     alt: "a film by Rinaldy Puspoyo"
     url: "https://www.imdb.com/title/tt0839716/"
@@ -148,9 +155,6 @@ songs:
   - image_path: /assets/images/music-prod/akhir-kisahmu.jpg
     title: "Akhir Kisahmu (Original Soundtrack) - Orion 001"
     url: "https://open.spotify.com/album/6fUomwEVgmVBeI6EYAR1I4"
-  - image_path: /assets/images/music-prod/bangun-bajingan.jpg
-    title: "Bangun, Bajingan - Ananda Badudu, Rubina, Dave Lumenta"
-    url: "https://open.spotify.com/album/6tmx8GwnMWIWsFAVNPycC3"
   - image_path: /assets/images/music-prod/angkat-dan-rayakan.jpg
     title: "Angkat dan Rayakan - Ananda Badudu"
     url: "https://open.spotify.com/album/2TiNwyczQx0VROnpkO2lXb"
@@ -170,6 +174,31 @@ songs:
     title: "Aransemen Ulang Lagu Orisinil Dari Film - Tiga Dara"
     url: "https://open.spotify.com/album/3PU8GeQgJoYBBjhFbo3lFG"
 
+ost:
+  - image_path: /assets/images/music-prod/ost/ghost-ost.jpg
+    title: "Ghost in the Cell (2026) - Tomorrow People Ensemble feat. Bass G"
+    excerpt: "a film by Joko Anwar"
+    url: "https://open.spotify.com/track/5jdHIll0RE3Fj2XEdKZaCV?si=c4e675385e934e05"
+  - image_path: /assets/images/music-prod/ost/goodbye-ost.jpg
+    title: "Sampai Jumpa, Selamat Tinggal (2024)"
+    excerpt: "a film by Adriyanto Dewo"
+    url: "https://open.spotify.com/album/4237QaLTdCxq7btHfEleQs?si=IN1HklBmScGd1v7fF_rnIA"
+  - image_path: /assets/images/music-prod/ost/bajingan-ost.jpg
+    title: "Bangun, Bajingan - Ananda Badudu, Rubina, Dave Lumenta"
+    url: "https://open.spotify.com/album/6tmx8GwnMWIWsFAVNPycC3"
+  - image_path: /assets/images/music-prod/ost/banda-ost.jpg
+    title: "Banda the Dark Forgotten Trail (2017)"
+    excerpt: "a film by Jay Subyakto"
+    url: "https://open.spotify.com/album/0KPk9LAjItko4y8LGp5HXz?si=CNuemsfOR1aLdnw0QyzHpg"
+  - image_path: /assets/images/music-prod/ost/labuan-ost.jpg
+    title: "Labuan Hati (2017)"
+    excerpt: "a film by Lola Amaria"
+    url: "https://open.spotify.com/album/17E5j9dTnh3q3IlOh6yTnf?si=bbT-m0ktSjWzTEEXi0l8Ig"
+  - image_path: /assets/images/music-prod/ost/tabula-ost.jpg
+    title: "Tabula Rasa (2014)"
+    excerpt: "a film by Adriyanto Dewo"
+    url: "https://open.spotify.com/album/73jIeSotZtuuNr3DepiosO?si=OhMASsilQEOtbTNlaXDUvA"
+
 concert:
   - image_path: /assets/images/music-prod/konser-tumbuh.jpeg
     title: "Konser Tumbuh dan Menjadi (2026) - Banda Neira"
@@ -183,12 +212,13 @@ stages:
     title: "Laksamana Malahayati (2023)"
   - image_path: /assets/images/music-prod/stages/little-pony-musical.jpg
     title: "My Little Pony - Rainbow Rocks (2016)"
+    url: "https://www.cosmopolitan.co.id/article/read/11/2016/10973/my-little-pony-musical-pertama-di-dunia-kini-di-jakarta"
   - image_path: /assets/images/music-prod/stages/onrop.jpg
     title: "ONROP! Musikal (2010)"
-    
+
 ---
 
-# > <i class="fa-solid fa-music"></i> SCORING
+# <i class="fa-solid fa-compact-disc"></i> SCORING
 ## F i l m / TV Series <i class="fa-solid fa-film"></i>
 {: .text-right}
 ### \composer
@@ -200,7 +230,7 @@ stages:
 
 ### \additional-music / co-composer / orchestrator
 {: .text-left}
-* helping and working together with other composers. 
+* helping and working together with other composers.
 {% include gallery id="filmscore2" %}
 
 ---
@@ -226,7 +256,7 @@ stages:
 
 ---
 
-# > <i class="fa-solid fa-compact-disc"></i> MUSIC PRODUCTION
+# <i class="fa-solid fa-compact-disc"></i> MUSIC PRODUCTION
 ## S t u d i o <i class="fa-solid fa-microphone-lines"></i>
 {: .text-right}
 
@@ -238,15 +268,15 @@ stages:
 
 ---
 
-#### andien - melodi monolog
-{: .text-left}
 {% include video id="NrTJBIFhVk4" provider="youtube" %}
 
 ---
 
 #### soundtracks
+{% include gallery id="ost" %}
+
+**coming soon!**
 * remaco (2026) - 4 songs (TBD)
-* ghost in the cell (2026) - a street got a badge with TPE feat. Bass G
 * selendang merah (?) (2026) - garin's new movie
 
 ---
@@ -258,10 +288,11 @@ stages:
 * had been an honored to work as music director for these concerts.
 
 #### various-artist
+{% include gallery id="concert" %}
+
 * Konser Tumbuh dan Menjadi - Banda Neira (2026)
 * Konser Merona - Monita Tahalea (2026)
 * Konser Pada Waktu - Ananda Badudu & Monita Tahalea (2023)
-{% include gallery id="concert" %}
 
 ---
 
@@ -270,18 +301,14 @@ stages:
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
 
 #### various-production
+{% include gallery id="stages" %}
+
 * Laksamana Malahayati (2023)
 * My Little Pony - Rainbow Rocks (2016)
 * ONROP! Musikal (2010)
 
-{% include gallery id="stages" %}
-
 ---
 
-#### jayaprana & layonsari
 {% include video id="mU311AVgJkU" provider="youtube" %}
 
 ---
-
-
-

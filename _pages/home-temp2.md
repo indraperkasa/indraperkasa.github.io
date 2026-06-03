@@ -5,11 +5,10 @@ permalink: /home-temp2/
 header:
   overlay_color: "#333"
 excerpt: 'music works on screen, theatre, concert, songs & albums.'
-toc: true
-
-intro: 
+toc: false
+intro:
   - excerpt:
-      
+
 filmscore1:
   - image_path: /assets/images/filmscoring/butterfly-2025.jpg
     title: "The Butterfly House (2025)"
@@ -59,7 +58,7 @@ filmscore1:
     alt: "a film by Adriyanto Dewo"
     url: "https://www.imdb.com/title/tt3694000/"
 
-additional: 
+additional:
   - excerpt:
       '<h1> Film Scoring </h1> Additional Music / Co-Composer'
 
@@ -82,7 +81,7 @@ filmscore2:
   - image_path: /assets/images/filmscoring/film-add/matabatin2-2019.jpg
     title: "Mata Batin 2 (2019)"
     url: "https://www.imdb.com/title/tt8890582/"
-           
+
 ---
 <h1> Film Scoring </h1>
 <h2> Composer </h2>
@@ -97,4 +96,3 @@ filmscore2:
 {% include gallery id="filmscore2" %}
 
 {% include toc %}
-

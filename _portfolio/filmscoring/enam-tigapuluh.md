@@ -3,8 +3,8 @@ title: "6:30 (2006)"
 excerpt: "Dalam film ini banyak diceritakan mengenai persahabatan dan cinta."
 date: 2006-11-09
 header:
-  image: /assets/images/filmscoring/6-30-2006.jpg
-  teaser: /assets/images/filmscoring/6-30-2006.jpg
+  image: /assets/images/filmscoring/film-add/6-30-2006.jpg
+  teaser: /assets/images/filmscoring/film-add/6-30-2006.jpg
 sidebar:
   - title: "Director"
     text: "Rinaldi Puspoyo"

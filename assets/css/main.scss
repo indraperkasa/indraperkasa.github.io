@@ -1,16 +1,12 @@
-.video-gallery {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 20px; /* Space between the videos */
-  justify-content: space-between;
-}
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
 
-.video-item {
-  flex: 1 1 calc(33.33% - 20px); /* 33.33% width for 3 items per row */
-  margin-bottom: 20px; /* Space between rows */
-}
+$link-color: #008080;
+$masthead-link-color-hover: #2E8B57;
 
-.video-item video {
-  width: 100%; /* Make videos responsive */
-  height: auto;
-}
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
