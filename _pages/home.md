@@ -253,12 +253,12 @@ stages:
 
 | Year | Movie  | Award | Category | Result |
 | ---  | ---    | ---   | ---      | ---    |
-| 2014 | Tabula Rasa | Festival Film Indonesia       | Best Music Director | Nominated |
-| 2015 | Tabula Rasa | Indonesia Film Trailer Awards | Best Music Director | Won       |
-| 2019 | Bebas       | Festival Film Indonesia       | Best Music Director | Nominated |
-| 2019 | Bebas       | Piala Maya                    | Best Music Director | Nominated |
-| 2020 | Mudik       | Festival Film Indonesia       | Best Music Director | Nominated |
 | 2020 | Mudik       | Piala Maya                    | Best Music Director | Nominated |
+| 2020 | Mudik       | Festival Film Indonesia       | Best Music Director | Nominated |
+| 2019 | Bebas       | Piala Maya                    | Best Music Director | Nominated |
+| 2019 | Bebas       | Festival Film Indonesia       | Best Music Director | Nominated |
+| 2015 | Tabula Rasa | Indonesia Film Trailer Awards | Best Music Director | Won       |
+| 2014 | Tabula Rasa | Festival Film Indonesia       | Best Music Director | Nominated |
 
 ---
 
