@@ -1,5 +1,6 @@
 {% assign locale = include.locale | default: site.locale %}
 {% unless site.show_taxonomy == false %}
+
   {% if site.tag_archive.type and page.tags[0] %}
     {% include tag-list.html locale=locale %}
   {% endif %}
@@ -7,4 +8,31 @@
   {% if site.category_archive.type and page.categories[0] %}
     {% include category-list.html locale=locale %}
   {% endif %}
+
+  {% if page.platforms %}
+  <p class="page__taxonomy">
+    <strong>platforms:</strong>
+
+    {% for platform in page.platforms %}
+      <a href="/tags/#platform-{{ platform | slugify }}"
+         class="page__taxonomy-item">
+        {{ platform }}
+      </a>
+    {% endfor %}
+  </p>
+  {% endif %}
+
+  {% if page.devices %}
+  <p class="page__taxonomy">
+    <strong>devices:</strong>
+
+    {% for device in page.devices %}
+      <a href="/tags/#device-{{ device | slugify }}"
+         class="page__taxonomy-item">
+        {{ device }}
+      </a>
+    {% endfor %}
+  </p>
+  {% endif %}
+
 {% endunless %}

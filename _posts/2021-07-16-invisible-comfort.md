@@ -2,6 +2,7 @@
 title: "Sound of X Jakarta: Invisible Comfort <br/>
   by Lie Indra Perkasa & John Navid"
 date: 2021-07-16
+last_modified_at: 2026-06-01
 header:
   teaser: /assets/images/blog/ic-teaser.jpg
 categories:
@@ -26,9 +27,3 @@ Sound of X was initiated by the [Goethe-Institut](https://www.goethe.de/prj/sox/
 The resulting video soundscapes address diverse urban and cultural identities, across different localities in regional and global contexts, each performing its own sonic complexity and perspective on their urban environment.
 
 In times of isolation, social distancing and severe travel restrictions, Sound of X offers a unique way to explore distant places through artistic contributions.
-
----
-
-the track also available at bandcamp. free download.
-
-<iframe style="border: 0; width: 50%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3113107091/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://lieindraperkasa.bandcamp.com/track/invisible-comfort">Invisible Comfort by Indra Perkasa</a></iframe>

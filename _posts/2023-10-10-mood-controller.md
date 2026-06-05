@@ -1,14 +1,18 @@
 ---
 title: "Mood mk2 Midi Controller"
 date: 2023-10-10
+last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/blog/mood-teaser.jpg
 categories:
   - blog
-  - solo-project
-tags:
+platforms:
   - chase bliss
-    - mood mk2
+devices:
+  - mood mk2
+tags:
+  - coding
+  - visual programming
   - midi controller
   - max for live
 excerpt: Max for Live device controlling Chase Bliss Mood mk2.

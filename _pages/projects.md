@@ -8,7 +8,7 @@ excerpt: >
   <small><a>*sometimes personal related. mostly music related.*</a></small>
 header:
   overlay_image: /assets/images/banner/lee-wall-banner-flip.jpg
-  overlay_filter: 0.15
+  overlay_filter: 0.16
 entries_layout: grid
 related: true
 classes: wide

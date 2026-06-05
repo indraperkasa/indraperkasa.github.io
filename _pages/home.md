@@ -7,6 +7,7 @@ excerpt: >
   where i came from, and where i'm going.*</a></small>
 header:
   overlay_image: /assets/images/banner/lee-wall-banner-flip.jpg
+  overlay_filter: 0.16
 toc: true
 toc_sticky: true
 toc_label: 'portfolio'
@@ -23,6 +24,10 @@ tags:
 author_profile: true
 
 filmscore1:
+  - image_path: /assets/images/filmscoring/swaradwipa.jpg
+    title: "Swaradwipa: Di Antara Bunyi dan Sunyi di Jagat Sumba (2025)"
+    alt: "a film by Titi Radjo Padmaja "
+    url: "https://www.krjogja.com/film-selebrita/1246928190/film-dokumenter-swaradwipa-di-antara-sunyi-dan-bunyi-jungga-di-jagat-sumba"
   - image_path: /assets/images/filmscoring/butterfly-2025.jpg
     title: "The Butterfly House (2025)"
     alt: "a film by Paul Agusta"
@@ -42,7 +47,7 @@ filmscore1:
   - image_path: /assets/images/filmscoring/homecoming-2019.jpg
     title: "Mudik (2019)"
     alt: "a film by Adriyanto Dewo"
-    url: "https://www.imdb.com/title/tt11289634/"
+    url: "https://id.wikipedia.org/wiki/Mudik_(film)"
   - image_path: /assets/images/filmscoring/bebas.jpg
     title: "Bebas (2019)"
     alt: "a film by Riri Riza"
@@ -81,6 +86,9 @@ filmscore1:
     url: "https://www.imdb.com/title/tt3694000/"
 
 filmscore2:
+  - image_path: /assets/images/filmscoring/film-add/timur-2025.jpg
+    title: "Timur (2025)"
+    url: "https://www.imdb.com/title/tt37344163/"
   - image_path: /assets/images/filmscoring/film-add/Lafran-2024.jpg
     title: "Lafran (2024)"
     url: "https://www.imdb.com/title/tt31250833/"
@@ -164,6 +172,15 @@ songs:
   - image_path: /assets/images/music-prod/lantun-mustahil.jpg
     title: "Lantun Mustahil - Silampukau"
     url: "https://open.spotify.com/album/0I5lhh9Wg9Zy1U3bzB96oD"
+  - image_path: /assets/images/music-prod/mld-jazz-s3.jpg
+    title: "Di Dadaku Ada Kamu - MLD Jazz Project"
+    url: "https://open.spotify.com/track/2MBqMt9OVHt4TPNYMmUCyH?si=5fe7fcb56e724234"
+  - image_path: /assets/images/music-prod/metamorfosa.jpg
+    title: "Metamorfosa - Andien"
+    url: "https://open.spotify.com/track/4NNPlfvtIs3RhGgdZGwyCp?si=666bf6e90020425f"
+  - image_path: /assets/images/music-prod/masih-ada.jpg
+    title: "Masih Ada Lagi (Orchestra Version) - Ermy Kullit"
+    url: "https://open.spotify.com/track/5c4uWXRwQkQ2Xa7qyj99sr?si=fa6aa9f0dba84681"
   - image_path: /assets/images/music-prod/sayonara-sq.jpg
     title: "Sayonara - Monita Tahalea"
     url: "https://www.youtube.com/watch?v=kIN95W84zP0"
@@ -182,22 +199,26 @@ ost:
   - image_path: /assets/images/music-prod/ost/goodbye-ost.jpg
     title: "Sampai Jumpa, Selamat Tinggal (2024)"
     excerpt: "a film by Adriyanto Dewo"
-    url: "https://open.spotify.com/album/4237QaLTdCxq7btHfEleQs?si=IN1HklBmScGd1v7fF_rnIA"
+    url: "/released_works/goodbye-farewell-ost"
   - image_path: /assets/images/music-prod/ost/bajingan-ost.jpg
     title: "Bangun, Bajingan - Ananda Badudu, Rubina, Dave Lumenta"
     url: "https://open.spotify.com/album/6tmx8GwnMWIWsFAVNPycC3"
   - image_path: /assets/images/music-prod/ost/banda-ost.jpg
     title: "Banda the Dark Forgotten Trail (2017)"
     excerpt: "a film by Jay Subyakto"
-    url: "https://open.spotify.com/album/0KPk9LAjItko4y8LGp5HXz?si=CNuemsfOR1aLdnw0QyzHpg"
+    url: "/released_works/banda-ost"
   - image_path: /assets/images/music-prod/ost/labuan-ost.jpg
     title: "Labuan Hati (2017)"
     excerpt: "a film by Lola Amaria"
-    url: "https://open.spotify.com/album/17E5j9dTnh3q3IlOh6yTnf?si=bbT-m0ktSjWzTEEXi0l8Ig"
+    url: "/released_works/labuan-ost"
   - image_path: /assets/images/music-prod/ost/tabula-ost.jpg
     title: "Tabula Rasa (2014)"
     excerpt: "a film by Adriyanto Dewo"
-    url: "https://open.spotify.com/album/73jIeSotZtuuNr3DepiosO?si=OhMASsilQEOtbTNlaXDUvA"
+    url: "/released_works/tabula-rasa-ost"
+  - image_path: /assets/images/music-prod/ost/janji-joni-ost.jpg
+    title: "Janji Joni (2005)"
+    excerpt: "a film by Joko Anwar"
+    url: "https://www.discogs.com/master/1053386-Various-Original-Soundtrack-Janji-Joni"
 
 concert:
   - image_path: /assets/images/music-prod/konser-tumbuh.jpeg
@@ -228,7 +249,20 @@ stages:
 
 ---
 
-### \additional-music / co-composer / orchestrator
+#### >> award and nomination <i class="fa-solid fa-award"></i>
+
+| Year | Movie  | Award | Category | Result |
+| ---  | ---    | ---   | ---      | ---    |
+| 2014 | Tabula Rasa | Festival Film Indonesia       | Best Music Director | Nominated |
+| 2015 | Tabula Rasa | Indonesia Film Trailer Awards | Best Music Director | Won       |
+| 2019 | Bebas       | Festival Film Indonesia       | Best Music Director | Nominated |
+| 2019 | Bebas       | Piala Maya                    | Best Music Director | Nominated |
+| 2020 | Mudik       | Festival Film Indonesia       | Best Music Director | Nominated |
+| 2020 | Mudik       | Piala Maya                    | Best Music Director | Nominated |
+
+---
+
+### \additional-music | co-composer | orchestrator
 {: .text-left}
 * helping and working together with other composers.
 {% include gallery id="filmscore2" %}
@@ -240,19 +274,54 @@ stages:
 ### \fashion
 * composing and producing music for fashion show. it was a very fun experience.
 
-{% include video id="f_quhxyd6EI" provider="youtube" %}
-{% include video id="sZ3Z3AqoVNE" provider="youtube" %}
-{% include video id="nwz4rvB-AQY" provider="youtube" %}
-{% include video id="UVwkx09ujf0" provider="youtube" %}
+<div class="video-gallery half">
+
+  <div class="video-gallery__item">
+    {% include video id="f_quhxyd6EI" provider="youtube" %}
+    <!-- <p class="video-caption">Sapto Djojokartiko Spring/Summer 2021</p> -->
+  </div>
+
+  <div class="video-gallery__item">
+    {% include video id="sZ3Z3AqoVNE" provider="youtube" %}
+    <!-- <p class="video-caption">STELLARISSA for Wynn</p> -->
+  </div>
+
+  <div class="video-gallery__item">
+    {% include video id="nwz4rvB-AQY" provider="youtube" %}
+    <!-- <p class="video-caption">Sapto Djojokartiko Spring/Summer 2023</p> -->
+  </div>
+
+  <div class="video-gallery__item">
+    {% include video id="UVwkx09ujf0" provider="youtube" %}
+    <!-- <p class="video-caption">Sejauh Mata Memandang untuk DFK 2020</p> -->
+  </div>
+
+</div>
 
 ---
 
 ### \brands
 * composing and producing music for commercial brands and product.
 
-{% include video id="hEARbsZPQ9M" provider="youtube" %}
-{% include video id="AhzgAczJCC8" provider="youtube" %}
-{% include video id="76BBh2kItXg" provider="youtube" %}
+<div class="video-gallery half">
+
+  <div class="video-gallery__item">
+    {% include video id="hEARbsZPQ9M" provider="youtube" %}
+  </div>
+
+  <div class="video-gallery__item">
+    {% include video id="AhzgAczJCC8" provider="youtube" %}
+  </div>
+
+  <div class="video-gallery__item">
+    {% include video id="76BBh2kItXg" provider="youtube" %}
+  </div>
+
+  <div class="video-gallery__item">
+    {% include video id="lkvNNrmhhNk" provider="youtube" %}
+  </div>
+
+</div>
 
 ---
 
@@ -263,8 +332,13 @@ stages:
 ### \producer-arranger
 * songs and albums that i produced, arranged, and mixed.
 
-#### various-artist
+#### >> various-artist
 {% include gallery id="songs" %}
+
+---
+
+the essential tracks, all in one playlist.
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1DZ06evO0lD8fN?utm_source=generator" width="100%" height="450" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
@@ -272,12 +346,8 @@ stages:
 
 ---
 
-#### soundtracks
+#### >> soundtracks
 {% include gallery id="ost" %}
-
-**coming soon!**
-* remaco (2026) - 4 songs (TBD)
-* selendang merah (?) (2026) - garin's new movie
 
 ---
 
@@ -287,7 +357,7 @@ stages:
 ### \concerts
 * had been an honored to work as music director for these concerts.
 
-#### various-artist
+#### >> various-artist
 {% include gallery id="concert" %}
 
 * Konser Tumbuh dan Menjadi - Banda Neira (2026)
@@ -300,7 +370,7 @@ stages:
 {: .text-left}
 * composing and arranging music for theater production. occasionally conduct the orchestra too.
 
-#### various-production
+#### >> various-production
 {% include gallery id="stages" %}
 
 * Laksamana Malahayati (2023)

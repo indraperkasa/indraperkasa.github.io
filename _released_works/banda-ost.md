@@ -1,0 +1,178 @@
+---
+title: "Banda the Dark Forgotten Trail (Original Motion Picture Soundtrack)"
+date: 2020-05-08
+header:
+  teaser: /assets/images/music-prod/ost/banda-ost.jpg
+categories:
+  - filmscoring
+tags:
+  - soundtrack
+  - documentary
+  - banda
+  - nutmeg
+excerpt: album release, a documentary film by Jay Subyakto.
+tracks:
+  - track: 1
+    title: Pulau Misteri
+    duration: "01:39"
+    isrc: QZES62063560
+    link: https://music.youtube.com/watch?v=0D84B8lfELs&si=WAxpjkbxWFLpBPfP
+  - track: 2
+    title: Pilu Nusantara
+    isrc: QZES62063561
+    link: https://music.youtube.com/watch?v=lsOKcd35x3c&si=PNqZyMIZz3zCEDBX
+    duration: "01:43"
+  - track: 3
+    title: Legenda Pulau Rempah
+    duration: "02:48"
+    isrc: QZES62063562
+    link: https://music.youtube.com/watch?v=jwEDTkdCO2s&si=uDts7CJxOga5F5hf
+  - track: 4
+    title: Jalur Gelap
+    duration: "03:31"
+    isrc: QZES62063563
+    link: https://music.youtube.com/watch?v=pVLWGY_zGvQ&si=3gRxtlY6Loet0_3N
+  - track: 5
+    title: Pulau Banda
+    duration: "02:04"
+    isrc: QZES62063564
+    link: https://music.youtube.com/watch?v=uUXCzx90y9E&si=VRV5_keijtuXxVPJ
+  - track: 6
+    title: Pala Banda
+    duration: "01:34"
+    isrc: QZES62063565
+    link: https://music.youtube.com/watch?v=PDQNw9nRmuI&si=L9AvjHPOnyRCqjG4
+  - track: 7
+    title: Magnoliopsida
+    duration: "02:08"
+    isrc: QZES62063566
+    link: https://music.youtube.com/watch?v=mrS6rl0Pb64&si=wY5kxffzZVR0VQ6L
+  - track: 8
+    title: Magnoliophyta
+    duration: "01:34"
+    isrc: QZES62063567
+    link: https://music.youtube.com/watch?v=4XbnhgGizNM&si=hBZPuxqWWv6myx4b
+  - track: 9
+    title: Kekuasaan Dan Keserakahan
+    duration: "02:05"
+    isrc: QZES62063568
+    link: https://music.youtube.com/watch?v=IfmyGtGNx84&si=Sg743LdNxLhgyDp7
+  - track: 10
+    title: Kolonial Bersemi
+    duration: "01:12"
+    isrc: QZES62063569
+    link: https://music.youtube.com/watch?v=5VAfCIqTLNE&si=M7eN1MZYe6SDHMEB
+  - track: 11
+    title: Loji Keji
+    duration: "02:45"
+    isrc: QZES62063570
+    link: https://music.youtube.com/watch?v=wL0t0c-dI7Y&si=VLAK09kodg_NKlN7
+  - track: 12
+    title: Fuck! JP Coen
+    duration: "01:24"
+    isrc: QZES62063571
+    link: https://music.youtube.com/watch?v=RMzFH9-cphc&si=CUvZ3u-fBrX93cue
+  - track: 13
+    title: Genosida VOC
+    duration: "02:19"
+    isrc: QZES62063572
+    link: https://music.youtube.com/watch?v=8GvlMsV-afQ&si=bsJ0eSlDZ_tE1-3T
+  - track: 14
+    title: Banda Berduka
+    duration: "02:03"
+    isrc: QZES62063573
+    link: https://music.youtube.com/watch?v=sGj3nZNYZuE&si=2dR-Uc8iL3qsYAXg
+  - track: 15
+    title: 12 Bentang
+    duration: "03:35"
+    isrc: QZES62063574
+    link: https://music.youtube.com/watch?v=TfX3ClFtfu8&si=jfzpfDPvJEocYcvA
+  - track: 16
+    title: Budak Pala
+    duration: "01:56"
+    isrc: QZES62063575
+    link: https://music.youtube.com/watch?v=rsjSS93wGfg&si=7XorK0MF2pMk4YnK
+  - track: 17
+    title: Pulau Run
+    duration: "02:52"
+    isrc: QZES62063576
+    link: https://music.youtube.com/watch?v=3TWa5KepV7s&si=1DbfnXNoR6BpoEwC
+  - track: 18
+    title: Denyut Nusa
+    duration: "01:14"
+    isrc: QZES62063577
+    link: https://music.youtube.com/watch?v=ZCCdGjV8LOA&si=2Ma71gkbX5_rPvDb
+  - track: 19
+    title: Lahirnya Nasionalisme
+    duration: "03:13"
+    isrc: QZES62063578
+    link: https://music.youtube.com/watch?v=Po_6zFMvNPA&si=jfBJWho87rmKnLVv
+  - track: 20
+    title: Miniatur Indonesia
+    duration: "03:04"
+    isrc: QZES62063579
+    link: https://music.youtube.com/watch?v=gyWO7I2ndS0&si=_Dr5tQz3OUczBKzf
+  - track: 21
+    title: Antara Detak
+    duration: "01:18"
+    isrc: QZES62063580
+    link: https://music.youtube.com/watch?v=RRE7M7njXIM&si=GPJZGwK0W78VPb0x
+  - track: 22
+    title: Ragam Banda
+    duration: "01:56"
+    isrc: QZES62063581
+    link: https://music.youtube.com/watch?v=b75OBuZtBis&si=aB411PmCfWxr5Wo3
+  - track: 23
+    title: Cina Di Banda
+    duration: "04:14"
+    isrc: QZES62063582
+    link: https://music.youtube.com/watch?v=zpoDVKj_c4Y&si=Gs-jT0YtAbi0fn60
+  - track: 24
+    title: Boye Boye
+    duration: "02:18"
+    isrc: QZES62063583
+    link: https://music.youtube.com/watch?v=KW-TGJIdznU&si=Or6QGd5u6xtNraPT
+  - track: 25
+    title: Pala Oh Pala
+    duration: "01:34"
+    isrc: QZES62063584
+    link: https://music.youtube.com/watch?v=qAxj2XqkY7g&si=61jR5Ze129Hlgbyd
+  - track: 26
+    title: Teror Intoleransi
+    duration: "03:34"
+    isrc: QZES62063585
+    link: https://music.youtube.com/watch?v=QZ_mktM1Q8g&si=g59Uz87tjkeOboPB
+  - track: 27
+    title: Kisah Ponky
+    duration: "03:44"
+    isrc: QZES62063586
+    link: https://music.youtube.com/watch?v=6RWyVV-AS5s&si=ZYPeIlZFqqaU9TBv
+  - track: 28
+    title: Nusa Antara
+    duration: "01:12"
+    isrc: QZES62063587
+    link: https://music.youtube.com/watch?v=ysZ43OJ-9fg&si=DOkM0-vVwl_WViM8
+  - track: 29
+    title: Hari Ini
+    duration: "01:22"
+    isrc: QZES62063588
+    link: https://music.youtube.com/watch?v=jqxiliLRYDY&si=AL7oPi7ccTGsA1oc
+  - track: 30
+    title: Identitas Dan Regenerasi
+    duration: "02:54"
+    isrc: QZES62063589
+    link: https://music.youtube.com/watch?v=1tzaAm3wSi8&si=fXGi85-lo28kQS_G
+  - track: 31
+    title: Pengharapan
+    duration: "01:25"
+    isrc: QZES62063590
+    link: https://music.youtube.com/watch?v=7WeHHV1fp70&si=toUo0W-ZYp-QbjIn
+---
+
+#### Listen <i class="fa-solid fa-headphones"></i>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/album/0KPk9LAjItko4y8LGp5HXz?utm_source=generator" width="90%" height="600" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+#### Track List <i class="fa-solid fa-list"></i>
+{% include tracklist.html %}

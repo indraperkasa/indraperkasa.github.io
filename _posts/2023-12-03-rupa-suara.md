@@ -1,6 +1,7 @@
 ---
 title: "Rupa Suara"
 date: 2023-12-03
+last_modified_at: 2026-06-01
 header:
   teaser: /assets/images/blog/rupasuara-sq.png
 categories:
@@ -10,7 +11,7 @@ tags:
   - experimental
   - workshop
   - goethe-institut
-excerpt: Alur Bunyi adalah program rutin yang didedikasikan untuk musik jazz, elektronik, dan eksperimental.
+excerpt: multimedia workshop initiated by Goethe-Insitut Jakarta.
 rupa:
   - image_path: /assets/images/blog/rupasuara_1.png
   - image_path: /assets/images/blog/rupasuara_3.png

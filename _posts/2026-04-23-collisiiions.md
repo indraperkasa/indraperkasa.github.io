@@ -1,15 +1,17 @@
 ---
 title: "collisiiions"
 date: 2026-04-23
+last_modified_at: 2026-06-01
 header:
   teaser: /assets/images/blog/collisiiions-take-1.jpg
 categories:
   - blog
-  - solo-project
+platform: monome
+device: grid-iii
 tags:
-  - monome
-    - iii
-    - grid
+  - coding
+  - lua
+  - midi
 excerpt: an iii script for monome grid
 ---
 ![collisiiions-take-1]({{ site.url }}{{ site.baseurl }}/assets/images/blog/collisiiions-take-1.jpg)

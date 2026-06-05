@@ -1,6 +1,7 @@
 ---
 title: "Alur Bunyi Series"
 date: 2017-12-14
+last_modified_at: 2026-06-01
 header:
   teaser: /assets/images/blog/ab-ip-2017.jpg
 categories:
@@ -9,7 +10,7 @@ tags:
   - electronic music
   - experimental
   - goethe-institut
-excerpt: Alur Bunyi adalah program rutin yang didedikasikan untuk musik jazz, elektronik, dan eksperimental.
+excerpt: sebuah program rutin yang didedikasikan untuk musik jazz, elektronik, dan eksperimental.
 ---
 
 more info can be found [here.](https://www.goethe.de/ins/id/id/kul/elc/anr.html)

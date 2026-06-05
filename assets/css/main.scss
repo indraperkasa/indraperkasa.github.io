@@ -1,12 +1,45 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 search: false
 ---
 
-$link-color: #008080;
-$masthead-link-color-hover: #2E8B57;
-
 @charset "utf-8";
+
+$link-color: #008080;
+$masthead-link-color: #696969;
+$masthead-link-color-hover: #4682B4;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+.tracklist-total td:first-child {
+  text-align: right;
+}
+
+.video-gallery {
+  display: grid;
+  gap: 1rem;
+  margin-bottom: 1.3em;
+}
+
+.video-gallery.half {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.video-gallery.third {
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.video-gallery__item {
+  min-width: 0;
+}
+
+@media (max-width: 768px) {
+  .video-gallery.half,
+  .video-gallery.third {
+    grid-template-columns: 1fr;
+  }
+}
+
+.video-caption {
+  font-size: 0.7em;
+}

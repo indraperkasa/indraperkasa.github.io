@@ -1,8 +1,148 @@
 ---
 layout: archive
 ---
+
 {%- assign locale = page.locale | default: layout.locale | default: site.locale %}
 
 {{ content }}
 
+<aside class="sidebar__right sticky">
+  <nav class="toc">
+    <header>
+      <h4 class="nav__title">
+        <i class="fas fa-sitemap"></i>
+        navigation
+      </h4>
+    </header>
+
+    <ul class="toc__menu">
+      <li><a href="#tags">tags</a></li>
+      <li><a href="#platforms">platforms</a></li>
+      <li><a href="#devices">devices</a></li>
+    </ul>
+  </nav>
+</aside>
+
+<!-- TAGS -->
+
+<h2 id="tags">tags</h2>
+
 {% include posts-taxonomy.html locale=locale taxonomies=site.tags %}
+
+<!-- PLATFORMS -->
+
+<h2 id="platforms">platforms</h2>
+
+{% assign platform_string = "" %}
+
+{% for post in site.posts %}
+  {% if post.platforms %}
+    {% for platform in post.platforms %}
+      {% assign platform_string = platform_string | append: platform | append: "|" %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% assign platforms = platform_string | split: "|" | uniq | sort %}
+
+<ul class="taxonomy__index">
+{% for platform in platforms %}
+  {% unless platform == "" %}
+
+    {% assign count = 0 %}
+
+    {% for post in site.posts %}
+      {% if post.platforms contains platform %}
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+
+    <li>
+      <a href="#platform-{{ platform | slugify }}">
+        <strong>{{ platform }}</strong>
+        <span class="taxonomy__count">{{ count }}</span>
+      </a>
+    </li>
+
+  {% endunless %}
+{% endfor %}
+</ul>
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+{% for platform in platforms %}
+  {% unless platform == "" %}
+
+    <section id="platform-{{ platform | slugify }}" class="taxonomy__section">
+      <h2 class="archive__subtitle">{{ platform }}</h2>
+
+      <div class="entries-{{ entries_layout }}">
+        {% for post in site.posts %}
+          {% if post.platforms contains platform %}
+            {% include archive-single.html type=entries_layout %}
+          {% endif %}
+        {% endfor %}
+      </div>
+
+    </section>
+
+  {% endunless %}
+{% endfor %}
+
+<!-- DEVICES -->
+
+<h2 id="devices">devices</h2>
+
+{% assign device_string = "" %}
+
+{% for post in site.posts %}
+  {% if post.devices %}
+    {% for device in post.devices %}
+      {% assign device_string = device_string | append: device | append: "|" %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% assign devices = device_string | split: "|" | uniq | sort %}
+
+<ul class="taxonomy__index">
+{% for device in devices %}
+  {% unless device == "" %}
+
+    {% assign count = 0 %}
+
+    {% for post in site.posts %}
+      {% if post.devices contains device %}
+        {% assign count = count | plus: 1 %}
+      {% endif %}
+    {% endfor %}
+
+    <li>
+      <a href="#device-{{ device | slugify }}">
+        <strong>{{ device }}</strong>
+        <span class="taxonomy__count">{{ count }}</span>
+      </a>
+    </li>
+
+  {% endunless %}
+{% endfor %}
+</ul>
+
+{% for device in devices %}
+  {% unless device == "" %}
+
+    <section id="device-{{ device | slugify }}" class="taxonomy__section">
+      <h2 class="archive__subtitle">{{ device }}</h2>
+
+      <div class="entries-{{ entries_layout }}">
+        {% for post in site.posts %}
+          {% if post.devices contains device %}
+            {% include archive-single.html type=entries_layout %}
+          {% endif %}
+        {% endfor %}
+      </div>
+
+    </section>
+
+  {% endunless %}
+{% endfor %}

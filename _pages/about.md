@@ -1,6 +1,11 @@
 ---
 permalink: /about/
-title: about <i class="fa-solid fa-address-card"></i>
+title: a b o u t <i class="fa-solid fa-user-astronaut"></i>
+tagline: short-bio. <br />
+  <small>*why are we here? where do we come from?*</small>
+header:
+  overlay_image: /assets/images/banner/lee-h-banner.jpg
+  overlay_filter: 0.36
 author_profile: true
 ---
 
@@ -22,25 +27,3 @@ scores that are integral to the cinematic narrative, seamlessly blends emotional
 
 ![ip-modular-pose1]({{ site.url }}{{ site.baseurl }}/assets/images/ip/ip-modular-pose1.jpg)
 
----
-
-### displaying an index of posts
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
----
-### using tags
-All tags registered in the current site are exposed to Liquid templates via `site.tags`. Iterating over `site.tags` on a page will yield another array with two items, where the first item is the name of the tag and the second item being an *array of posts* with that tag.
-{% for tag in site.tags %}
-  <h3>{{ tag[0] }}</h3>
-  <ul>
-    {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-{% endfor %}  

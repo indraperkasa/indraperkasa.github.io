@@ -1,0 +1,59 @@
+{% if page.tracks %}
+
+{% assign total_seconds = 0 %}
+
+<table class="tracklist">
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Title</th>
+      <th>Duration</th>
+      <th>ISRC</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    {% for track in page.tracks %}
+
+      {% assign time_parts = track.duration | split: ":" %}
+      {% assign minutes = time_parts[0] | plus: 0 %}
+      {% assign seconds = time_parts[1] | plus: 0 %}
+      {% assign track_seconds = minutes | times: 60 | plus: seconds %}
+      {% assign total_seconds = total_seconds | plus: track_seconds %}
+
+      <tr>
+        <td>{{ track.track }}</td>
+        <td>
+          {% if track.link %}
+            <a href="{{ track.link }}" target="_blank" rel="noopener">
+              {{ track.title }}
+            </a>
+          {% else %}
+            {{ track.title }}
+          {% endif %}
+        </td>
+        <td>{{ track.duration }}</td>
+        <td>{{ track.isrc }}</td>
+      </tr>
+
+    {% endfor %}
+
+    {% assign total_minutes = total_seconds | divided_by: 60 %}
+    {% assign remaining_seconds = total_seconds | modulo: 60 %}
+
+    {% if remaining_seconds < 10 %}
+      {% assign remaining_seconds = "0" | append: remaining_seconds %}
+    {% endif %}
+
+    <tr class="tracklist-total">
+      <td colspan="2">
+        <strong>Total Duration</strong>
+      </td>
+      <td><strong>{{ total_minutes }}:{{ remaining_seconds }}</strong></td>
+      <td></td>
+    </tr>
+
+  </tbody>
+</table>
+
+{% endif %}

@@ -82,7 +82,7 @@ author:
 
 # Collections
 collections:
-  portfolio:
+  released_works:
     output: true
     permalink: /:collection/:path/
 
@@ -107,14 +107,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  #_portfolio
+  #_released_works
   - scope:
       path: ""
-      type: portfolio
+      type: released_works
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: false
+      show_date: true
+      related: true
 
 category_archive:
   type: liquid
