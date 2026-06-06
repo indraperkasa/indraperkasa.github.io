@@ -355,7 +355,7 @@ the essential tracks, all in one playlist.
 {: .text-right}
 
 ### \concerts
-* had been an honored to work as music director for these concerts.
+* had been an honor to work as music director for these concerts.
 
 #### >> various-artist
 {% include gallery id="concert" %}

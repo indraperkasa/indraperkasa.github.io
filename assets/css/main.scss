@@ -43,3 +43,19 @@ $masthead-link-color-hover: #4682B4;
 .video-caption {
   font-size: 0.7em;
 }
+
+.masthead {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background: $background-color;
+  box-shadow: 0 1px 3px rgba(0,0,0,.15);
+}
+
+.masthead__inner-wrap {
+  padding: 0.27rem 1rem;
+}
+
+.sidebar__right.sticky {
+  top: 60px;
+}
