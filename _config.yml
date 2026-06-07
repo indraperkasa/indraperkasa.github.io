@@ -67,12 +67,9 @@ whitelist:
 
 author:
   name   : "Indra Perkasa"
-  avatar : "/assets/images/ip/ip-profil.jpg"
+  avatar : "/assets/images/ip/ip-yt.jpg"
   bio    : "Composer/Music Producer"
   links:
-    - label: "Linktree"
-      icon: "fa-brands fa-linktree"
-      url: "https://linktr.ee/indraperkasa"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/indraperkasa"

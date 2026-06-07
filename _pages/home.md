@@ -199,22 +199,26 @@ ost:
   - image_path: /assets/images/music-prod/ost/goodbye-ost.jpg
     title: "Sampai Jumpa, Selamat Tinggal (2024)"
     excerpt: "a film by Adriyanto Dewo"
-    url: "/released_works/goodbye-farewell-ost"
+    # url: "/released_works/goodbye-farewell-ost"
+    release: goodbye-farewell-ost
   - image_path: /assets/images/music-prod/ost/bajingan-ost.jpg
     title: "Bangun, Bajingan - Ananda Badudu, Rubina, Dave Lumenta"
     url: "https://open.spotify.com/album/6tmx8GwnMWIWsFAVNPycC3"
   - image_path: /assets/images/music-prod/ost/banda-ost.jpg
     title: "Banda the Dark Forgotten Trail (2017)"
     excerpt: "a film by Jay Subyakto"
-    url: "/released_works/banda-ost"
+    # url: "/released_works/banda-ost"
+    release: banda-ost
   - image_path: /assets/images/music-prod/ost/labuan-ost.jpg
     title: "Labuan Hati (2017)"
     excerpt: "a film by Lola Amaria"
-    url: "/released_works/labuan-ost"
+    # url: "/released_works/labuan-ost"
+    release: labuan-ost
   - image_path: /assets/images/music-prod/ost/tabula-ost.jpg
     title: "Tabula Rasa (2014)"
     excerpt: "a film by Adriyanto Dewo"
-    url: "/released_works/tabula-rasa-ost"
+    # url: "/released_works/tabula-rasa-ost"
+    release: tabula-rasa-ost
   - image_path: /assets/images/music-prod/ost/janji-joni-ost.jpg
     title: "Janji Joni (2005)"
     excerpt: "a film by Joko Anwar"
@@ -231,6 +235,7 @@ concert:
 stages:
   - image_path: /assets/images/music-prod/stages/mala2.jpg
     title: "Laksamana Malahayati (2023)"
+    post: bts-mala
   - image_path: /assets/images/music-prod/stages/little-pony-musical.jpg
     title: "My Little Pony - Rainbow Rocks (2016)"
     url: "https://www.cosmopolitan.co.id/article/read/11/2016/10973/my-little-pony-musical-pertama-di-dunia-kini-di-jakarta"
@@ -372,10 +377,6 @@ the essential tracks, all in one playlist.
 
 #### >> various-production
 {% include gallery id="stages" %}
-
-* Laksamana Malahayati (2023)
-* My Little Pony - Rainbow Rocks (2016)
-* ONROP! Musikal (2010)
 
 ---
 

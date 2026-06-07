@@ -59,3 +59,17 @@ $masthead-link-color-hover: #4682B4;
 .sidebar__right.sticky {
   top: 60px;
 }
+
+.gallery__caption {
+  margin-top: 0.5rem;
+  text-align: center;
+}
+
+.gallery__title {
+  font-weight: 600;
+}
+
+.gallery__text {
+  font-size: 0.9em;
+  color: $muted-text-color;
+}

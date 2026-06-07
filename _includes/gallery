@@ -18,17 +18,34 @@
 
 <figure class="{{ gallery_layout }} {{ include.class }}">
   {% for img in gallery %}
-    {% if img.url %}
-      <a href="{{ img.url | relative_url }}"
-        {% if img.title %}title="{{ img.title | escape_once }}" target="_blank" rel="noopener noreferrer" {% endif %}>
-          <img src="{{ img.image_path | relative_url }}"
-               alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}">
+
+    {% assign target_url = img.url %}
+
+    {% if img.release %}
+      {% assign doc = site.released_works | where: "slug", img.release | first %}
+      {% assign target_url = doc.url %}
+    {% endif %}
+
+    {% if img.post %}
+      {% assign doc = site.posts | where: "slug", img.post | first %}
+      {% assign target_url = doc.url %}
+    {% endif %}
+
+    {% if target_url %}
+      <a href="{{ target_url | relative_url }}"
+         {% if img.title %}
+           title="{{ img.title | escape_once }}"
+         {% endif %}>
+        <img src="{{ img.image_path | relative_url }}"
+             alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}">
       </a>
     {% else %}
       <img src="{{ img.image_path | relative_url }}"
            alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}">
     {% endif %}
+
   {% endfor %}
+  
   {% if include.caption %}
     <figcaption>{{ include.caption | markdownify | remove: "<p>" | remove: "</p>" }}</figcaption>
   {% endif %}
