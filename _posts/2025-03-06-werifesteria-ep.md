@@ -5,9 +5,10 @@ last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/werifest-cover.jpg
 categories:
-  - solo-project
+  - release
 tags:
   - EP
+  - solo project
   - ambient music
   - claire de lune
   - claude debussy
@@ -45,12 +46,12 @@ vivid auditory journey that unfolds an imaginary adventure
 through the forest, from dawn till dusk, culminating in the
 shine of moonlight.
 
-"Werifesteria" embodies Indra’s signature blend of
+**Werifesteria** embodies Indra’s signature blend of
 melodic texture and evocative sounds, inviting audiences
 to experience nature’s beauty and mystery.
 
 Each track immerses listeners more deeply into the story,
-as the EP progresses through lush soundscapes that
+as the *EP* progresses through lush soundscapes that
 mirror the shifting moments of a day in the wild.
 
 ![songlist-werifest]({{ site.url }}{{ site.baseurl }}/assets/images/blog/songlist-werifest.png)

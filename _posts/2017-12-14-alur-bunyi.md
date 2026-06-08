@@ -5,7 +5,7 @@ last_modified_at: 2026-06-01
 header:
   teaser: /assets/images/blog/ab-ip-2017.jpg
 categories:
-  - blog
+  - project
 tags:
   - electronic music
   - experimental

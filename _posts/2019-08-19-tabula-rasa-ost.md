@@ -4,9 +4,10 @@ date: 2019-08-19
 header:
   teaser: /assets/images/music-prod/ost/tabula-ost.jpg
 categories:
-  - filmscoring
+  - release
 tags:
   - soundtrack
+  - film scoring
   - drama
   - family
   - food

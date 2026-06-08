@@ -5,7 +5,7 @@ last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/ciaravita-jam.jpg
 categories:
-  - blog
+  - project
 platforms:
   - monome
   - mannequins
@@ -52,4 +52,4 @@ i was learning coding in [druid](https://monome.org/docs/crow/druid/) from the m
 * add reverb-delay spacetime from **H9** pedal.
 * record stereo out to **DAW**, and do a little bit of 'mastering'.
 
-i released the track on bandcamp. check it out [here]({% link _released_works/binary-dance-single.md %}).
+i released the track on bandcamp. check it out [here]({% post_url 2021-08-12-binary-dance-single %}).

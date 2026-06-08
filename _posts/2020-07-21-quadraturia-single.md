@@ -5,10 +5,11 @@ last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/music-prod/releases/quadra.jpg
 categories:
-  - solo-project
+  - release
 tags:
   - single
-  - modular
+  - solo project
+  - modular synth
 excerpt: single release, mutable instruments exploration.
 ---
 

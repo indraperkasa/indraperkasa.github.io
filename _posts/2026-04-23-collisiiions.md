@@ -5,7 +5,7 @@ last_modified_at: 2026-06-01
 header:
   teaser: /assets/images/blog/collisiiions-take-1.jpg
 categories:
-  - blog
+  - project
 platform: monome
 device: grid-iii
 tags:

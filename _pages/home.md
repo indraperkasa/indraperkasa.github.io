@@ -199,35 +199,31 @@ ost:
   - image_path: /assets/images/music-prod/ost/goodbye-ost.jpg
     title: "Sampai Jumpa, Selamat Tinggal (2024)"
     excerpt: "a film by Adriyanto Dewo"
-    # url: "/released_works/goodbye-farewell-ost"
-    release: goodbye-farewell-ost
+    url: "/release/goodbye-farewell-ost"
   - image_path: /assets/images/music-prod/ost/bajingan-ost.jpg
     title: "Bangun, Bajingan - Ananda Badudu, Rubina, Dave Lumenta"
     url: "https://open.spotify.com/album/6tmx8GwnMWIWsFAVNPycC3"
   - image_path: /assets/images/music-prod/ost/banda-ost.jpg
     title: "Banda the Dark Forgotten Trail (2017)"
     excerpt: "a film by Jay Subyakto"
-    # url: "/released_works/banda-ost"
-    release: banda-ost
+    url: "/release/banda-ost"
   - image_path: /assets/images/music-prod/ost/labuan-ost.jpg
     title: "Labuan Hati (2017)"
     excerpt: "a film by Lola Amaria"
-    # url: "/released_works/labuan-ost"
-    release: labuan-ost
+    url: "/release/labuan-ost"
   - image_path: /assets/images/music-prod/ost/tabula-ost.jpg
     title: "Tabula Rasa (2014)"
     excerpt: "a film by Adriyanto Dewo"
-    # url: "/released_works/tabula-rasa-ost"
-    release: tabula-rasa-ost
+    url: "/release/tabula-rasa-ost"
   - image_path: /assets/images/music-prod/ost/janji-joni-ost.jpg
     title: "Janji Joni (2005)"
     excerpt: "a film by Joko Anwar"
     url: "https://www.discogs.com/master/1053386-Various-Original-Soundtrack-Janji-Joni"
 
 concert:
-  - image_path: /assets/images/music-prod/konser-tumbuh.jpeg
+  - image_path: /assets/images/music-prod/konser-tumbuh.jpg
     title: "Konser Tumbuh dan Menjadi (2026) - Banda Neira"
-  - image_path: /assets/images/music-prod/Konser-Merona.jpeg
+  - image_path: /assets/images/music-prod/konser-merona.jpg
     title: "Konser Merona (2026) - Monita Tahalea"
   - image_path: /assets/images/music-prod/pada-waktu.jpg
     title: "Konser Pada Waktu - Monita Tahalea dan Ananda Badudu"

@@ -5,7 +5,7 @@ last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/blog/mood-teaser.jpg
 categories:
-  - blog
+  - project
 platforms:
   - chase bliss
 devices:

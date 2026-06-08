@@ -5,7 +5,7 @@ last_modified_at: 2026-06-01
 header:
   teaser: /assets/images/blog/maestro.jpg
 categories:
-  - blog
+  - project
 tags:
   - film scoring
   - documentary

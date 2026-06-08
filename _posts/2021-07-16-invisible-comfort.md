@@ -6,7 +6,7 @@ last_modified_at: 2026-06-01
 header:
   teaser: /assets/images/blog/ic-teaser.jpg
 categories:
-  - blog
+  - project
 tags:
   - commission
   - goethe-institut

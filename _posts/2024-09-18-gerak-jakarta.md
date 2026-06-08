@@ -6,7 +6,7 @@ last_modified_at: 2026-06-02
 header:
   teaser: /assets/images/blog/gerak-jkt.jpg
 categories:
-  - blog
+  - project
 tags:
   - film scoring
   - documentary

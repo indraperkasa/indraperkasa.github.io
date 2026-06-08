@@ -60,16 +60,17 @@ $masthead-link-color-hover: #4682B4;
   top: 60px;
 }
 
-.gallery__caption {
-  margin-top: 0.5rem;
-  text-align: center;
+.archive__subtitle {
+  margin-top: 0.2rem;
+  margin-bottom: 0.2rem;
 }
 
-.gallery__title {
-  font-weight: 600;
-}
-
-.gallery__text {
-  font-size: 0.9em;
-  color: $muted-text-color;
+.taxonomy__section::before,
+.archive h2[id]::before {
+  content: "";
+  display: block;
+  height: 50px;
+  margin-top: -50px;
+  visibility: hidden;
+  pointer-events: none;
 }

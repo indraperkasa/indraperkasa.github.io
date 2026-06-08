@@ -5,7 +5,7 @@ last_modified_at: 2026-06-05
 header:
   teaser: /assets/images/blog/lullaby-land.jpg
 categories:
-  - blog
+  - project
 platforms:
   - eurorack
   - chase bliss

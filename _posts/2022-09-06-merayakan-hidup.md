@@ -5,7 +5,7 @@ last_modified_at: 2026-06-05
 header:
   teaser: /assets/images/blog/merayakan.jpg
 categories:
-  - blog
+  - project
 platforms:
   - eurorack
   - monome

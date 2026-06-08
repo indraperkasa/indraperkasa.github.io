@@ -78,10 +78,6 @@ author:
       url: "https://lieindraperkasa.bandcamp.com"
 
 # Collections
-collections:
-  released_works:
-    output: true
-    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -105,15 +101,6 @@ defaults:
       layout: single
       author_profile: true
   #_released_works
-  - scope:
-      path: ""
-      type: released_works
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      show_date: true
-      related: true
 
 category_archive:
   type: liquid

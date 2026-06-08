@@ -4,9 +4,10 @@ date: 2025-06-06
 header:
   teaser: /assets/images/music-prod/ost/goodbye-ost.jpg
 categories:
-  - filmscoring
+  - release
 tags:
   - soundtrack
+  - film scoring
   - drama
   - toxic
   - dark

@@ -5,9 +5,10 @@ last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/music-prod/releases/invisible.jpg
 categories:
-  - solo-project
+  - release
 tags:
   - single
+  - solo project
   - soundscapes
   - jakarta
   - goethe-institut

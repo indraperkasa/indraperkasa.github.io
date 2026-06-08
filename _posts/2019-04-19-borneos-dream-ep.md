@@ -5,9 +5,10 @@ last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/borneo.jpg
 categories:
-  - solo-project
+  - release
 tags:
   - EP
+  - solo project
   - ambient music
   - borneo
   - kios ojo keos

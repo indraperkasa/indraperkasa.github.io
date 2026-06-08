@@ -5,7 +5,7 @@ last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/rapalbunyi.jpg
 categories:
-  - blog
+  - project
 platforms:
   - nintendo
 devices:

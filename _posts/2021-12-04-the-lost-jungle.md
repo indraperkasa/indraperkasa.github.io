@@ -5,7 +5,7 @@ last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/blog/lostjungle-v.jpg
 categories:
-  - blog
+  - project
 platforms:
   - monome
   - black-corp

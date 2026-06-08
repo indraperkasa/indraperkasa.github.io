@@ -5,7 +5,7 @@ last_modified_at: 2026-06-05
 header:
   teaser: /assets/images/music-prod/releases/come-2.jpg
 categories:
-  - solo-project
+  - release
 platforms:
   - eurorack
   - monome
@@ -14,6 +14,7 @@ devices:
   - crow
 tags:
   - single
+  - solo project
   - electronic music
   - modular synth
   - beatles

@@ -4,9 +4,10 @@ date: 2020-05-22
 header:
   teaser: /assets/images/music-prod/ost/labuan-ost.jpg
 categories:
-  - filmscoring
+  - release
 tags:
   - soundtrack
+  - film scoring
   - drama
   - holiday music
   - labuan bajo
