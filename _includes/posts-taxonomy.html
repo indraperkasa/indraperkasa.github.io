@@ -25,7 +25,12 @@
   {% for taxonomy in include.taxonomies %}
     {% if taxonomy[1].size == i %}
       <section id="{{ taxonomy[0] | slugify }}" class="taxonomy__section">
-        <h2 class="archive__subtitle">{{ taxonomy[0] }}</h2>
+        <h2 class="archive__subtitle">
+          <a
+          href="#{{ taxonomy[0] | slugify }}"
+          class="btn btn--warning btn--small">
+          {{ taxonomy[0] }}</a>
+        </h2>
         <div class="entries-{{ entries_layout }}">
           {% for post in taxonomy.last %}
             {% include archive-single.html locale=locale type=entries_layout %}

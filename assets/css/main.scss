@@ -11,39 +11,37 @@ $masthead-link-color-hover: #4682B4;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
+// Track List in release page
 .tracklist-total td:first-child {
   text-align: right;
 }
 
+// Video Gallery grouping
 .video-gallery {
   display: grid;
   gap: 1rem;
   margin-bottom: 1.3em;
 }
-
 .video-gallery.half {
   grid-template-columns: repeat(2, 1fr);
 }
-
 .video-gallery.third {
   grid-template-columns: repeat(3, 1fr);
 }
-
 .video-gallery__item {
   min-width: 0;
 }
-
 @media (max-width: 768px) {
   .video-gallery.half,
   .video-gallery.third {
     grid-template-columns: 1fr;
   }
 }
-
 .video-caption {
   font-size: 0.7em;
 }
 
+// sticky header
 .masthead {
   position: sticky;
   top: 0;
@@ -51,20 +49,18 @@ $masthead-link-color-hover: #4682B4;
   background: $background-color;
   box-shadow: 0 1px 3px rgba(0,0,0,.15);
 }
-
 .masthead__inner-wrap {
   padding: 0.27rem 1rem;
 }
-
 .sidebar__right.sticky {
   top: 60px;
 }
-
 .archive__subtitle {
   margin-top: 0.2rem;
   margin-bottom: 0.2rem;
 }
 
+// Tag page, offseting title section
 .taxonomy__section::before,
 .archive h2[id]::before {
   content: "";
@@ -74,10 +70,20 @@ $masthead-link-color-hover: #4682B4;
   visibility: hidden;
   pointer-events: none;
 }
+.taxonomy__section {
+  scroll-margin-top: 10px;
+}
+.archive__subtitle .btn {
+  font-size: 1rem;
+  font-weight: 333;
+  letter-spacing: 0.1em;
+  // color: rgb(90, 63, 9);
+}
 
+// putting Categories, Tags, Platform, Devices on top.
 .page__meta {
   font-size: 0.85em;
-  border-top: 0.5px solid $border-color;
+  // border-top: 0.5px solid $border-color;
 }
 .page__meta-date {
   font-weight: bold;
@@ -88,19 +94,21 @@ $masthead-link-color-hover: #4682B4;
   // padding-bottom: 0.1em;
   
 }
-
 .page__date {
   font-size: 0.85em;
   border-bottom: 0.5px solid $border-color;
 }
-
 .page__taxonomy {
   font-size: 0.85em;
   // padding-bottom: 0.2em;
   // margin-bottom: 0.2em;
   border-bottom: 0.8px solid $border-color;
 }
-
 .page__taxonomy-item {
-  padding: 1px 6px;
+  padding: 1px 5px;
+}
+
+// solving Category page, jump to title issue.
+.entries-grid {
+  display: flow-root;
 }

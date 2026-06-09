@@ -74,7 +74,12 @@ layout: archive
   {% unless platform == "" %}
 
     <section id="platform-{{ platform | slugify }}" class="taxonomy__section">
-      <h2 class="archive__subtitle">{{ platform }}</h2>
+      <h2 class="archive__subtitle">
+        <a
+        href="#platform-{{ platform | slugify }}"
+        class="btn btn--primary btn--small">
+        {{ platform }}</a>
+      </h2>
 
       <div class="entries-{{ entries_layout }}">
         {% for post in site.posts %}
@@ -132,7 +137,12 @@ layout: archive
   {% unless device == "" %}
 
     <section id="device-{{ device | slugify }}" class="taxonomy__section">
-      <h2 class="archive__subtitle">{{ device }}</h2>
+      <h2 class="archive__subtitle">
+        <a
+        href="#device-{{ device | slugify }}"
+        class="btn btn--success btn--small">
+        {{ device }}</a>
+      </h2>
 
       <div class="entries-{{ entries_layout }}">
         {% for post in site.posts %}

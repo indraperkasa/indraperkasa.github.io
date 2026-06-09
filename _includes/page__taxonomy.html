@@ -36,9 +36,10 @@
     <p class="page__taxonomy">
       <strong><i class="fa-solid fa-face-smile" aria-hidden="true"></i> Moods:</strong>
       {% for mood in page.moods %}
-        <span class="page__taxonomy-item">
+        <a href="{{'/moods/' | relative_url }}#{{ mood | slugify }}"
+           class="page__taxonomy-item">
           {{ mood }}
-        </span>
+        </a>
       {% endfor %}
     </p>
   {% endif %}

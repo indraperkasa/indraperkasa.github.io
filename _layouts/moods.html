@@ -1,0 +1,61 @@
+---
+layout: archive
+---
+{%- assign locale = page.locale | default: layout.locale | default: site.locale %}
+
+{% assign releases = site.categories.release %}
+
+{% assign moods = "" | split: "" %}
+
+{% for post in releases %}
+  {% if post.moods %}
+    {% for mood in post.moods %}
+      {% unless moods contains mood %}
+        {% assign moods = moods | push: mood %}
+      {% endunless %}
+    {% endfor %}
+  {% endif %}
+{% endfor %}
+
+{% assign moods = moods | sort %}
+
+<ul class="taxonomy__index">
+{% for mood in moods %}
+
+    {% assign mood_count = 0 %}
+    {% for post in releases %}
+        {% if post.moods contains mood %}
+            {% assign mood_count = mood_count | plus: 1 %}
+        {% endif %}
+    {% endfor %}
+
+    <li>
+      <a href="#{{ mood | slugify }}">
+        <strong>{{ mood }}</strong>
+        <span class="taxonomy__count">{{ mood_count }}</span>
+      </a>
+    </li>
+{% endfor %}
+<h2>total releases: {{ releases | size }}</h2>
+</ul>
+
+{% for mood in moods %}
+
+  <section id="{{ mood | slugify }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">
+        <a
+        href="#{{ mood | slugify }}"
+        class="btn btn--danger btn--small">
+        {{ mood }}</a>
+    </h2>
+
+    <div class="entries-grid">
+      {% for post in releases %}
+        {% if post.moods contains mood %}
+          {% include archive-single.html type="grid" %}
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+{% endfor %}
