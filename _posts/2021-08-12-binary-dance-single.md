@@ -4,16 +4,29 @@ date: 2021-08-12
 last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/music-prod/releases/binary.jpg
+platforms:
+  - monome
+  - mannequins
+devices:
+  - crow
+  - mangrove
+  - three-sisters
+  - wslash
+  - just-friends
+  - cold-mac
 categories:
   - release
+moods:
+  - ambient
+  - floating
 tags:
   - single
   - solo project
-  - modular
+  - electronic music
+  - modular synth
   - coding
-  - monome
-  - crow
   - lua
+  - druid
 excerpt: single release, monome crow exploration.
 ---
 

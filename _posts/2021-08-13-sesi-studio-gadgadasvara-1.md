@@ -8,9 +8,7 @@ categories:
   - project
 tags:
   - live set
-  - studio gadgadasvara
-  - ananda badudu
-  - monita tahalea
+  - studio session
 excerpt: menampilkan Ananda Badudu dan Monita Tahalea
 ---
 #### Ananda Badudu

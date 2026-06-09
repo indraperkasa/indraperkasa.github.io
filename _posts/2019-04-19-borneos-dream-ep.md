@@ -6,14 +6,16 @@ header:
   teaser: /assets/images/blog/borneo.jpg
 categories:
   - release
+moods:
+  - ambient
+  - forest
+  - dreamy
 tags:
   - EP
   - solo project
-  - ambient music
-  - borneo
-  - kios ojo keos
-  - modular synth
   - live set
+  - electronic music
+  - modular synth
 excerpt: EP release, modular live performance at Kios Ojo Keos.
 tracks:
   - track: 1

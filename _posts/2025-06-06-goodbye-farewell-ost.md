@@ -5,12 +5,14 @@ header:
   teaser: /assets/images/music-prod/ost/goodbye-ost.jpg
 categories:
   - release
+moods:
+  - dark
+  - sentimental
+  - toxic
 tags:
   - soundtrack
   - film scoring
   - drama
-  - toxic
-  - dark
 excerpt: album release, a film by Adriyanto Dewo.
 tracks:
   - track: 1

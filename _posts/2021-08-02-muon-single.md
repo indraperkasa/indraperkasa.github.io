@@ -6,9 +6,12 @@ header:
   teaser: /assets/images/music-prod/releases/muon.jpg
 categories:
   - release
+moods:
+  - chill
 tags:
   - single
   - solo project
+  - electronic music
   - modular synth
 excerpt: single release, qpas exploration.
 ---

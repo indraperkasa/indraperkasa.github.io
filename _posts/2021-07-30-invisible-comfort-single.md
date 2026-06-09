@@ -6,11 +6,14 @@ header:
   teaser: /assets/images/music-prod/releases/invisible.jpg
 categories:
   - release
+moods:
+  - ambient
+  - city life
 tags:
   - single
   - solo project
+  - music concrete
   - soundscapes
-  - jakarta
   - goethe-institut
 excerpt: single release, a commissioned digital project Sound of X, initiated by Goethe-Insitut Jakarta.
 ---

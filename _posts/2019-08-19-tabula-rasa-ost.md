@@ -5,12 +5,12 @@ header:
   teaser: /assets/images/music-prod/ost/tabula-ost.jpg
 categories:
   - release
+moods:
+  - sentimental
 tags:
   - soundtrack
   - film scoring
   - drama
-  - family
-  - food
 excerpt: album release, a film by Adriyanto Dewo.
 tracks:
   - track: 1

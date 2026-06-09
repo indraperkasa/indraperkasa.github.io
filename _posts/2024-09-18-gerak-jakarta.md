@@ -10,8 +10,7 @@ categories:
 tags:
   - film scoring
   - documentary
-  - Jakarta
-  - Pembangunan Jaya
+  - Jaya Group
 excerpt: a short documentary about Jakarta by Pembangunan Jaya.
 ---
 

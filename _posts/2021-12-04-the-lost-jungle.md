@@ -4,19 +4,17 @@ date: 2021-12-04
 last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/blog/lostjungle-v.jpg
-categories:
-  - project
 platforms:
   - monome
   - black-corp
 devices:
   - norns
   - deckards-dream
+categories:
+  - project
 tags:
   - exhibition
-  - ambient music
   - soundscapes
-  - flora
 excerpt: collaboration project with Tromarama.
 ---
 

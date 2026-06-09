@@ -9,8 +9,9 @@ categories:
   - project
 tags:
   - commission
-  - goethe-institut
+  - music concrete
   - soundscapes
+  - goethe-institut
 excerpt: a sound exploration project, commissioned by Goethe-Institut Jakarta.
 classes: wide
 ---

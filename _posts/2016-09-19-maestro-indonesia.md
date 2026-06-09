@@ -9,13 +9,11 @@ categories:
 tags:
   - film scoring
   - documentary
-  - maestro
-  - Pembangunan Jaya
-  - Miles Films
-excerpt: dokumenter tentang tokoh-tokoh nasional Indonesia.
+  - Jaya Group
+excerpt: dokumenter tentang tokoh-tokoh nasional Indonesia oleh Pembangunan Jaya.
 ---
 
-web series Maestro Indonesia yang mengangkat profil tokoh-tokoh nasional Indonesia, yang berhasil menjadi inspirasi bagi generasinya untuk membangun bangsa dan negara.
+web series Maestro Indonesia yang mengangkat profil tokoh-tokoh nasional Indonesia, yang berhasil menjadi inspirasi bagi generasinya untuk membangun bangsa dan negara. produksi Miles Films
 
 ### Chairil Anwar
 {% include video id="aLmIzWU39FE" provider="youtube" %}

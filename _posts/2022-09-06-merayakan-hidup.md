@@ -4,20 +4,21 @@ date: 2022-09-06
 last_modified_at: 2026-06-05
 header:
   teaser: /assets/images/blog/merayakan.jpg
-categories:
-  - project
 platforms:
   - eurorack
   - monome
 devices:
   - norns
   - mother32
+categories:
+  - project
+moods:
+  - contemplative
 tags:
   - jamming
   - electronic music
   - modular synth
-  - ambient music
-  - wedding anniversary
+  - cover
 excerpt: a song cover of Hiruplah Hidup by Ananda Badudu & Gardika Gigih.
 ---
 

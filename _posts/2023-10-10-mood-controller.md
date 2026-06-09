@@ -4,12 +4,12 @@ date: 2023-10-10
 last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/blog/mood-teaser.jpg
-categories:
-  - project
 platforms:
   - chase bliss
 devices:
   - mood mk2
+categories:
+  - project
 tags:
   - coding
   - visual programming

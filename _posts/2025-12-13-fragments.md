@@ -4,19 +4,15 @@ date: 2025-12-13
 last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/fragments.jpg
-categories:
-  - project
 platforms:
   - monome
 devices:
   - norns
+categories:
+  - project
 tags:
-  - werifesteria
-  - suita rimba
-  - kodama
-  - electronic music
-  - modular synth
   - video art
+  - electronic music
 excerpt: a video work by Reuben Tourino
 ---
 

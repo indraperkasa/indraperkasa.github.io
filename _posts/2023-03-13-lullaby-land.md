@@ -4,21 +4,26 @@ date: 2023-03-13
 last_modified_at: 2026-06-05
 header:
   teaser: /assets/images/blog/lullaby-land.jpg
-categories:
-  - project
 platforms:
-  - eurorack
+  - monome
+  - mannequins
   - chase bliss
 devices:
-  - mannequins
   - teletype
+  - just-friends
+  - three-sisters
+  - wslash
   - mood mk1
+categories:
+  - project
+moods:
+  - ambient
+  - relax
 tags:
   - jamming
+  - live set
   - electronic music
   - modular synth
-  - ambient music
-  - live set
 excerpt: first jam after the birth of my son.
 ---
 

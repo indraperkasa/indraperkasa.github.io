@@ -6,12 +6,14 @@ header:
   teaser: /assets/images/blog/laila-imp.jpg
 categories:
   - release
+moods:
+  - ambient
+  - dreamy
+  - contemplative
 tags:
   - single
   - solo project
-  - impromptu
-  - laila
-  - sampling
+  - electronic music
 excerpt: single release, an impromptu on Laila.
 ---
 

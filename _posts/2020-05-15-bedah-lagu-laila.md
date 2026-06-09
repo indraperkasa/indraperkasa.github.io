@@ -6,14 +6,10 @@ last_modified_at: 2026-06-07
 header:
   teaser: /assets/images/blog/deconstruct.jpg
 categories:
-  - project
+  - blog
 tags:
   - music production
   - producer talk
-  - laila
-  - monita tahalea
-  - shoemaker studios
-  - covid
 excerpt: bedah lagu Laila bersama Shoemaker Studios
 ---
 

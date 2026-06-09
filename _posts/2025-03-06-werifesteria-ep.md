@@ -6,13 +6,15 @@ header:
   teaser: /assets/images/blog/werifest-cover.jpg
 categories:
   - release
+moods:
+  - ambient
+  - forest
+  - dreamy
 tags:
   - EP
   - solo project
-  - ambient music
-  - claire de lune
+  - electronic music
   - claude debussy
-  - forest
 excerpt: EP release, celebrating my son's 2nd birthday.
 tracks:
   - track: 1

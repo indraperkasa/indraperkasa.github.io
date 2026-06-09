@@ -5,12 +5,12 @@ header:
   teaser: /assets/images/music-prod/ost/labuan-ost.jpg
 categories:
   - release
+moods:
+  - holiday
 tags:
   - soundtrack
   - film scoring
   - drama
-  - holiday music
-  - labuan bajo
 excerpt: album release, a film by Lola Amaria.
 tracks:
   - track: 1

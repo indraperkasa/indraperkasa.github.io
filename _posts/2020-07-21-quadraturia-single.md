@@ -6,9 +6,13 @@ header:
   teaser: /assets/images/music-prod/releases/quadra.jpg
 categories:
   - release
+moods:
+  - ambient
+  - ethereal
 tags:
   - single
   - solo project
+  - electronic music
   - modular synth
 excerpt: single release, mutable instruments exploration.
 ---

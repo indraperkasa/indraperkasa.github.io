@@ -7,9 +7,9 @@ header:
 categories:
   - project
 tags:
+  - workshop
   - electronic music
   - experimental
-  - workshop
   - goethe-institut
 excerpt: multimedia workshop initiated by Goethe-Insitut Jakarta.
 rupa:

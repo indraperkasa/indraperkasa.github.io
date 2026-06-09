@@ -1,17 +1,10 @@
 {% assign locale = include.locale | default: site.locale %}
+
 {% unless site.show_taxonomy == false %}
-
-  {% if site.tag_archive.type and page.tags[0] %}
-    {% include tag-list.html locale=locale %}
-  {% endif %}
-
-  {% if site.category_archive.type and page.categories[0] %}
-    {% include category-list.html locale=locale %}
-  {% endif %}
 
   {% if page.platforms %}
   <p class="page__taxonomy">
-    <strong>platforms:</strong>
+    <strong><i class="fa-solid fa-globe"></i> Platforms:</strong>
 
     {% for platform in page.platforms %}
       <a href="/tags/#platform-{{ platform | slugify }}"
@@ -24,7 +17,7 @@
 
   {% if page.devices %}
   <p class="page__taxonomy">
-    <strong>devices:</strong>
+    <strong><i class="fa-solid fa-mobile-retro"></i> Devices:</strong>
 
     {% for device in page.devices %}
       <a href="/tags/#device-{{ device | slugify }}"
@@ -33,6 +26,25 @@
       </a>
     {% endfor %}
   </p>
+  {% endif %}
+
+  {% if site.category_archive.type and page.categories[0] %}
+    {% include category-list.html locale=locale %}
+  {% endif %}
+
+  {% if page.moods %}
+    <p class="page__taxonomy">
+      <strong><i class="fa-solid fa-face-smile" aria-hidden="true"></i> Moods:</strong>
+      {% for mood in page.moods %}
+        <span class="page__taxonomy-item">
+          {{ mood }}
+        </span>
+      {% endfor %}
+    </p>
+  {% endif %}
+
+  {% if site.tag_archive.type and page.tags[0] %}
+    {% include tag-list.html locale=locale %}
   {% endif %}
 
 {% endunless %}

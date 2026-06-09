@@ -4,22 +4,24 @@ date: 2020-07-19
 last_modified_at: 2026-06-05
 header:
   teaser: /assets/images/music-prod/releases/come-2.jpg
-categories:
-  - release
 platforms:
   - eurorack
   - monome
 devices:
   - mannequins
   - crow
+categories:
+  - release
+moods:
+  - offbeat
+  - IDM
 tags:
   - single
   - solo project
   - electronic music
   - modular synth
-  - beatles
+  - cover
   - just intonation
-  - covid
 excerpt: beatles cover with wifey during covid.
 ---
 

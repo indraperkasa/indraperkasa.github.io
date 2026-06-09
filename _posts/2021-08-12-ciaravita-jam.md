@@ -4,8 +4,6 @@ date: 2021-08-21
 last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/ciaravita-jam.jpg
-categories:
-  - project
 platforms:
   - monome
   - mannequins
@@ -16,13 +14,18 @@ devices:
   - wslash
   - just-friends
   - cold-mac
+categories:
+  - project
+moods:
+  - ambient
+  - floating
 tags:
   - jamming
+  - electronic music
+  - modular synth
   - coding
   - lua
   - druid
-  - electronic music
-  - modular synth
 excerpt: semi live coding monome crow using druid.
 ---
 

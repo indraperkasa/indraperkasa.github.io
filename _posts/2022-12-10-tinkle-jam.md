@@ -4,20 +4,20 @@ date: 2022-12-10
 last_modified_at: 2026-06-05
 header:
   teaser: /assets/images/blog/tinkle-jam.jpg
-categories:
-  - project
 platforms:
   - eurorack
 devices:
   - nonlinearcircuits
+categories:
+  - project
+moods:
+  - offbeat
+  - percussive
 tags:
   - jamming
   - electronic music
   - modular synth
-  - percussive
   - gamelan resonator
-  - bongo
-  - low pass gate
 excerpt: jamming on NLC Tinkle, a plucky gamelan resonator.
 ---
 

@@ -4,13 +4,13 @@ date: 2024-04-06
 last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/rapalbunyi.jpg
-categories:
-  - project
 platforms:
   - nintendo
 devices:
   - wiimote
   - osculator
+categories:
+  - project
 tags:
   - jamming
   - electronic music
