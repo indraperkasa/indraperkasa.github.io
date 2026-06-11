@@ -16,7 +16,7 @@ categories:
   - release
 moods:
   - offbeat
-  - IDM
+  - chill
 tags:
   - single
   - solo project
