@@ -4,12 +4,14 @@ date: 2020-07-19
 last_modified_at: 2026-06-05
 header:
   teaser: /assets/images/music-prod/releases/come-2.jpg
-platforms:
-  - eurorack
-  - monome
-devices:
-  - mannequins
-  - crow
+methods:
+  - self-studio tracking
+  - coding
+  - just intonation
+tools:
+  - modular synth
+  - acoustic instruments
+  - electric instruments
 categories:
   - release
 moods:
@@ -19,9 +21,7 @@ tags:
   - single
   - solo project
   - electronic music
-  - modular synth
   - cover
-  - just intonation
 excerpt: beatles cover with wifey during covid.
 ---
 

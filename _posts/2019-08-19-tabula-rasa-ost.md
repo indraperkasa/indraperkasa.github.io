@@ -7,6 +7,14 @@ categories:
   - release
 moods:
   - sentimental
+methods:
+  - music programming
+  - self-studio tracking
+  - ensemble recording
+tools:
+  - acoustic instruments
+  - traditional instruments
+  - vst
 tags:
   - soundtrack
   - film scoring

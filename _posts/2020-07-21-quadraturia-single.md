@@ -4,6 +4,12 @@ date: 2020-07-21
 last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/music-prod/releases/quadra.jpg
+methods:
+  - improvisation
+  - generative patch
+  - self-studio tracking
+tools:
+  - modular synth
 categories:
   - release
 moods:
@@ -13,7 +19,6 @@ tags:
   - single
   - solo project
   - electronic music
-  - modular synth
 excerpt: single release, mutable instruments exploration.
 ---
 

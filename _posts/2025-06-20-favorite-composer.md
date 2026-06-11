@@ -3,7 +3,7 @@ title: "Today's Film Composer That I Like"
 date: 2025-06-20
 last_modified_at: 2026-06-5
 header:
-  teaser: /assets/images/bg/gadgadasvara-wall-h.jpg
+  teaser:
 categories:
   - blog
 tags:

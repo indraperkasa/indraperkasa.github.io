@@ -9,7 +9,7 @@ categories:
 tags:
   - film scoring
   - documentary
-  - Jaya Group
+  - jaya group
 excerpt: dokumenter tentang tokoh-tokoh nasional Indonesia oleh Pembangunan Jaya.
 ---
 

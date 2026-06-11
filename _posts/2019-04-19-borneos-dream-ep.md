@@ -4,6 +4,13 @@ date: 2019-04-19
 last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/borneo.jpg
+methods:
+  - improvisation
+  - generative patch
+  - sample mangling
+  - live set recording
+tools:
+  - modular synth
 categories:
   - release
 moods:
@@ -11,11 +18,9 @@ moods:
   - forest
   - dreamy
 tags:
-  - EP
+  - ep
   - solo project
-  - live set
   - electronic music
-  - modular synth
 excerpt: EP release, modular live performance at Kios Ojo Keos.
 tracks:
   - track: 1

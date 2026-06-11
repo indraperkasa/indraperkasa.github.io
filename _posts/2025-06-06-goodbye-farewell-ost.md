@@ -5,6 +5,14 @@ header:
   teaser: /assets/images/music-prod/ost/goodbye-ost.jpg
 categories:
   - release
+methods:
+  - music programming
+  - self-studio tracking
+tools:
+  - modular synth
+  - desktop synth
+  - acoustic instruments
+  - vst
 moods:
   - dark
   - sentimental
@@ -13,6 +21,7 @@ tags:
   - soundtrack
   - film scoring
   - drama
+  - deckards-dream
 excerpt: album release, a film by Adriyanto Dewo.
 tracks:
   - track: 1

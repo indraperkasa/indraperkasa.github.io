@@ -6,6 +6,12 @@ header:
   teaser: /assets/images/blog/sesi-studio.jpg
 categories:
   - project
+methods:
+  - live set recording
+tools:
+  - acoustic instruments
+  - desktop synth
+  - vocal
 tags:
   - live set
   - studio session

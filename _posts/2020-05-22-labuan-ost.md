@@ -7,6 +7,12 @@ categories:
   - release
 moods:
   - holiday
+methods:
+  - music programming
+  - self-studio tracking
+tools:
+  - acoustic instruments
+  - vst
 tags:
   - soundtrack
   - film scoring

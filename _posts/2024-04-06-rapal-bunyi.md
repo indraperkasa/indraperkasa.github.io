@@ -4,17 +4,19 @@ date: 2024-04-06
 last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/rapalbunyi.jpg
-platforms:
-  - nintendo
-devices:
+methods:
+  - generative patch
+  - open sound control
+  - interactive
+tools:
   - wiimote
   - osculator
+  - modular synth
 categories:
   - project
 tags:
   - jamming
   - electronic music
-  - modular synth
   - interactive
 excerpt: jamming/study on wiimote controlling eurorack parameter.
 ---

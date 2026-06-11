@@ -10,6 +10,7 @@
 title: "Gadgadasvara Studio | Indra Perkasa"
 masthead_title: "studio"
 logo: "/assets/images/banner/gadgadasvara-black.png"
+teaser: "/assets/images/bg/gadgadasvara-wall-h.jpg"
 subtitle: "Portfolio, Blog, and Archives"
 name: &name "Indra Perkasa"
 description: &description "Portfolio of Indra Perkasa at Gadgadasvara Studio."
@@ -100,7 +101,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  #_released_works
 
 category_archive:
   type: liquid

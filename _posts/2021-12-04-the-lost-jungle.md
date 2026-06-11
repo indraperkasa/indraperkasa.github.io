@@ -4,17 +4,22 @@ date: 2021-12-04
 last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/blog/lostjungle-v.jpg
-platforms:
-  - monome
-  - black-corp
-devices:
-  - norns
-  - deckards-dream
+methods:
+  - sample mangling
+  - digital audio synthesis
+  - generative patch
+tools:
+  - desktop synth
+  - modular synth
+  - sound computer
 categories:
   - project
 tags:
   - exhibition
+  - commission
   - soundscapes
+  - norns
+  - deckards-dream
 excerpt: collaboration project with Tromarama.
 ---
 

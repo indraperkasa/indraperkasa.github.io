@@ -6,6 +6,15 @@ header:
   teaser: /assets/images/music-prod/releases/invisible.jpg
 categories:
   - release
+methods:
+  - soundscape recording
+  - self-studio tracking
+  - sample mangling
+tools:
+  - cassette tape loop
+  - modular synth
+  - sound computer
+  - diy
 moods:
   - ambient
   - city life
@@ -15,6 +24,7 @@ tags:
   - music concrete
   - soundscapes
   - goethe-institut
+  - norns
 excerpt: single release, a commissioned digital project Sound of X, initiated by Goethe-Insitut Jakarta.
 ---
 

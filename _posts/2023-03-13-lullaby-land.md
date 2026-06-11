@@ -4,16 +4,14 @@ date: 2023-03-13
 last_modified_at: 2026-06-05
 header:
   teaser: /assets/images/blog/lullaby-land.jpg
-platforms:
-  - monome
-  - mannequins
-  - chase bliss
-devices:
-  - teletype
-  - just-friends
-  - three-sisters
-  - wslash
-  - mood mk1
+methods:
+  - generative patch
+  - improvisation
+  - coding
+  - live looping
+tools:
+  - modular synth
+  - pedal - micro looper
 categories:
   - project
 moods:
@@ -23,7 +21,7 @@ tags:
   - jamming
   - live set
   - electronic music
-  - modular synth
+  - teletype
 excerpt: first jam after the birth of my son.
 ---
 

@@ -6,7 +6,8 @@
   {% endif %}
 {% endfor %}
 
-<ul class="taxonomy__index">
+<!-- SORT by COUNT  VERSION -->
+{% comment %} <ul class="taxonomy__index">
   {% for i in (1..items_max) reversed %}
     {% for item in include.taxonomies %}
       {% if item[1].size == i %}
@@ -18,9 +19,23 @@
       {% endif %}
     {% endfor %}
   {% endfor %}
+</ul> {% endcomment %}
+
+<!-- TAG LIST - SORT ALPHABETICALLY VERSION -->
+<ul class="taxonomy__index">
+  {% assign sorted_taxonomies = include.taxonomies | sort %}
+
+  {% for item in sorted_taxonomies %}
+    <li>
+      <a href="#{{ item[0] | slugify }}">
+        <strong>{{ item[0] }}</strong>
+        <span class="taxonomy__count">{{ item[1].size }}</span>
+      </a>
+    </li>
+  {% endfor %}
 </ul>
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
+{% comment %} {% assign entries_layout = page.entries_layout | default: 'list' %}
 {% for i in (1..items_max) reversed %}
   {% for taxonomy in include.taxonomies %}
     {% if taxonomy[1].size == i %}
@@ -36,8 +51,30 @@
             {% include archive-single.html locale=locale type=entries_layout %}
           {% endfor %}
         </div>
-        <!-- <a href="#page-title" class="back-to-top">{{ site.data.ui-text[locale].back_to_top | default: 'Back to Top' }} &uarr;</a> -->
       </section>
     {% endif %}
   {% endfor %}
+{% endfor %} {% endcomment %}
+
+<!-- SECTION TAG - SORT ALPHABETICALLY VERSION -->
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
+{% assign sorted_taxonomies = include.taxonomies | sort %}
+
+{% for taxonomy in sorted_taxonomies %}
+  <section id="{{ taxonomy[0] | slugify }}" class="taxonomy__section">
+    <h2 class="archive__subtitle">
+       <a
+        href="#{{ taxonomy[0] | slugify }}"
+        class="btn btn--warning btn--small">
+        {{ taxonomy[0] }}</a>
+    </h2>
+
+    <div class="entries-{{ entries_layout }}">
+      {% for post in taxonomy[1] %}
+        {% include archive-single.html locale=locale type=entries_layout %}
+      {% endfor %}
+    </div>
+
+  </section>
 {% endfor %}

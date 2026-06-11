@@ -4,10 +4,18 @@ date: 2025-12-13
 last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/fragments.jpg
-platforms:
-  - monome
-devices:
-  - norns
+methods:
+  - self-studio tracking
+  - music programming
+  - digital audio synthesis
+  - sample mangling
+  - generative patch
+tools:
+  - sound computer
+  - modular synth
+  - desktop synth
+  - acoustic instruments
+  - vst
 categories:
   - project
 tags:

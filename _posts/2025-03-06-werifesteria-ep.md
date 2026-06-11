@@ -4,6 +4,19 @@ date: 2025-03-06
 last_modified_at: 2026-06-04
 header:
   teaser: /assets/images/blog/werifest-cover.jpg
+methods:
+  - self-studio tracking
+  - music programming
+  - digital audio synthesis
+  - sample mangling
+  - generative patch
+tools:
+  - sound computer
+  - modular synth
+  - desktop synth
+  - acoustic instruments
+  - vst
+  - vocal
 categories:
   - release
 moods:
@@ -11,10 +24,12 @@ moods:
   - forest
   - dreamy
 tags:
-  - EP
+  - ep
   - solo project
   - electronic music
   - claude debussy
+  - norns
+  - deckards-dream
 excerpt: EP release, celebrating my son's 2nd birthday.
 tracks:
   - track: 1

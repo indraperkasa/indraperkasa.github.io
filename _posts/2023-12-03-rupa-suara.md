@@ -6,11 +6,19 @@ header:
   teaser: /assets/images/blog/rupasuara-sq.png
 categories:
   - project
+methods:
+  - immersive audio
+  - interactive
+  - teaching
+tools:
+  - video synth
+  - diy
 tags:
   - workshop
   - electronic music
   - experimental
   - goethe-institut
+  - video art
 excerpt: multimedia workshop initiated by Goethe-Insitut Jakarta.
 rupa:
   - image_path: /assets/images/blog/rupasuara_1.png

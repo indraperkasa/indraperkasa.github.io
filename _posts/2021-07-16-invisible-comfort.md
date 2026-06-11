@@ -5,13 +5,24 @@ date: 2021-07-16
 last_modified_at: 2026-06-01
 header:
   teaser: /assets/images/blog/ic-teaser.jpg
+methods:
+  - soundscape recording
+  - self-studio tracking
+  - sample mangling
+tools:
+  - cassette tape loop
+  - modular synth
+  - sound computer
+  - diy
 categories:
   - project
 tags:
   - commission
   - music concrete
   - soundscapes
+  - norns
   - goethe-institut
+  - video art
 excerpt: a sound exploration project, commissioned by Goethe-Institut Jakarta.
 classes: wide
 ---

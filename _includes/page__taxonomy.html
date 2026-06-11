@@ -2,27 +2,27 @@
 
 {% unless site.show_taxonomy == false %}
 
-  {% if page.platforms %}
+  {% if page.methods %}
   <p class="page__taxonomy">
-    <strong><i class="fa-solid fa-globe"></i> Platforms:</strong>
+    <strong><i class="fa-solid fa-glasses"></i> Methods:</strong>
 
-    {% for platform in page.platforms %}
-      <a href="/tags/#platform-{{ platform | slugify }}"
+    {% for method in page.methods %}
+      <a href="/tags/#method-{{ method | slugify }}"
          class="page__taxonomy-item">
-        {{ platform }}
+        {{ method }}
       </a>
     {% endfor %}
   </p>
   {% endif %}
 
-  {% if page.devices %}
+  {% if page.tools %}
   <p class="page__taxonomy">
-    <strong><i class="fa-solid fa-mobile-retro"></i> Devices:</strong>
+    <strong><i class="fa-solid fa-wrench"></i> Tools:</strong>
 
-    {% for device in page.devices %}
-      <a href="/tags/#device-{{ device | slugify }}"
+    {% for tool in page.tools %}
+      <a href="/tags/#tool-{{ tool | slugify }}"
          class="page__taxonomy-item">
-        {{ device }}
+        {{ tool }}
       </a>
     {% endfor %}
   </p>

@@ -4,15 +4,13 @@ date: 2023-10-10
 last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/blog/mood-teaser.jpg
-platforms:
-  - chase bliss
-devices:
-  - mood mk2
+methods:
+  - visual programming
+tools:
+  - max
 categories:
   - project
 tags:
-  - coding
-  - visual programming
   - midi controller
   - max for live
 excerpt: Max for Live device controlling Chase Bliss Mood mk2.

@@ -4,6 +4,12 @@ date: 2021-05-13
 last_modified_at: 2026-06-03
 header:
   teaser: /assets/images/blog/laila-imp.jpg
+methods:
+  - sample mangling
+  - improvisation
+tools:
+  - acoustic instruments
+  - sound computer
 categories:
   - release
 moods:
@@ -13,7 +19,9 @@ moods:
 tags:
   - single
   - solo project
+  - improvisation
   - electronic music
+  - norns
 excerpt: single release, an impromptu on Laila.
 ---
 
@@ -24,4 +32,13 @@ back when i was working on [Monita Tahalea](https://www.instagram.com/monitataha
 
 some of it make it thru, and become the intro part of Laila. but there's still a lot of good stuff in that improvisation recording that i really like. so i decided to scan thru the recording, doing some editing, and released it as single track.
 
+#### this is the visualizer video
+i it made in touch designer, part of my attempt learning the software. need to revisit, i'm forgetting how to use TD. 
 {% include video id="g34JMsrHTRg" provider="youtube" %}
+
+---
+
+#### i found the raw footage of the improvisation!
+i almost forgot i record this video. here it is.
+{% include video id="1RtqJwL7_KlC5jo_Odsjz_Kp3fOtNZC0D" provider="google-drive" %}
+

@@ -4,10 +4,11 @@ date: 2022-12-10
 last_modified_at: 2026-06-05
 header:
   teaser: /assets/images/blog/tinkle-jam.jpg
-platforms:
-  - eurorack
-devices:
-  - nonlinearcircuits
+methods:
+  - generative patch
+tools:
+  - modular synth
+  - diy
 categories:
   - project
 moods:
@@ -16,7 +17,6 @@ moods:
 tags:
   - jamming
   - electronic music
-  - modular synth
   - gamelan resonator
 excerpt: jamming on NLC Tinkle, a plucky gamelan resonator.
 ---

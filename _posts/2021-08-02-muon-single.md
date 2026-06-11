@@ -8,11 +8,16 @@ categories:
   - release
 moods:
   - chill
+methods:
+  - improvisation
+  - generative patch
+tools:
+  - modular synth
 tags:
   - single
   - solo project
   - electronic music
-  - modular synth
+  - qpas
 excerpt: single release, qpas exploration.
 ---
 
