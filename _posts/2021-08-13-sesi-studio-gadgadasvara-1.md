@@ -13,7 +13,6 @@ tools:
   - desktop synth
   - vocal
 tags:
-  - live set
   - studio session
 excerpt: menampilkan Ananda Badudu dan Monita Tahalea
 ---

@@ -9,6 +9,7 @@ methods:
   - improvisation
   - coding
   - live looping
+  - live set recording
 tools:
   - modular synth
   - pedal - micro looper
@@ -19,7 +20,6 @@ moods:
   - relax
 tags:
   - jamming
-  - live set
   - electronic music
   - teletype
 excerpt: first jam after the birth of my son.

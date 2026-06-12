@@ -3,7 +3,7 @@ title: "Come Together - Ranya Badudu & Indra Perkasa"
 date: 2020-07-19
 last_modified_at: 2026-06-05
 header:
-  teaser: /assets/images/music-prod/releases/come-2.jpg
+  teaser: /assets/images/music-prod/releases/indranya-come5.jpg
 methods:
   - self-studio tracking
   - coding
@@ -34,7 +34,7 @@ the instruments are mostly modular synthesizers, with electric bass and acoustic
 
 all music arranged, recorded, mixed, & mastered by Lie Indra Perkasa at Gadgadasvara studio.
 
------
+![indranya-come2](/assets/images/music-prod/releases/indranya-come2.jpg)
 
 i asked my best friend John to do the video. at first  i thought it would be just a simple video, nothing fancy, just so that i can have a music video on youtube...
 

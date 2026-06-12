@@ -19,7 +19,6 @@ moods:
 tags:
   - single
   - solo project
-  - improvisation
   - electronic music
   - norns
 excerpt: single release, an impromptu on Laila.

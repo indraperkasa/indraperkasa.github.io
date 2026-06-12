@@ -8,10 +8,10 @@ methods:
   - visual programming
 tools:
   - max
+  - midi controller
 categories:
   - project
 tags:
-  - midi controller
   - max for live
 excerpt: Max for Live device controlling Chase Bliss Mood mk2.
 ---

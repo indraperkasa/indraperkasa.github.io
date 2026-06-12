@@ -9,11 +9,11 @@ methods:
 tools:
   - text editor
   - tactile instrument
+  - midi controller
 categories:
   - project
 tags:
   - lua
-  - midi controller
   - iii
   - grid
 excerpt: an iii script for monome grid
