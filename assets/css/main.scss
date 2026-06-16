@@ -41,6 +41,14 @@ $masthead-link-color-hover: #4682B4;
   font-size: 0.7em;
 }
 
+// in home page, force 2 row per poster on phone.
+@media (max-width: 37.49em) {
+  figure.third > a,
+  figure.third > img {
+    width: calc(50% - 0.5em);
+  }
+}
+
 // sticky header
 .masthead {
   position: sticky;
