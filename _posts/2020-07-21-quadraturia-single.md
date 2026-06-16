@@ -3,7 +3,7 @@ title: "Quadraturia"
 date: 2020-07-21
 last_modified_at: 2026-06-03
 header:
-  teaser: /assets/images/music-prod/releases/quadra.jpg
+  teaser: /assets/images/music-prod/releases/quadra.webp
 methods:
   - improvisation
   - generative patch

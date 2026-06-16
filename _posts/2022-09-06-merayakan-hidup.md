@@ -3,7 +3,7 @@ title: "merayakan hidup"
 date: 2022-09-06
 last_modified_at: 2026-06-05
 header:
-  teaser: /assets/images/blog/merayakan.jpg
+  teaser: /assets/images/blog/merayakan.webp
 methods:
   - live set recording
   - live looping

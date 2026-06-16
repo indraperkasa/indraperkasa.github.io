@@ -3,7 +3,7 @@ title: "Air Merta Jiwa"
 date: 2020-09-24
 last_modified_at: 2026-06-12
 header:
-  teaser: /assets/images/blog/mertajiwa.jpg
+  teaser: /assets/images/blog/mertajiwa.webp
 methods:
   - generative patch
   - improvisation

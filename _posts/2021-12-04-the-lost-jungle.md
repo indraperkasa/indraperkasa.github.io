@@ -4,7 +4,7 @@ title: "Tromarama: <br />
 date: 2021-12-04
 last_modified_at: 2026-06-03
 header:
-  teaser: /assets/images/blog/lostjungle-v.jpg
+  teaser: /assets/images/blog/lostjungle-v.webp
 methods:
   - sample mangling
   - digital audio synthesis
@@ -24,7 +24,7 @@ tags:
 excerpt: collaboration project with Tromarama.
 ---
 
-![the-lost-jungle]({{ site.url }}{{ site.baseurl }}/assets/images/blog/lostjungle-h.jpg)
+![the-lost-jungle]({{ site.url }}{{ site.baseurl }}/assets/images/blog/lostjungle-h.webp)
 
 made music for an exhibition by [Tromarama](https://tromarama.com/) at Museum Macan. more info can be found [here.](https://www.museummacan.org/cas/the-lost-jungle)
 

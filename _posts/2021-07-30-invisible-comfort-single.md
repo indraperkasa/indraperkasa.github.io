@@ -3,7 +3,7 @@ title: "Invisible Comfort - single"
 date: 2021-07-30
 last_modified_at: 2026-06-03
 header:
-  teaser: /assets/images/music-prod/releases/invisible.jpg
+  teaser: /assets/images/music-prod/releases/invisible.webp
 categories:
   - release
 methods:

@@ -13,7 +13,7 @@ entries_layout: grid
 permalink: /moods/
 author_profile: true
 header:
-  overlay_image: /assets/images/banner/werifesteria_banner2.jpg
+  overlay_image: /assets/images/banner/werifesteria_banner2.webp
   overlay_filter: 0.2
 classes: wide
 ---

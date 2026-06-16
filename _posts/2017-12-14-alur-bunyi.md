@@ -3,7 +3,7 @@ title: "Alur Bunyi Series"
 date: 2017-12-14
 last_modified_at: 2026-06-01
 header:
-  teaser: /assets/images/blog/ab-ip-2017.jpg
+  teaser: /assets/images/blog/ab-ip-2017.webp
 categories:
   - project
 tags:
@@ -17,15 +17,15 @@ more info can be found [here.](https://www.goethe.de/ins/id/id/kul/elc/anr.html)
 
 ---
 
-![ab-ip-2017]({{ site.url }}{{ site.baseurl }}/assets/images/blog/ab-ip-2017.jpg)
+![ab-ip-2017]({{ site.url }}{{ site.baseurl }}/assets/images/blog/ab-ip-2017.webp)
 
 ---
 
-![ab-paronomasia-2021]({{ site.url }}{{ site.baseurl }}/assets/images/blog/ab-paronomasia-2021.png)
+![ab-paronomasia-2021]({{ site.url }}{{ site.baseurl }}/assets/images/blog/ab-paronomasia-2021.webp)
 
 ---
 
-![ab-tennet-2025]({{ site.url }}{{ site.baseurl }}/assets/images/blog/ab-tennet-2025.jpg)
+![ab-tennet-2025]({{ site.url }}{{ site.baseurl }}/assets/images/blog/ab-tennet-2025.webp)
 
 
 ---

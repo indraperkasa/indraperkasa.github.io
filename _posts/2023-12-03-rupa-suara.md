@@ -3,7 +3,7 @@ title: "Rupa Suara"
 date: 2023-12-03
 last_modified_at: 2026-06-01
 header:
-  teaser: /assets/images/blog/rupasuara-sq.png
+  teaser: /assets/images/blog/rupasuara-sq.webp
 categories:
   - project
 methods:
@@ -21,8 +21,8 @@ tags:
   - video art
 excerpt: multimedia workshop initiated by Goethe-Insitut Jakarta.
 rupa:
-  - image_path: /assets/images/blog/rupasuara_1.png
-  - image_path: /assets/images/blog/rupasuara_3.png
+  - image_path: /assets/images/blog/rupasuara_1.webp
+  - image_path: /assets/images/blog/rupasuara_3.webp
 
 ---
 

@@ -3,7 +3,7 @@ title: "Maestro Indonesia"
 date: 2016-09-19
 last_modified_at: 2026-06-01
 header:
-  teaser: /assets/images/blog/maestro.jpg
+  teaser: /assets/images/blog/maestro.webp
 categories:
   - project
 tags:

@@ -3,7 +3,7 @@ title: Werifesteria
 date: 2025-03-06
 last_modified_at: 2026-06-04
 header:
-  teaser: /assets/images/blog/werifest-cover.jpg
+  teaser: /assets/images/blog/werifest-cover.webp
 methods:
   - self-studio tracking
   - music programming
@@ -71,7 +71,7 @@ Each track immerses listeners more deeply into the story,
 as the *EP* progresses through lush soundscapes that
 mirror the shifting moments of a day in the wild.
 
-![songlist-werifest]({{ site.url }}{{ site.baseurl }}/assets/images/blog/songlist-werifest.png)
+![songlist-werifest]({{ site.url }}{{ site.baseurl }}/assets/images/blog/songlist-werifest.webp)
 
 ## Suita Rimba
 is a three-part composition, based on my
@@ -116,7 +116,7 @@ in the forest.
 **Kodama** and **Tata, Tatum** were featured on Reuben Torino's video work, [Fragments of Home]({% post_url 2025-12-13-fragments %})
 {: .notice--warning}
 
-![werifest-moon]({{ site.url }}{{ site.baseurl }}/assets/images/bg/werifest-moon.jpg)
+![werifest-moon]({{ site.url }}{{ site.baseurl }}/assets/images/bg/werifest-moon.webp)
 
 ## Candrakirana (Clair de lune)
 **Clair de Lune** has always been a special piece for me.

@@ -3,7 +3,7 @@ title: "Fragments of Home"
 date: 2025-12-13
 last_modified_at: 2026-06-04
 header:
-  teaser: /assets/images/blog/fragments.jpg
+  teaser: /assets/images/blog/fragments.webp
 methods:
   - self-studio tracking
   - music programming

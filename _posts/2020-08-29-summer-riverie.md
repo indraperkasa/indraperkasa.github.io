@@ -3,7 +3,7 @@ title: "Summer Riverie"
 date: 2020-08-29
 last_modified_at: 2026-06-12
 header:
-  teaser: /assets/images/blog/summer-riverie.jpg
+  teaser: /assets/images/blog/summer-riverie.webp
 methods:
   - generative patch
   - improvisation

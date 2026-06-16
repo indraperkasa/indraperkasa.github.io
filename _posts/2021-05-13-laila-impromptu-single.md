@@ -3,7 +3,7 @@ title: "Laila's Impromptu feat. Monita Tahalea"
 date: 2021-05-13
 last_modified_at: 2026-06-03
 header:
-  teaser: /assets/images/blog/laila-imp.jpg
+  teaser: /assets/images/blog/laila-imp.webp
 methods:
   - sample mangling
   - improvisation

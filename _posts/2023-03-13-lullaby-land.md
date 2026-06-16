@@ -3,7 +3,7 @@ title: "Lullaby Land"
 date: 2023-03-13
 last_modified_at: 2026-06-05
 header:
-  teaser: /assets/images/blog/lullaby-land.jpg
+  teaser: /assets/images/blog/lullaby-land.webp
 methods:
   - generative patch
   - improvisation

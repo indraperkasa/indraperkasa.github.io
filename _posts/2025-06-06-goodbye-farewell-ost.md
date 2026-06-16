@@ -2,7 +2,7 @@
 title: "Sampai Jumpa, Selamat Tinggal (Original Motion Picture Soundtrack)"
 date: 2025-06-06
 header:
-  teaser: /assets/images/music-prod/ost/goodbye-ost.jpg
+  teaser: /assets/images/music-prod/ost/goodbye-ost.webp
 categories:
   - release
 methods:

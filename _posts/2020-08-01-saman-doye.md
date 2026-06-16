@@ -3,7 +3,7 @@ title: "Saman Doye Housman Pranoto & Lie Indra Perkasa"
 date: 2020-08-01
 last_modified_at: 2026-06-12
 header:
-  teaser: /assets/images/blog/samandoye.jpg
+  teaser: /assets/images/blog/samandoye.webp
 methods:
   - self-studio tracking
   - music programming

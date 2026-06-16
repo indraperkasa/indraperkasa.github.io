@@ -3,7 +3,7 @@ title: "Muon Force"
 date: 2021-08-02
 last_modified_at: 2026-06-03
 header:
-  teaser: /assets/images/music-prod/releases/muon.jpg
+  teaser: /assets/images/music-prod/releases/muon.webp
 categories:
   - release
 moods:

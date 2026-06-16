@@ -7,7 +7,7 @@ excerpt: >
   a collection of nothing specific. a bit here and there.<br />
   <small><a>*sometimes personal related. mostly music related.*</a></small>
 header:
-  overlay_image: /assets/images/banner/lee-wall-banner-flip.jpg
+  overlay_image: /assets/images/banner/lee-wall-banner-flip.webp
   overlay_filter: 0.16
 entries_layout: grid
 classes: wide

@@ -4,7 +4,7 @@ title: "behind the music: <br />
 date: 2011-04-06
 last_modified_at: 2026-06-12
 header:
-  teaser: /assets/images/filmscoring/film-add/serdadu-2011.jpeg
+  teaser: /assets/images/filmscoring/film-add/serdadu-2011.webp
 categories:
   - project
 methods:

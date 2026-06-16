@@ -2,7 +2,7 @@
 title: "Tabula Rasa (Original Motion Picture Soundtrack)"
 date: 2019-08-19
 header:
-  teaser: /assets/images/music-prod/ost/tabula-ost.jpg
+  teaser: /assets/images/music-prod/ost/tabula-ost.webp
 categories:
   - release
 moods:

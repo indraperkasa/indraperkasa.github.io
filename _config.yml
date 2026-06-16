@@ -1,6 +1,3 @@
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
@@ -9,8 +6,8 @@
 
 title: "Gadgadasvara Studio | Indra Perkasa"
 masthead_title: "studio"
-logo: "/assets/images/banner/gadgadasvara-black.png"
-teaser: "/assets/images/bg/gadgadasvara-wall-h.jpg"
+logo: "/assets/images/banner/gadgadasvara-black.webp"
+teaser: "/assets/images/bg/gadgadasvara-wall-h.webp"
 subtitle: "Portfolio, Blog, and Archives"
 name: &name "Indra Perkasa"
 description: &description "Portfolio of Indra Perkasa at Gadgadasvara Studio."
@@ -68,7 +65,7 @@ whitelist:
 
 author:
   name   : "Indra Perkasa"
-  avatar : "/assets/images/ip/ip-yt.jpg"
+  avatar : "/assets/images/ip/ip-yt.webp"
   bio    : "Composer/Music Producer"
   links:
     - label: "Instagram"

@@ -3,7 +3,7 @@ title: "sesi studio Gadgadasvara"
 date: 2023-09-25
 last_modified_at: 2026-06-04
 header:
-  teaser: /assets/images/blog/sesi-studio.jpg
+  teaser: /assets/images/blog/sesi-studio.webp
 categories:
   - project
 methods:

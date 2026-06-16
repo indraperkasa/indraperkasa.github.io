@@ -2,7 +2,7 @@
 title: "Labuan Hati (Original Motion Picture Soundtrack)"
 date: 2020-05-22
 header:
-  teaser: /assets/images/music-prod/ost/labuan-ost.jpg
+  teaser: /assets/images/music-prod/ost/labuan-ost.webp
 categories:
   - release
 moods:

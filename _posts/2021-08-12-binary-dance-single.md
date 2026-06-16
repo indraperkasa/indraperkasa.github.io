@@ -3,7 +3,7 @@ title: "Binary Dance"
 date: 2021-08-12
 last_modified_at: 2026-06-03
 header:
-  teaser: /assets/images/music-prod/releases/binary.jpg
+  teaser: /assets/images/music-prod/releases/binary.webp
 methods:
   - coding
   - generative patch

@@ -4,7 +4,7 @@ title: "Ini Cerita Tentang Jakarta. <br />
 date: 2024-09-18
 last_modified_at: 2026-06-02
 header:
-  teaser: /assets/images/blog/gerak-jkt.jpg
+  teaser: /assets/images/blog/gerak-jkt.webp
 categories:
   - project
 tags:

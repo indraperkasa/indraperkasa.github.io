@@ -3,7 +3,7 @@ title: "Come Together - Ranya Badudu & Indra Perkasa"
 date: 2020-07-19
 last_modified_at: 2026-06-05
 header:
-  teaser: /assets/images/music-prod/releases/indranya-come5.jpg
+  teaser: /assets/images/music-prod/releases/indranya-come5.webp
 methods:
   - self-studio tracking
   - coding

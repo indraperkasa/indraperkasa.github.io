@@ -3,7 +3,7 @@ title: "Nonlinearcircuits NLC Tinkle Jam"
 date: 2022-12-10
 last_modified_at: 2026-06-05
 header:
-  teaser: /assets/images/blog/tinkle-jam.jpg
+  teaser: /assets/images/blog/tinkle-jam.webp
 methods:
   - generative patch
 tools:

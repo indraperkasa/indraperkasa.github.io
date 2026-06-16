@@ -4,7 +4,7 @@ title: "Bedah Lagu: Laila - Monita Tahalea <br />
 date: 2020-05-15
 last_modified_at: 2026-06-07
 header:
-  teaser: /assets/images/blog/deconstruct.jpg
+  teaser: /assets/images/blog/deconstruct.webp
 categories:
   - blog
 tags:
