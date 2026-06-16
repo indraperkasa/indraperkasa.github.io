@@ -89,7 +89,7 @@ filmscore2:
   - image_path: /assets/images/filmscoring/film-add/timur-2025.webp
     title: "Timur (2025)"
     url: "https://www.imdb.com/title/tt37344163/"
-  - image_path: /assets/images/filmscoring/film-add/Lafran-2024.webp
+  - image_path: /assets/images/filmscoring/film-add/lafran-2024.webp
     title: "Lafran (2024)"
     url: "https://www.imdb.com/title/tt31250833/"
   - image_path: /assets/images/filmscoring/film-add/sengkolo-2024.webp
