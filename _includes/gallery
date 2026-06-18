@@ -21,11 +21,15 @@
     {% if img.url %}
       <a href="{{ img.url | relative_url }}"
         {% if img.title %}title="{{ img.title | escape_once }}" target="_blank" rel="noopener noreferrer" {% endif %}>
-          <img src="{{ img.image_path | relative_url }}"
+          <img loading="lazy"
+               decoding="async"
+               src="{{ img.image_path | relative_url }}"
                alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}">
       </a>
     {% else %}
-      <img src="{{ img.image_path | relative_url }}"
+      <img loading="lazy"
+           decoding="async"
+           src="{{ img.image_path | relative_url }}"
            alt="{% if img.alt %}{{ img.alt | escape_once }}{% endif %}">
     {% endif %}
   {% endfor %}
