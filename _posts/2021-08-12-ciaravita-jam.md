@@ -3,7 +3,7 @@ title: "//ciaravita - a Crow Druid Jam"
 date: 2021-08-21
 last_modified_at: 2026-06-04
 header:
-  teaser: /assets/images/blog/ciaravita-jam.webp
+  teaser: /assets/images/blog/cia-nimate.webp
 methods:
   - coding
   - generative patch

@@ -3,7 +3,7 @@ title: "collisiiions"
 date: 2026-04-23
 last_modified_at: 2026-06-01
 header:
-  teaser: /assets/images/blog/collisiiions-take-1.webp
+  teaser: /assets/images/blog/coliiimation.webp
 methods:
   - coding
 tools:
@@ -18,6 +18,10 @@ tags:
   - grid
 excerpt: an iii script for monome grid
 ---
-![collisiiions-take-1]({{ site.url }}{{ site.baseurl }}/assets/images/blog/collisiiions-take-1.webp)
 
-this is collisiiions. my first iii script for monome grid. based on the famous bouncing ball p5js tutorial.
+this is collisiiions. my first iii script for monome grid. based on the famous bouncing ball p5js tutorial. 
+
+{% include video id="3B8TEzSuYHk" provider="youtube" %}
+
+link to the repo [here](https://github.com/indraperkasa/coliiisions)
+

@@ -3,7 +3,7 @@ title: Borneo's Dream - Live at Kios Ojo Keos
 date: 2019-04-19
 last_modified_at: 2026-06-04
 header:
-  teaser: /assets/images/blog/borneo.webp
+  teaser: /assets/images/blog/borneo-1.webp
 methods:
   - improvisation
   - generative patch

@@ -4,7 +4,7 @@ title: "Sound of X Jakarta: Invisible Comfort <br/>
 date: 2021-07-16
 last_modified_at: 2026-06-01
 header:
-  teaser: /assets/images/blog/ic-teaser.webp
+  teaser: /assets/images/blog/tape-animation.webp
 methods:
   - soundscape recording
   - self-studio tracking
