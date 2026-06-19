@@ -1,0 +1,85 @@
+songs:
+  - image_path: /assets/images/music-prod/monita-merona.webp
+    title: "Merona - Monita Tahalea"
+    url: "https://open.spotify.com/album/1xiA60viK8rSTM6fEk5Wx7"
+  - image_path: /assets/images/music-prod/bandaneira-tumbuh.webp
+    title: "Tumbuh dan Menjadi - Banda Neira"
+    url: "https://open.spotify.com/album/1iIEfFBj0EbKakft7H6G4M"
+  - image_path: /assets/images/music-prod/akhir-kisahmu.webp
+    title: "Akhir Kisahmu (Original Soundtrack) - Orion 001"
+    url: "https://open.spotify.com/album/6fUomwEVgmVBeI6EYAR1I4"
+  - image_path: /assets/images/music-prod/angkat-dan-rayakan.webp
+    title: "Angkat dan Rayakan - Ananda Badudu"
+    url: "https://open.spotify.com/album/2TiNwyczQx0VROnpkO2lXb"
+  - image_path: /assets/images/music-prod/hirup.webp
+    title: "Hiruplah Hidup - Ananda Badudu"
+    url: "https://open.spotify.com/track/3pkC5uoScN5dMz0Gr662Xj"
+  - image_path: /assets/images/music-prod/lantun-mustahil.webp
+    title: "Lantun Mustahil - Silampukau"
+    url: "https://open.spotify.com/album/0I5lhh9Wg9Zy1U3bzB96oD"
+  - image_path: /assets/images/music-prod/mld-jazz-s3.webp
+    title: "Di Dadaku Ada Kamu - MLD Jazz Project"
+    url: "https://open.spotify.com/track/2MBqMt9OVHt4TPNYMmUCyH?si=5fe7fcb56e724234"
+  - image_path: /assets/images/music-prod/metamorfosa.webp
+    title: "Metamorfosa - Andien"
+    url: "https://open.spotify.com/track/4NNPlfvtIs3RhGgdZGwyCp?si=666bf6e90020425f"
+  - image_path: /assets/images/music-prod/masih-ada.webp
+    title: "Masih Ada Lagi (Orchestra Version) - Ermy Kullit"
+    url: "https://open.spotify.com/track/5c4uWXRwQkQ2Xa7qyj99sr?si=fa6aa9f0dba84681"
+  - image_path: /assets/images/music-prod/sayonara-sq.webp
+    title: "Sayonara - Monita Tahalea"
+    url: "https://www.youtube.com/watch?v=kIN95W84zP0"
+  - image_path: /assets/images/music-prod/monita-jendela.webp
+    title: "Dari Balik Jendela - Monita Tahalea"
+    url: "https://open.spotify.com/album/1nKafNUrZbCUjIAZ79VTRJ"
+  - image_path: /assets/images/music-prod/tigadara.webp
+    title: "Aransemen Ulang Lagu Orisinil Dari Film - Tiga Dara"
+    url: "https://open.spotify.com/album/3PU8GeQgJoYBBjhFbo3lFG"
+
+ost:
+  - image_path: /assets/images/music-prod/ost/ghost-ost.webp
+    title: "Ghost in the Cell (2026) - Tomorrow People Ensemble feat. Bass G"
+    alt: "a film by<br>Joko Anwar"
+    url: "https://open.spotify.com/track/5jdHIll0RE3Fj2XEdKZaCV?si=c4e675385e934e05"
+  - image_path: /assets/images/music-prod/ost/goodbye-ost.webp
+    title: "Sampai Jumpa, Selamat Tinggal (2024)"
+    alt: "a film by<br>Adriyanto Dewo"
+    url: "/release/goodbye-farewell-ost"
+  - image_path: /assets/images/music-prod/ost/bajingan-ost.webp
+    title: "Bangun, Bajingan - Ananda Badudu, Rubina, Dave Lumenta"
+    alt: "a film by<br>Edwin"
+    url: "https://open.spotify.com/album/6tmx8GwnMWIWsFAVNPycC3"
+  - image_path: /assets/images/music-prod/ost/banda-ost.webp
+    title: "Banda the Dark Forgotten Trail (2017)"
+    alt: "a film by<br>Jay Subyakto"
+    url: "/release/banda-ost"
+  - image_path: /assets/images/music-prod/ost/labuan-ost.webp
+    title: "Labuan Hati (2017)"
+    alt: "a film by<br>Lola Amaria"
+    url: "/release/labuan-ost"
+  - image_path: /assets/images/music-prod/ost/tabula-ost.webp
+    title: "Tabula Rasa (2014)"
+    alt: "a film by<br>Adriyanto Dewo"
+    url: "/release/tabula-rasa-ost"
+  - image_path: /assets/images/music-prod/ost/janji-joni-ost.webp
+    title: "Janji Joni (2005)"
+    alt: "a film by<br>Joko Anwar"
+    url: "https://www.discogs.com/master/1053386-Various-Original-Soundtrack-Janji-Joni"
+
+concert:
+  - image_path: /assets/images/music-prod/konser-tumbuh.webp
+    title: "Konser Tumbuh dan Menjadi (2026) - Banda Neira"
+  - image_path: /assets/images/music-prod/konser-merona.webp
+    title: "Konser Merona (2026) - Monita Tahalea"
+  - image_path: /assets/images/music-prod/pada-waktu.webp
+    title: "Konser Pada Waktu - Monita Tahalea dan Ananda Badudu"
+
+theater:
+  - image_path: /assets/images/music-prod/stages/mala2.webp
+    title: "Laksamana Malahayati (2023)"
+    post: bts-mala
+  - image_path: /assets/images/music-prod/stages/little-pony-musical.webp
+    title: "My Little Pony - Rainbow Rocks (2016)"
+    url: "https://www.cosmopolitan.co.id/article/read/11/2016/10973/my-little-pony-musical-pertama-di-dunia-kini-di-jakarta"
+  - image_path: /assets/images/music-prod/stages/onrop.webp
+    title: "ONROP! Musikal (2010)"

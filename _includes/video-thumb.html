@@ -1,0 +1,16 @@
+<a href="https://youtu.be/{{ include.id }}"
+   target="_blank"
+   rel="noopener noreferrer"
+   class="video-thumb">
+
+  <img
+    loading="lazy"
+    decoding="async"
+    src="https://img.youtube.com/vi/{{ include.id }}/hqdefault.jpg"
+    alt="{{ include.title | default: 'YouTube Video' }}">
+
+</a>
+
+{% if include.title %}
+  <p class="video-caption">{{ include.title }}</p>
+{% endif %}

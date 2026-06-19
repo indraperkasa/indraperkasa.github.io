@@ -1,0 +1,131 @@
+works_title: FILM / TV SERIES
+subtitle: \composer <br><small>scoring works as the main composer</small>
+main:
+  - image_path: /assets/images/filmscoring/swaradwipa.webp
+    title: "Swaradwipa:<br>Di Antara Bunyi dan Sunyi di Jagat Sumba (2025)"
+    alt: "a film by<br>Titi Radjo Padmaja "
+    url: "https://www.krjogja.com/film-selebrita/1246928190/film-dokumenter-swaradwipa-di-antara-sunyi-dan-bunyi-jungga-di-jagat-sumba"
+  - image_path: /assets/images/filmscoring/butterfly-2025.webp
+    title: "The Butterfly House (2025)"
+    alt: "a film by<br>Paul Agusta"
+    url: "https://www.imdb.com/title/tt33092411/"
+  - image_path: /assets/images/filmscoring/goodbye-2024.webp
+    title: "Goodbye, Farewell (2024)"
+    alt: "a film by<br>Adriyanto Dewo"
+    url: "https://www.imdb.com/title/tt33512869/"
+  - image_path: /assets/images/filmscoring/panduan-2022.webp
+    title: "Panduan Mempersiapkan Perpisahan (2022)"
+    alt: "a film by<br>Adriyanto Dewo"
+    url: "https://www.imdb.com/title/tt24517860/"
+  - image_path: /assets/images/filmscoring/dilema-2022.webp
+    title: "Dilema (2022)"
+    alt: "a web series by<br>Rachmania Arunita"
+    url: "https://www.imdb.com/title/tt20873518/"
+  - image_path: /assets/images/filmscoring/homecoming-2019.webp
+    title: "Mudik (2019)"
+    alt: "a film by<br>Adriyanto Dewo"
+    url: "https://id.wikipedia.org/wiki/Mudik_(film)"
+  - image_path: /assets/images/filmscoring/bebas.webp
+    title: "Bebas (2019)"
+    alt: "a film by<br>Riri Riza"
+    url: "https://www.imdb.com/title/tt10656240/"
+  - image_path: /assets/images/filmscoring/6-9detik-2019.webp
+    title: "6,9 detik (2019)"
+    alt: "a film by<br>Lola Amaria and Tika Pramesti"
+    url: "https://www.imdb.com/title/tt10840160/"
+  - image_path: /assets/images/filmscoring/semesta-2018.webp
+    title: "Semesta (2018)"
+    alt: "a film by<br>Chairun Nissa"
+    url: "https://www.imdb.com/title/tt9096988/"
+  - image_path: /assets/images/filmscoring/returning-2018.webp
+    title: "The Returning (2018)"
+    alt: "a film by<br>Witra Asliga"
+    url: "https://www.imdb.com/title/tt9096988/"
+  - image_path: /assets/images/filmscoring/lima-2018.webp
+    title: "Lima (2018)"
+    alt: "a film by<br>Lola Amaria, Shalahuddin Siregar, Tika Pramesti, Harvan Agustriansyah, and Adriyanto Dewo"
+    url: "https://www.imdb.com/title/tt8492176/"
+  - image_path: /assets/images/filmscoring/banda.webp
+    title: "Banda the Dark Forgotten Trail (2017)"
+    alt: "a film by<br>Jay Subyakto"
+    url: "https://www.imdb.com/title/tt7131752/"
+  - image_path: /assets/images/filmscoring/labuan-2017.webp
+    title: "Labuan Hati (2017)"
+    alt: "a film by<br>Lola Amaria"
+    url: "https://www.imdb.com/title/tt6786150/"
+  - image_path: /assets/images/filmscoring/memoria-2016.webp
+    title: "Memoria (2016)"
+    alt: "a film by<br>Kamila Andini"
+    url: "https://www.mubi.com/en/id/films/memoria-2016/"
+  - image_path: /assets/images/filmscoring/tabula-rasa-2014.webp
+    title: "Tabula Rasa (2014)"
+    alt: "a film by<br>Adriyanto Dewo"
+    url: "https://www.imdb.com/title/tt3694000/"
+
+additional:
+  - image_path: /assets/images/filmscoring/film-add/timur-2025.webp
+    title: "Timur (2025)"
+    url: "https://www.imdb.com/title/tt37344163/"
+  - image_path: /assets/images/filmscoring/film-add/lafran-2024.webp
+    title: "Lafran (2024)"
+    url: "https://www.imdb.com/title/tt31250833/"
+  - image_path: /assets/images/filmscoring/film-add/sengkolo-2024.webp
+    title: "Sengkolo: Malam Satu Suro (2024)"
+    url: "https://www.imdb.com/title/tt29795485/"
+  - image_path: /assets/images/filmscoring/film-add/pusaka-2024.webp
+    title: "Pusaka (2024)"
+    url: "https://www.imdb.com/title/tt29795484/"
+  - image_path: /assets/images/filmscoring/film-add/Argantara-2022.webp
+    title: "Argantara (2024)"
+  - image_path: /assets/images/filmscoring/film-add/kajiman-2023.webp
+    title: "Kajiman (2023)"
+    url: "https://www.imdb.com/title/tt27526182/"
+  - image_path: /assets/images/filmscoring/film-add/gol2.webp
+    title: "Gangs of London - Season 2 (2022)"
+    url: "https://www.imdb.com/title/tt7661390/"
+  - image_path: /assets/images/filmscoring/film-add/matabatin2-2019.webp
+    title: "Mata Batin 2 (2019)"
+    url: "https://www.imdb.com/title/tt8890582/"
+  - image_path: /assets/images/filmscoring/film-add/cahaya-2014.webp
+    title: "Cahaya Dari Timur - Beta Maluku (2014)"
+    url: "https://www.imdb.com/title/tt3813456/"
+  - image_path: /assets/images/filmscoring/film-add/12menit-2014.webp
+    title: "12 Menit Untuk Selamanya (2014)"
+    url: "https://www.imdb.com/title/tt3168514/"
+  - image_path: /assets/images/filmscoring/film-add/9summers-2013.webp
+    title: "9 Summers 10 Autumns (2013)"
+    url: "https://www.imdb.com/title/tt2911900/"
+  - image_path: /assets/images/filmscoring/film-add/serdadu-2011.webp
+    title: "Serdadu Kumbang (2011)"
+    url: "https://www.imdb.com/title/tt2062636/"
+  - image_path: /assets/images/filmscoring/film-add/tanahbeta-2010.webp
+    title: "Tanah Air Beta (2010)"
+    url: "https://www.imdb.com/title/tt1672847/"
+  - image_path: /assets/images/filmscoring/film-add/minggu-2010.webp
+    title: "Minggu Pagi di Victoria Park (2010)"
+    url: "https://www.imdb.com/title/tt1679238/"
+  - image_path: /assets/images/filmscoring/flooding.webp
+    title: "Banjir Kemarau (2010)"
+    alt: "a film by Sherman Ong"
+    url: "https://www.imdb.com/title/tt3397876/"
+  - image_path: /assets/images/filmscoring/film-add/bebek-2010.webp
+    title: "Bebek Belur (2010)"
+    alt: "a film by Adrianto Sinaga"
+    url: "https://www.imdb.com/title/tt1631681/"
+  - image_path: /assets/images/filmscoring/film-add/garuda-2009.webp
+    title: "Garuda di Dadaku (2009)"
+    url: "https://www.imdb.com/title/tt1445022/"
+  - image_path: /assets/images/filmscoring/film-add/king-2009.webp
+    title: "King (2009)"
+    url: "https://www.imdb.com/title/tt1462546/"
+  - image_path: /assets/images/filmscoring/film-add/pemimpi-2009.webp
+    title: "Sang Pemimpi (2009)"
+    url: "https://www.imdb.com/title/tt1576459/"
+  - image_path: /assets/images/filmscoring/film-add/queen-2009.webp
+    title: "Queen Bee (2009)"
+    alt: "a film by Fajar Nugros"
+    url: "https://www.imdb.com/title/tt1445097/"
+  - image_path: /assets/images/filmscoring/film-add/6-30-2006.webp
+    title: "6.30 (2006)"
+    alt: "a film by Rinaldy Puspoyo"
+    url: "https://www.imdb.com/title/tt0839716/"

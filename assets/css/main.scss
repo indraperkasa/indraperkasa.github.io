@@ -38,7 +38,42 @@ $masthead-link-color-hover: #4682B4;
   }
 }
 .video-caption {
-  font-size: 0.7em;
+  font-size: 0.6rem;
+  font-weight: 300;
+  line-height: 1.4;
+  margin-top: 0.5rem;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+// Video Thumbnail
+.video-thumb img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 3px;
+}
+.video-thumb {
+  position: relative;
+  display: block;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+.video-thumb::after {
+  content: "▶";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: white;
+  font-size: 3.5rem;
+  pointer-events: none;
+  opacity: 0.3;
+  transition: opacity 0.2s ease;
+}
+.video-thumb:hover::after {
+  opacity: 1;
 }
 
 // in home page, force 2 row per poster on phone.
@@ -88,6 +123,17 @@ $masthead-link-color-hover: #4682B4;
   // color: rgb(90, 63, 9);
 }
 
+// offsetting home page table of content
+.page__content :is(h1, h2, h3, h4)[id]::before {
+  content: "";
+  display: block;
+  height: 50px;
+  margin-top: -50px;
+  visibility: hidden;
+  pointer-events: none;
+
+}
+
 // putting Categories, Tags, Platform, Devices on top.
 .page__meta {
   font-size: 0.85em;
@@ -119,4 +165,97 @@ $masthead-link-color-hover: #4682B4;
 // solving Category page, jump to title issue.
 .entries-grid {
   display: flow-root;
+}
+
+////// Scoring-Works page template
+// 2 row grid style
+// .filmography-grid {
+//   display: grid;
+//   grid-template-columns: repeat(2, 1fr);
+//   gap: 1.5rem;
+// }
+// .filmography-item img {
+//   width: 100%;
+//   max-width: 180px;
+//   height: auto;
+// }
+// .filmography-item {
+//   text-align: center;
+// }
+
+////// IMDB grid style
+// .filmography-grid {
+//   display: grid;
+//   grid-template-columns: repeat(2, 1fr);
+//   gap: 1rem;
+// }
+// .filmography-item {
+//   display: flex;
+//   gap: 1rem;
+//   align-items: flex-start;
+// }
+// .filmography-item img {
+//   width: 100px;
+//   height: auto;
+// }
+
+////// Responsive style
+// .filmography-grid {
+//   display: grid;
+//   grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+//   gap: 1.5rem;
+// }
+// .filmography-item img {
+//   width: 80%;
+//   height: auto;
+// }
+
+// Scoring Works
+.filmography-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+@media (min-width: 768px) {
+  .filmography-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+.filmography-item p {
+  margin-top: 0.5rem;
+}
+.filmography-alt {
+  font-size: 0.78rem;
+  color: #666;
+  opacity: 0.8;
+}
+.filmography-title {
+  font-size: 0.9rem;
+  font-weight: 480;
+  line-height: 0.5;
+}
+
+// Music Production
+.music-production-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1rem;
+}
+@media (min-width: 768px) {
+  .music-production-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+.music-production-item p {
+  margin-top: 0.5rem;
+}
+.music-production-title {
+  font-size: 0.9rem;
+  font-weight: 480;
+  line-height: 0.5;
+}
+.music-production-alt {
+  font-size: 0.78rem;
+  color: #666;
+  opacity: 0.8;
 }

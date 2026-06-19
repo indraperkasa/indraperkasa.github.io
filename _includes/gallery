@@ -1,7 +1,9 @@
-{% if include.id %}
+{% if include.gallery %}
+  {% assign gallery = include.gallery %}
+{% elsif include.id %}
   {% assign gallery = page[include.id] %}
 {% else %}
-  {% assign gallery = page.gallery %}
+{%  assign gallery = page.gallery %}
 {% endif %}
 
 {% if include.layout %}
@@ -16,8 +18,10 @@
   {% endif %}
 {% endif %}
 
+{% assign gallery_limit = include.limit|default:gallery.size %}
+
 <figure class="{{ gallery_layout }} {{ include.class }}">
-  {% for img in gallery %}
+  {% for img in gallery limit:gallery_limit %}
     {% if img.url %}
       <a href="{{ img.url | relative_url }}"
         {% if img.title %}title="{{ img.title | escape_once }}" target="_blank" rel="noopener noreferrer" {% endif %}>
