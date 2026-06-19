@@ -2,7 +2,7 @@
 title: SCORING-WORKS <i class="fa-solid fa-photo-film"></i><i class="fa-solid fa-music"></i>
 permalink: /scoring-works/
 excerpt: >
-  s c r e e n s.<br />
+  screens.<br />
   <a>*archives of my scoring journey through out the years.*</a><br />
   <small>for music-production check out the link below.</small>
 header:

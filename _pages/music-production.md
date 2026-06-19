@@ -2,7 +2,7 @@
 title: MUSIC-PRODUCTION <i class="fa-solid fa-radio"></i><i class="fa-solid fa-music"></i>
 permalink: /music-production/
 excerpt: >
-  s o n g s.<br />
+  songs & stages.<br />
   <a>*archives of my music production journey through out the years.*</a><br />
   <small>for scoring-works check out the link below.</small>
 header:

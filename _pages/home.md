@@ -2,7 +2,7 @@
 title : MUSIC-WORKS <i class="fa-solid fa-guitar"></i>
 permalink: /
 excerpt: >
-  screens, stages, and songs.<br />
+  screens, songs & stages.<br />
   <small><a>*archives of my musical journey. an attempt to remember.<br />
   where i came from, and where i'm going.*</a></small>
 header:
