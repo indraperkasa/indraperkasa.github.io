@@ -24,7 +24,10 @@ tags:
 excerpt: a video work by Reuben Tourino
 ---
 
-{% include video id="4Dwpo4l2YTE" provider="youtube" %}
-Blurred lines of familiar shapes. a video composition by Reuben Tourino.
+<div class="video-gallery__item">
+    {% include video-thumb.html
+       id="4Dwpo4l2YTE"
+       title="Blurred lines of familiar shapes. a video composition by Reuben Tourino." %}
+  </div>
 
 featuring tracks from [Werifesteria]({% post_url 2025-03-06-werifesteria-ep %}).

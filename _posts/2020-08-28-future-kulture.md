@@ -67,6 +67,10 @@ fk10:
     image_path: /assets/images//blog/ip-fk10-13.webp
     alt: "ip-fk10-13"
     title: "ip-fk10-13"
+  - url: /assets/images//blog/ip-fk10-13.webp
+    image_path: /assets/images//blog/ip-fk10-14.webp
+    alt: "ip-fk10-14"
+    title: "ip-fk10-14"
   - url: /assets/images//blog/ip-fk10-15.webp
     image_path: /assets/images//blog/ip-fk10-15.webp
     alt: "ip-fk10-15"
@@ -100,18 +104,19 @@ fk10:
     alt: "ip-fk10-23"
     title: "ip-fk10-23"
 excerpt: live performance at futurekulture10.
-classes: wide
 ---
 
-{% include figure popup=true image_path="/assets/images/blog/ip-fk10-14.webp" alt="ip-fk10-14" caption="**Future Kulture** Live Performance at Melodia Store" %}
-
+<div class="video-gallery__item">
+    {% include video-thumb.html
+       id="Oz1bapR_PIA"
+       title="The Commnue - Future Kulture" %}
+  </div>
 
 i remember i was exploring feedback patch using mimeophon, with cv source from ornament and crime's chaos. really love that sound!
 
-unfortunately the video cannot be embed, since it got 18+ sponsor kinda thing.
-[here's the link to watch on youtube](https://www.youtube.com/watch?v=Oz1bapR_PIA)
-
 ---
+
+### Future Kulture Gallery
 
 {% include gallery id="fk10" caption="**Future Kulture** Gallery." %}
 

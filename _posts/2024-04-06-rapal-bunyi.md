@@ -3,7 +3,7 @@ title: "studi rapal bunyi"
 date: 2024-04-06
 last_modified_at: 2026-06-04
 header:
-  teaser: /assets/images/blog/rapalbunyi.webp
+  teaser: /assets/images/blog/rapal-animate.webp
 methods:
   - generative patch
   - open sound control

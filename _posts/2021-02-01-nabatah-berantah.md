@@ -3,7 +3,7 @@ title: "Nabatah Berantah"
 date: 2021-02-01
 last_modified_at: 2026-06-12
 header:
-  teaser: /assets/images/blog/nabatah.webp
+  teaser: /assets/images/blog/nabatah-anima.webp
 methods:
   - generative patch
   - improvisation
